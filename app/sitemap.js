@@ -1,5 +1,7 @@
 import { getSortedPostsData } from '@/lib/posts';
 
+export const dynamic = 'force-static';
+
 export default function sitemap() {
     const allPosts = getSortedPostsData();
     const baseUrl = 'https://your-domain.com'; // Replace with actual domain
