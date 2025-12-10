@@ -93,7 +93,7 @@ export default async function ArticlePage({ params }) {
                     {article.tags && article.tags.length > 0 && (
                         <div className={styles.tags}>
                             {article.tags.map(tag => (
-                                <Link key={tag} href={`/tag/${tag}`} className={styles.tag}>
+                                <Link key={tag} href={`/tag/${tag.toLowerCase()}`} className={styles.tag}>
                                     #{tag}
                                 </Link>
                             ))}

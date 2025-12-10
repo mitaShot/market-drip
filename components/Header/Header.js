@@ -14,9 +14,7 @@ export default function Header() {
                     <Link href="/category/banking" className={styles.link}>Banking</Link>
                     <Link href="/category/credit-cards" className={styles.link}>Credit Cards</Link>
                 </nav>
-                <div className={styles.actions}>
-                    <button className={styles.loginBtn}>Sign In</button>
-                </div>
+
             </div>
         </header>
     );
