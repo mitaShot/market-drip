@@ -1,0 +1,121 @@
+.header {
+    background-color: var(--color-background-light);
+    padding: 4rem 0;
+    margin-bottom: 2rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    color: var(--color-primary-dark);
+    font-size: 0.9rem;
+}
+
+.backLink:hover {
+    text-decoration: underline;
+}
+
+.category {
+    display: block;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--color-text-main);
+    line-height: 1.2;
+}
+
+.meta {
+    font-size: 1rem;
+    color: var(--color-text-secondary);
+    display: flex;
+    gap: 1.5rem;
+}
+
+.contentContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 5rem;
+}
+
+.image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 3rem;
+}
+
+.body {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--color-text-main);
+}
+
+.body p {
+    margin-bottom: 1.5rem;
+}
+
+.body h2 {
+    font-size: 1.75rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 2rem;
+}
+
+.body blockquote {
+    border-left: 4px solid var(--color-primary-dark);
+    padding-left: 1.5rem;
+    font-style: italic;
+    font-size: 1.25rem;
+    color: var(--color-primary-dark);
+    margin: 2rem 0;
+    background: var(--color-background-light);
+    padding: 1.5rem;
+    border-radius: 0 8px 8px 0;
+}
+
+/* Tag Styles */
+.tags {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.tag {
+    background-color: var(--color-primary-dark);
+    color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+
+.tag:hover {
+    background-color: var(--color-accent);
+    transform: translateY(-2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

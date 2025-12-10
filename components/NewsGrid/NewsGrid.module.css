@@ -1,0 +1,15 @@
+.section {
+    padding: 4rem 0;
+}
+
+.heading {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: var(--color-text-main);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
