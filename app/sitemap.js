@@ -4,7 +4,7 @@ export const dynamic = 'force-static';
 
 export default function sitemap() {
     const allPosts = getSortedPostsData();
-    const baseUrl = 'https://your-domain.com'; // Replace with actual domain
+    const baseUrl = 'https://market-drip.pages.dev'; // Updated domain
 
     const posts = allPosts.map((post) => ({
         url: `${baseUrl}/article/${post.id}`,

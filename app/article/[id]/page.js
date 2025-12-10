@@ -69,7 +69,7 @@ export default async function ArticlePage({ params }) {
         author: [{
             '@type': 'Person',
             name: article.author,
-            url: `https://your-domain.com/author/${article.author.replace(' ', '-').toLowerCase()}` // Optional: link to author page
+            url: `https://market-drip.pages.dev/author/${article.author.replace(' ', '-').toLowerCase()}` // Optional: link to author page
         }],
         description: article.excerpt,
     };
