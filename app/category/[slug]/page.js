@@ -23,10 +23,21 @@ export default async function CategoryPage({ params }) {
     const categoryName = getCategoryName(slug);
     const allPosts = getSortedPostsData();
 
-    // Filter. Category in MD is strict string.
-    const filteredArticles = allPosts.filter(article =>
-        article.category && article.category.toLowerCase() === categoryName.toLowerCase()
-    );
+    // Filter. Category can now be an object { en: "Stocks", ko: "주식" }
+    const filteredArticles = allPosts.filter(article => {
+        if (!article.category) return false;
+
+        // Handle both string (legacy) and object (new i18n) formats
+        if (typeof article.category === 'string') {
+            return article.category.toLowerCase() === categoryName.toLowerCase();
+        }
+
+        // Check all language variations
+        const categoryValues = Object.values(article.category);
+        return categoryValues.some(cat =>
+            cat && cat.toLowerCase() === categoryName.toLowerCase()
+        );
+    });
 
     return (
         <main>

@@ -1,25 +1,31 @@
+
+"use client";
+
 import Link from 'next/link';
 import styles from './Hero.module.css';
+import { useLanguage } from '@/context/LanguageContext';
 
 export default function Hero() {
+    const { t } = useLanguage();
+
     const categories = [
-        { name: 'Stocks', path: '/tag/stocks' },
-        { name: 'Dividends', path: '/tag/dividends' },
-        { name: 'Retirement', path: '/tag/retirement' },
-        { name: 'Banking', path: '/tag/banking' },
-        { name: 'Crypto', path: '/tag/crypto' },
+        { name: t('categories.Stocks'), path: '/tag/stocks' },
+        { name: t('categories.Dividends'), path: '/tag/dividends' },
+        { name: t('categories.Retirement'), path: '/tag/retirement' },
+        { name: t('categories.Banking'), path: '/tag/banking' },
+        { name: t('categories.Crypto'), path: '/tag/crypto' },
     ];
 
     return (
         <section className={styles.hero}>
             <div className={`container ${styles.container}`}>
-                <h1 className={styles.title}>Investing</h1>
+                <h1 className={styles.title}>{t('hero.title')}</h1>
                 <p className={styles.subtitle}>
-                    Smart investing is about patience and perspective. We help you make decisions with your money that you can feel good about.
+                    {t('hero.subtitle')}
                 </p>
                 <div className={styles.chips}>
                     {categories.map((cat) => (
-                        <Link key={cat.name} href={cat.path} className={styles.chip}>
+                        <Link key={cat.path} href={cat.path} className={styles.chip}>
                             {cat.name}
                         </Link>
                     ))}

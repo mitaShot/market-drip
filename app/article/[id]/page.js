@@ -1,6 +1,7 @@
 import { getAllPostIds, getPostData } from '@/lib/posts';
 import styles from './page.module.css';
 import Link from 'next/link';
+import ArticleViewer from '@/components/ArticleViewer/ArticleViewer';
 
 export async function generateStaticParams() {
     const paths = getAllPostIds();
@@ -18,29 +19,39 @@ export async function generateMetadata({ params }) {
         }
     }
 
+    const getMetadataValue = (obj) => {
+        if (typeof obj === 'string') return obj;
+        if (!obj) return '';
+        return obj.en || Object.values(obj)[0] || '';
+    };
+
+    const title = getMetadataValue(article.title);
+    const excerpt = getMetadataValue(article.excerpt);
+    const author = getMetadataValue(article.author);
+
     return {
-        title: `${article.title} | Market Drip`,
-        description: article.excerpt,
+        title: `${title} | Market Drip`,
+        description: excerpt,
         openGraph: {
-            title: article.title,
-            description: article.excerpt,
+            title: title,
+            description: excerpt,
             images: [
                 {
                     url: article.image,
                     width: 800,
                     height: 600,
-                    alt: article.title,
+                    alt: title,
                 }
             ],
             type: 'article',
             publishedTime: article.date,
-            authors: [article.author],
+            authors: [author],
             tags: article.tags,
         },
         twitter: {
             card: 'summary_large_image',
-            title: article.title,
-            description: article.excerpt,
+            title: title,
+            description: excerpt,
             images: [article.image],
         },
     }
@@ -51,9 +62,10 @@ export default async function ArticlePage({ params }) {
     const { id } = await params;
     console.log('Fetching article id:', id);
     const article = await getPostData(id);
-    console.log('Article fetched:', article ? article.title : 'Not found');
-    console.log('Content HTML length:', article?.contentHtml?.length);
-    console.log('Content HTML snippet:', article?.contentHtml?.substring(0, 100));
+    console.log('Article fetched:', article ? (article.title.en || Object.values(article.title)[0]) : 'Not found');
+    // ContentHtml is an object now { en: "...", ko: "..." }
+    const contentEn = article?.contentHtml?.en || Object.values(article?.contentHtml || {})[0];
+    console.log('Content HTML length (en):', contentEn?.length);
 
     if (!article) {
         return <div className="container">Article not found</div>;
@@ -62,16 +74,16 @@ export default async function ArticlePage({ params }) {
     const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'NewsArticle',
-        headline: article.title,
+        headline: article.title.en || Object.values(article.title)[0], // Fallback for SEO
         image: [article.image],
         datePublished: article.date,
         dateModified: article.date,
         author: [{
             '@type': 'Person',
-            name: article.author,
-            url: `https://market-drip.pages.dev/author/${article.author.replace(' ', '-').toLowerCase()}` // Optional: link to author page
+            name: article.author.en || Object.values(article.author)[0],
+            url: `https://market-drip.pages.dev/author/team`
         }],
-        description: article.excerpt,
+        description: article.excerpt.en || Object.values(article.excerpt)[0],
     };
 
     return (
@@ -80,33 +92,7 @@ export default async function ArticlePage({ params }) {
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
             />
-            <header className={styles.header}>
-                <div className="container">
-                    <Link href={`/category/${article.category.toLowerCase()}`} className={styles.categoryBack}>
-                        &larr; Back to {article.category}
-                    </Link>
-                    <h1 className={styles.title}>{article.title}</h1>
-                    <div className={styles.meta}>
-                        <span className={styles.author}>By {article.author}</span>
-                        <span className={styles.date}>{article.date}</span>
-                    </div>
-                    {article.tags && article.tags.length > 0 && (
-                        <div className={styles.tags}>
-                            {article.tags.map(tag => (
-                                <Link key={tag} href={`/tag/${tag.toLowerCase()}`} className={styles.tag}>
-                                    #{tag}
-                                </Link>
-                            ))}
-                        </div>
-                    )}
-                </div>
-            </header>
-            <div className={`container ${styles.contentContainer}`}>
-                <img src={article.image} alt={article.title} className={styles.image} />
-                <div className={styles.body}>
-                    <div dangerouslySetInnerHTML={{ __html: article.contentHtml }} />
-                </div>
-            </div>
+            <ArticleViewer article={article} />
         </article>
     );
 }
