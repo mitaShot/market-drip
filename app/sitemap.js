@@ -13,7 +13,7 @@ export default function sitemap() {
         priority: 0.7,
     }));
 
-    const categories = ['stocks', 'retirement', 'banking', 'credit-cards'].map((cat) => ({
+    const categories = ['stocks', 'etf', 'crypto', 'ai'].map((cat) => ({
         url: `${baseUrl}/category/${cat}`,
         lastModified: new Date(),
         changeFrequency: 'daily',
