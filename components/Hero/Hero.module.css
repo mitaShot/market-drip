@@ -1,5 +1,9 @@
 .hero {
     background-color: var(--color-primary-dark);
+    background-image: url('/hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: var(--color-white);
     padding: 4rem 0 3rem;
     text-align: center;

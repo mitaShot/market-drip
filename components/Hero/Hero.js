@@ -11,7 +11,6 @@ export default function Hero() {
     const categories = [
         { name: t('categories.Stocks'), path: '/tag/stocks' },
         { name: t('categories.Dividends'), path: '/tag/dividends' },
-        { name: t('categories.Retirement'), path: '/tag/retirement' },
         { name: t('categories.Banking'), path: '/tag/banking' },
         { name: t('categories.Crypto'), path: '/tag/crypto' },
     ];

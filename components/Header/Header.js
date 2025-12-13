@@ -16,9 +16,9 @@ export default function Header() {
                 </Link>
                 <nav className={styles.nav}>
                     <Link href="/category/stocks" className={styles.link}>{t('header.stocks')}</Link>
-                    <Link href="/category/retirement" className={styles.link}>{t('header.retirement')}</Link>
-                    <Link href="/category/banking" className={styles.link}>{t('header.banking')}</Link>
-                    <Link href="/category/credit-cards" className={styles.link}>{t('header.creditCards')}</Link>
+                    <Link href="/category/etf" className={styles.link}>{t('header.etf')}</Link>
+                    <Link href="/category/crypto" className={styles.link}>{t('header.crypto')}</Link>
+                    <Link href="/category/ai" className={styles.link}>{t('header.ai')}</Link>
                 </nav>
 
             </div>

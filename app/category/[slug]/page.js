@@ -2,7 +2,7 @@ import NewsGrid from '@/components/NewsGrid/NewsGrid';
 import { getSortedPostsData } from '@/lib/posts';
 
 export async function generateStaticParams() {
-    const categories = ['stocks', 'retirement', 'banking', 'credit-cards'];
+    const categories = ['stocks', 'etf', 'crypto', 'ai'];
     return categories.map((slug) => ({
         slug: slug,
     }));
@@ -11,9 +11,9 @@ export async function generateStaticParams() {
 function getCategoryName(slug) {
     const map = {
         'stocks': 'Stocks',
-        'retirement': 'Retirement',
-        'banking': 'Banking',
-        'credit-cards': 'Credit Cards'
+        'etf': 'ETF',
+        'crypto': 'Crypto',
+        'ai': 'AI'
     };
     return map[slug] || slug;
 }
