@@ -1,0 +1,7 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": false,
+    "files.exclude": {
+        "**/.txt": true
+    }
+}
