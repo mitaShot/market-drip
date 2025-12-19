@@ -20,8 +20,8 @@ export async function GET() {
         },
     ];
 
-    const categories = ['stocks', 'etf', 'crypto', 'ai'].map((cat) => ({
-        url: `${baseUrl}/category/${cat}`,
+    const categories = ['stocks', 'etf', 'crypto', 'ai', 'dividends', 'banking'].map((cat) => ({
+        url: `${baseUrl}/tag/${cat}`,
         lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.8,

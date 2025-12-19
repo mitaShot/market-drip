@@ -13,6 +13,10 @@ export async function generateStaticParams() {
         }
     });
 
+    // Ensure default categories always exist to prevent 404s
+    // These match the links in Hero.js and Sitemap
+    ['stocks', 'dividends', 'banking', 'crypto', 'etf', 'ai'].forEach(tag => tags.add(tag));
+
     return Array.from(tags).map(tag => ({
         tag: tag
     }));
