@@ -1,15 +1,27 @@
 .hero {
-    background-color: var(--color-primary-dark);
-    background-image: url('/hero-bg.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: var(--color-white);
+    position: relative;
     padding: 4rem 0 3rem;
     text-align: center;
+    color: var(--color-white);
+    background-color: var(--color-primary-dark);
+    /* Fallback if image fails or before load */
+    overflow: hidden;
+}
+
+.bgWrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.6; /* Adjust for readability if needed, or burn into image */
+    /* Since we're using object-fit: cover in JS, we don't strictly need more here */
 }
 
 .container {
+    position: relative;
+    z-index: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,6 +31,7 @@
 .title {
     font-size: 3.5rem;
     margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* improved readability */
 }
 
 .subtitle {
@@ -26,6 +39,7 @@
     line-height: 1.6;
     margin-bottom: 2rem;
     opacity: 0.9;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 .chips {
@@ -44,6 +58,7 @@
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s;
+    backdrop-filter: blur(4px); /* Glassmorphism tweak */
 }
 
 .chip:hover {

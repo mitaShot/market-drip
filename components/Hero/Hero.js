@@ -2,6 +2,7 @@
 "use client";
 
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from './Hero.module.css';
 import { useLanguage } from '@/context/LanguageContext';
 
@@ -17,6 +18,16 @@ export default function Hero() {
 
     return (
         <section className={styles.hero}>
+            <div className={styles.bgWrap}>
+                <Image
+                    alt="Market Drip Background"
+                    src="/hero-bg.png"
+                    fill
+                    priority
+                    sizes="100vw"
+                    style={{ objectFit: "cover" }}
+                />
+            </div>
             <div className={`container ${styles.container}`}>
                 <h1 className={styles.title}>{t('hero.title')}</h1>
                 <p className={styles.subtitle}>
