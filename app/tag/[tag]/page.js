@@ -18,12 +18,13 @@ export async function generateStaticParams() {
     ['stocks', 'dividends', 'banking', 'crypto', 'etf', 'ai'].forEach(tag => tags.add(tag));
 
     return Array.from(tags).map(tag => ({
-        tag: tag
+        tag: encodeURIComponent(tag)
     }));
 }
 
 export default async function TagPage({ params }) {
     const { tag } = await params;
+    // Decode (handle cases where it might be double encoded or just standard)
     const decodedTag = decodeURIComponent(tag);
     const allPosts = getSortedPostsData();
 
