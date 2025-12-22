@@ -2,45 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://market-drip.pages.dev</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/stocks</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/etf</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/crypto</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/ai</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/dividends</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/banking</loc>
-    <lastmod>2025-12-21T07:42:01.561Z</lastmod>
+    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.pages.dev/article/news-20251221</loc>
+    <lastmod>2025-12-21T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/article/ionq-20251220</loc>
