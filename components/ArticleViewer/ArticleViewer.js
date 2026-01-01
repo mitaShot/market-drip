@@ -51,9 +51,9 @@ export default function ArticleViewer({ article }) {
                 </div>
             </header>
             <div className={`container ${styles.contentContainer}`}>
-                {article.image && <img src={article.image} alt={title} className={styles.image} />}
+                {article.image && <img src={article.image} alt={title} className={styles.image} referrerPolicy="no-referrer" />}
                 <div className={styles.body}>
-                    <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+                    <div dangerouslySetInnerHTML={{ __html: contentHtml.replace(/<img /g, '<img referrerpolicy="no-referrer" ') }} />
                 </div>
             </div>
             {/* Optional: Language switcher for the article specifically if not provided globally */}

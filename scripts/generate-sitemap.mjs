@@ -18,7 +18,7 @@ function getPosts() {
     // Based on lib/posts.js parsing logic
     const posts = fileNames
         .map((fileName) => {
-            const match = fileName.match(/^(.+?)(?:_([a-z]{2}))?\.(md|html)$/);
+            const match = fileName.match(/^(.+?)(?:_([a-z]{2}))?\.(md|html|json)$/);
             if (!match) return null;
 
             const id = match[1];

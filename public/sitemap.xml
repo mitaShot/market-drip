@@ -2,45 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://market-drip.pages.dev</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/stocks</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/etf</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/crypto</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/ai</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/dividends</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/tag/banking</loc>
-    <lastmod>2025-12-22T01:22:58.438Z</lastmod>
+    <lastmod>2025-12-30T06:48:20.378Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.pages.dev/article/palantir-earnings-analysis-20240605</loc>
+    <lastmod>2025-12-30T06:48:20.376Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.pages.dev/article/bitcoin-20251227</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.pages.dev/article/sp500-3-12-month-price-outlook-20251224</loc>
+    <lastmod>2025-12-24T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://market-drip.pages.dev/article/news-20251221</loc>
