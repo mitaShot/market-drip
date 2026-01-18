@@ -1,0 +1,82 @@
+{
+  "seo": {
+    "title": "최근 주식 시장 핫이슈 & 투자 포인트 총정리",
+    "meta_description": "최근 연준 회의록과 글로벌 주식 동향, 그리고 금융권 이슈까지 한눈에 보는 투자 꿀정보!",
+    "slug": "stock-market-update-20260118",
+    "category": "Stocks",
+    "tags": [
+      "Stocks",
+      "Earnings",
+      "Analyst Views",
+      "Macro"
+    ],
+    "published_date": "2026-01-18",
+    "author": "Financial Research Team"
+  },
+  "content": {
+    "excerpt": "이번 주 투자자들이 꼭 알아야 할 시장 분위기와 주요 이벤트, 그리고 최근 뉴스까지 빠르게 훑어볼게!",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview",
+        "impact_level": "high",
+        "content": "최근 주목받는 거 보면, 코로나 이후 다시 뜨거워진 글로벌 주식 시장 얘기가 많아. 미국 연준에서 나온 2020년 정책 회의록이 공개되면서 파월 의장이 어떻게 중요한 금리 결정을 밀어붙였는지 뒤늦게 알려졌거든. 또, 지금은 전세계 증시가 꽤 잘 버티면서 4년 연속 좋은 수익 기대하는 분위기야."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Valuation Context",
+        "impact_level": "medium",
+        "content": "최근 주가 흐름 보면, 세계 각국 주식들이 완만하게 상승 중이야. 시장이 다들 ‘이익 시즌 기대감’에 힘을 받고 있어서 주가가 꽤 탄탄하게 올라가는 느낌이지. 근데, 뭔가 너무 비싸다는 의견도 있어서 살짝 조심하는 분위기도 있어."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "impact_level": "medium",
+        "content": "앞으로 주가에 영향을 줄 만한 거 보면, 연준 파월 의장에 대한 DOJ 조사, 그리고 이번 분기 실적 시즌이 있어. 또 최근엔 백악관에서 신용카드 이자율 상한을 10%로 두자는 말이 나왔는데, 이게 은행들 사이에선 완전 반발 중이라 이 이슈가 어떻게 전개될지도 한 번 지켜봐야 해."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "impact_level": "medium",
+        "sources": [
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-17/2020-fed-transcripts-show-how-powell-sold-fateful-rate-guidance"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-01-17/pricey-equity-markets-charge-into-a-high-stakes-earnings-season"
+          },
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html"
+          }
+        ],
+        "content": "이번 주 뉴스 보면, 파월이 2020년에 나름 중요했던 금리 정책을 어떻게 밀었는지 후에 후회했다는 게 알려졌고, 실적 발표 시즌도 기대감 덕에 주가가 밀리지 않고 있어. 그리고 백악관에서 신용카드 이자율 제한 얘기가 나오면서 은행들이 불편해하는 모습도 보였어."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Market Positioning Signals",
+        "impact_level": "medium",
+        "content": "기관 투자자들도 이런 정보들을 보고 ‘어? 분위기 계속 유지될까?’ 하면서 신중하면서도 살짝 낙관하는 느낌이야. 실적 시즌이 순조롭다면 추가 매수도 생각하고 있지만, 정책 불확실성에 대비해 포지션은 조절 중인 것 같아."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "만약 실적 시즌 좋아서 주가가 계속 오르면, 지금 어려워 보이는 은행 이슈도 잘 넘길 수 있어. 그러면 글로벌 주식 시장 강세 흐름 계속 이어질 수 있지.",
+        "bear_case": "근데 연준 의장 조사나 정책이 꼬이고, 신용카드 이자율 문제로 은행들이 타격을 받으면 투자심리가 흔들릴 수 있어. 그럼 주가가 조정받는 상황도 생각해야 할 듯.",
+        "strategy": "그래서 프로 투자자들 입장에선 실적 시즌이 어떻게 끝나느냐, 정책이 어떻게 바뀌냐를 계속 주시하면서 조금씩 포지션 옮기는 거 추천하는 분위기야."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "An abstract financial scene illustrating a dynamic stock market with rising and falling candlestick charts intertwined with glowing threads representing investor emotions, set in a dusk sky symbolizing uncertain optimism in global markets",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "Symbolic illustration showing a balance scale with stacks of coins on one side and financial charts on the other, under a shifting cloud sky, embodying the tension between valuation concerns and earnings momentum",
+      "size": "1024x1024"
+    }
+  }
+}
