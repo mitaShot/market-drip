@@ -29,15 +29,21 @@ export async function generateMetadata({ params }) {
     const excerpt = getMetadataValue(article.excerpt);
     const author = getMetadataValue(article.author);
 
+    const baseUrl = 'https://market-drip.pages.dev';
+
     return {
         title: `${title} | Market Drip`,
         description: excerpt,
+        alternates: {
+            canonical: `${baseUrl}/article/${id}`,
+        },
         openGraph: {
             title: title,
             description: excerpt,
+            url: `${baseUrl}/article/${id}`,
             images: [
                 {
-                    url: article.image,
+                    url: article.image.startsWith('http') ? article.image : `${baseUrl}${article.image}`,
                     width: 800,
                     height: 600,
                     alt: title,
@@ -52,7 +58,7 @@ export async function generateMetadata({ params }) {
             card: 'summary_large_image',
             title: title,
             description: excerpt,
-            images: [article.image],
+            images: [article.image.startsWith('http') ? article.image : `${baseUrl}${article.image}`],
         },
     }
 }

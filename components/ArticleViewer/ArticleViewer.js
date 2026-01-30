@@ -42,7 +42,7 @@ export default function ArticleViewer({ article }) {
                     {article.tags && article.tags.length > 0 && (
                         <div className={styles.tags}>
                             {article.tags.map(tag => (
-                                <Link key={tag} href={`/tag/${tag.toLowerCase()}`} className={styles.tag}>
+                                <Link key={tag} href={`/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`} className={styles.tag}>
                                     #{tag}
                                 </Link>
                             ))}
