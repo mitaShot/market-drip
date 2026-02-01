@@ -42,14 +42,27 @@ function getPosts() {
     // The original code: allPosts.forEach(post => url = .../article/${post.id})
     // getSortedPostsData returns grouped posts.
 
-    // Let's parse matter to get dates
+    // Let's parse files to get dates
     const postsData = posts.map(post => {
         const fullPath = path.join(POSTS_DIR, post.fileName);
         const fileContents = fs.readFileSync(fullPath, 'utf8');
-        const { data } = matter(fileContents);
+        let date;
+
+        if (post.fileName.endsWith('.json')) {
+            try {
+                const json = JSON.parse(fileContents);
+                date = json.seo?.published_date || json.date;
+            } catch (e) {
+                console.error(`Error parsing JSON file ${post.fileName}:`, e);
+            }
+        } else {
+            const { data } = matter(fileContents);
+            date = data.date;
+        }
+
         return {
             id: post.id,
-            date: data.date ? new Date(data.date) : new Date(),
+            date: date ? new Date(date) : new Date(),
             lang: post.lang
         };
     });
