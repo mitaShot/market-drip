@@ -20,22 +20,22 @@
     "sections": [
       {
         "type": "overview",
-        "heading": "Market Overview",
+        "heading": "시장 개요",
         "content": "마이크로소프트(MSFT)는 1월 28일 회계연도 2026년 2분기 실적을 발표하며 매출 813억 달러(전년비 +17%), 영업이익 382.8억 달러(4.5% 상회)를 기록했습니다. 그러나 Azure 성장 우려와 막대한 AI 인프라 설비투자(CapEx) 가이던스로 인해 시간외 거래에서 주가가 $433.5로 10% 급락했습니다. 투자 부담에도 불구하고 클라우드(Azure +37% 전망)와 AI(Copilot)는 여전히 핵심 성장 동력입니다."
       },
       {
         "type": "price_trends",
-        "heading": "Recent Price Trends & Momentum",
+        "heading": "최근 주가 흐름 및 모멘텀",
         "content": "주가는 고점 $442에서 저점 $421까지 하락(-10% 조정)한 후 $433.5에서 안정화되었습니다. 50일 이동평균선($477)이 붕괴되며 단기 약세 전환 신호를 보였고 거래량은 1억 2,800만 주까지 치솟았습니다. 200일 이동평균선($485) 지지가 유지되는 가운데, RSI가 과매도 구간에 진입하여 기술적 반등 가능성을 시사합니다."
       },
       {
         "type": "analysis",
-        "heading": "Key Catalysts & Risk Factors",
+        "heading": "주요 촉매제 및 리스크 요인",
         "content": "**주요 촉매제(Catalysts):**\\n- **Azure 및 AI 성장:** FY26 1분기 Azure +37% 예상, Copilot 사용자 +20% 증가.\\n- **트럼프 행정부 협력:** 데이터센터 전력 비용 민영화 원칙 지지 및 규제 완화 기대.\\n\\n**리스크 요인(Risk Factors):**\\n- **설비투자(CapEx) 폭증:** AI 데이터센터 지출이 마진 압박(운영비용 +76%).\\n- **경쟁 심화:** AWS 및 구글 클라우드의 공격적인 가격 정책."
       },
       {
         "type": "news",
-        "heading": "Recent News & Developments",
+        "heading": "최근 뉴스 및 주요 동향",
         "sources": [
           {
             "name": "Microsoft IR",
@@ -50,12 +50,12 @@
       },
       {
         "type": "insights",
-        "heading": "Institutional & Insider Activity",
+        "heading": "기관 및 내부자 동향",
         "content": "월가 컨센서스는 '매수(Moderate Buy)'이며 평균 목표주가는 $617(+17.9% 상승 여력)입니다. 최고가는 $710(Truist), 최저가는 $475입니다. 애널리스트 36명 중 33명이 매수 의견을 제시했습니다. 블랙록/뱅가드는 롱 포지션을 유지하고 있으며, 헤지펀드들은 AI 테마 매집을 지속하고 있습니다."
       },
       {
         "type": "outlook",
-        "heading": "Investment Outlook (3–12 Months)",
+        "heading": "투자 전망 (3~12개월)",
         "bull_case": "Azure가 30%대 성장을 지속하고 트럼프 규제 완화가 더해지면 $550 재시험 및 컨센서스 상회 가능성이 있습니다.",
         "bear_case": "설비투자 과잉과 경쟁 심화로 마진이 10% 미만으로 압박받을 경우, $380 재시험 리스크가 있습니다.",
         "strategy": "장기 투자자: $420 지지선 확인 후 분할 매수 진입. 단기 투자자: 3분기 실적(4월) 확인 후 대응 권장."
