@@ -1,0 +1,74 @@
+{
+  "seo": {
+    "title": "IonQ(IONQ) Stock Crash: Short Report & Funding Cliff Analysis",
+    "meta_description": "IonQ stock plunge analysis: Wolfpack Research short report, Pentagon contract loss allegations, CEO resignation, and cash flow deterioration risks examined.",
+    "slug": "ionq-stock-crash-short-report-analysis-20260205",
+    "category": "Stocks",
+    "tags": [
+      "IonQ",
+      "Quantum Computing",
+      "Short Report",
+      "Earnings",
+      "Tech Stocks"
+    ],
+    "published_date": "2026-02-05",
+    "author": "Financial Research Team"
+  },
+  "content": {
+    "excerpt": "Wolfpack Research's devastating short report has crushed IonQ. Key Pentagon contract loss allegations creating $54.6M revenue black hole, plus executive departures driving the selloff.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Crisis of Confidence",
+        "content": "IonQ(IONQ) faces a severe crisis of confidence after Wolfpack Research released a scathing short report. The report alleges IonQ lost Pentagon contracts that accounted for 86% of 2022-2024 revenue, creating a $54.6M 'black hole' in 2025 bookings. Markets now view this as existential fundamental damage rather than mere earnings disappointment."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends: Momentum Collapse",
+        "content": "IonQ shares are down ~24.7% YTD, trading in the $35s—over 57% below 52-week highs ($82.09). Brief early 2025 recovery erased by Q3 earnings shock and this short report. Technicals show broken support levels with volume confirming institutional distribution."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors: 3 Major Headwinds",
+        "content": "Three primary drivers behind the selloff:\n1. **Pentagon Funding Cliff (High Risk):** If true, core revenue source termination forces complete 2026+ guidance rewrite.\n2. **Business Identity Confusion:** Desperate satellite (Capella) and atomic clock (Vector Atomics) acquisitions erode 'Pure Play' quantum premium.\n3. **Management Credibility Collapse:** Report claims CEO resignation and $396.6M insider selling signaled internal awareness of these issues."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "Yahoo Finance (Wolfpack Report)",
+            "url": "https://finance.yahoo.com/news/why-ionq-ionq-stock-falling-203550615.html"
+          },
+          {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/ionq-stock-falls-amid-short-seller-attack-and-tech-sector-weakness-93CH-4485673"
+          }
+        ],
+        "content": "On Feb 4, 2026, Wolfpack revealed IonQ hid revenue gaps through desperate acquisitions. Operating cash flow deteriorated from -$33M (Q4 2024) to -$123.1M (Q3 2025). This compounds November 2025 Q3 results showing $1.05B net loss expansion."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "Insider selling volume sounds alarms. ~$396M sold over past 12 months, with executive sales before plunge interpreted as 'exit signals.' Some analysts call recent drop oversold, but short allegations must clear before institutional buying resumes."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "Company credibly refutes short report with evidence + lands new major government contracts = $50+ recovery potential.",
+        "bear_case": "Pentagon loss confirmed + cash burn accelerates = $20s possible on fundamental re-rating.",
+        "strategy": "Classic 'falling knife' territory. New entries wait for official company rebuttal + next quarter guidance. Existing holders consider position sizing."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "A close-up of a shattered quantum processor chip made of glass, glowing with faint blue light, resting on a dark, reflective financial trading desk. In the blurred background, a sharp red stock chart line plunges downwards, symbolizing a market crash and broken technology trust. Cinematic lighting, photorealistic, 8k resolution.",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "A conceptual illustration of a balance sheet scale tipping heavily to the side of 'Debt' and 'Cash Burn', represented by burning dollar bills, outweighing a small glowing cube representing 'Quantum Revenue'. Dark background with financial grid lines.",
+      "size": "1024x1024"
+    }
+  }
+}
