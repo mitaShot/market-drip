@@ -22,7 +22,7 @@ export default function NewsCard({ article }) {
     const author = getLocalized(article.author);
 
     return (
-        <Link href={`/article/${article.id}`} className={styles.card}>
+        <Link href={`/${language}/article/${article.id}`} className={styles.card}>
             <div className={styles.imageWrapper}>
                 <img src={article.image} alt={title} className={styles.image} />
             </div>

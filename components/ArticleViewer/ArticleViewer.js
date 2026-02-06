@@ -1,7 +1,7 @@
 "use client";
 
 import { useLanguage } from '@/context/LanguageContext';
-import styles from '@/app/article/[id]/page.module.css'; // We'll reuse page styles or create new ones
+import styles from './ArticleViewer.module.css';
 import Link from 'next/link';
 
 export default function ArticleViewer({ article }) {
@@ -31,7 +31,7 @@ export default function ArticleViewer({ article }) {
         <>
             <header className={styles.header}>
                 <div className="container">
-                    <Link href={`/category/${String(category).toLowerCase()}`} className={styles.categoryBack}>
+                    <Link href={`/${language}/tag/${String(category).toLowerCase()}`} className={styles.categoryBack}>
                         &larr; Back to {category}
                     </Link>
                     <h1 className={styles.title}>{title}</h1>
@@ -42,7 +42,7 @@ export default function ArticleViewer({ article }) {
                     {article.tags && article.tags.length > 0 && (
                         <div className={styles.tags}>
                             {article.tags.map(tag => (
-                                <Link key={tag} href={`/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`} className={styles.tag}>
+                                <Link key={tag} href={`/${language}/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`} className={styles.tag}>
                                     #{tag}
                                 </Link>
                             ))}

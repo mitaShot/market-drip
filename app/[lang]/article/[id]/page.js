@@ -1,16 +1,15 @@
 import { getAllPostIds, getPostData } from '@/lib/posts';
-import styles from './page.module.css';
-import Link from 'next/link';
+
 import ArticleViewer from '@/components/ArticleViewer/ArticleViewer';
 
 export async function generateStaticParams() {
     const paths = getAllPostIds();
+    // paths is [{ params: { lang: 'en', id: '...' } }, ...]
     return paths.map((path) => path.params);
 }
 
 export async function generateMetadata({ params }) {
-    // In Next.js 15+ params is a promise
-    const { id } = await params;
+    const { lang, id } = await params;
     const article = await getPostData(id);
 
     if (!article) {
@@ -19,28 +18,34 @@ export async function generateMetadata({ params }) {
         }
     }
 
-    const getMetadataValue = (obj) => {
+    const getMetadataValue = (obj, l) => {
         if (typeof obj === 'string') return obj;
         if (!obj) return '';
-        return obj.en || Object.values(obj)[0] || '';
+        return obj[l] || obj['en'] || Object.values(obj)[0] || '';
     };
 
-    const title = getMetadataValue(article.title);
-    const excerpt = getMetadataValue(article.excerpt);
-    const author = getMetadataValue(article.author);
+    const title = getMetadataValue(article.title, lang);
+    const excerpt = getMetadataValue(article.excerpt, lang);
+    const author = getMetadataValue(article.author, lang);
 
-    const baseUrl = 'https://market-drip.pages.dev';
+    const baseUrl = 'https://market-drip.com';
 
     return {
         title: `${title} | Market Drip`,
         description: excerpt,
         alternates: {
-            canonical: `${baseUrl}/article/${id}`,
+            canonical: `${baseUrl}/${lang}/article/${id}`,
+            languages: {
+                'en': `${baseUrl}/en/article/${id}`,
+                'ko': `${baseUrl}/ko/article/${id}`,
+                'ja': `${baseUrl}/ja/article/${id}`,
+                'x-default': `${baseUrl}/en/article/${id}`,
+            },
         },
         openGraph: {
             title: title,
             description: excerpt,
-            url: `${baseUrl}/article/${id}`,
+            url: `${baseUrl}/${lang}/article/${id}`,
             images: [
                 {
                     url: article.image.startsWith('http') ? article.image : `${baseUrl}${article.image}`,
@@ -64,36 +69,34 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function ArticlePage({ params }) {
-    // In Next.js 15+ (if using that), params might be a promise, but for now assuming standard 14 behavior or unwrapping.
-    const { id } = await params;
-    console.log('Fetching article id:', id);
+    const { lang, id } = await params;
     const article = await getPostData(id);
-    console.log('Article fetched:', article ? (article.title.en || Object.values(article.title)[0]) : 'Not found');
-    // ContentHtml is an object now { en: "...", ko: "..." }
-    const contentEn = article?.contentHtml?.en || Object.values(article?.contentHtml || {})[0];
-    console.log('Content HTML length (en):', contentEn?.length);
 
     if (!article) {
         return <div className="container">Article not found</div>;
     }
 
+    const title = article.title[lang] || article.title['en'] || Object.values(article.title)[0];
+    const authorName = article.author[lang] || article.author['en'] || Object.values(article.author)[0];
+    const excerpt = article.excerpt[lang] || article.excerpt['en'] || Object.values(article.excerpt)[0];
+
     const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'NewsArticle',
-        headline: article.title.en || Object.values(article.title)[0], // Fallback for SEO
+        headline: title,
         image: [article.image],
         datePublished: article.date,
         dateModified: article.date,
         author: [{
             '@type': 'Person',
-            name: article.author.en || Object.values(article.author)[0],
-            url: `https://market-drip.pages.dev/author/team`
+            name: authorName,
+            url: `https://market-drip.com/author/team`
         }],
-        description: article.excerpt.en || Object.values(article.excerpt)[0],
+        description: excerpt,
     };
 
     return (
-        <article className={styles.article}>
+        <article>
             <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

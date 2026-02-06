@@ -1,97 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://market-drip.pages.dev</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/stocks</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/stocks</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/etf</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/etf</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/crypto</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/crypto</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/ai</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/ai</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/dividends</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/dividends</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/tag/banking</loc>
-    <lastmod>2026-02-01T04:48:21.907Z</lastmod>
+    <loc>https://market-drip.com/en/tag/banking</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/20260131-nvda-stock-analysis-deepseek</loc>
+    <loc>https://market-drip.com/en/article/ionq-stock-crash-short-report-analysis-20260205</loc>
+    <lastmod>2026-02-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/palantir-pltr-stock-earnings-analysis-q4-2025-forecast-20260203</loc>
+    <lastmod>2026-02-03T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/bitcoin-crash-81k-liquidation-iran-risk-20260202</loc>
+    <lastmod>2026-02-02T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/20260201-tsla-stock-analysis-valuation</loc>
+    <lastmod>2026-02-01T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/20260131-nvda-stock-analysis-deepseek</loc>
     <lastmod>2026-01-31T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/microsoft-msft-stock-analysis-q2-earnings-20260130</loc>
+    <loc>https://market-drip.com/en/article/microsoft-msft-stock-analysis-q2-earnings-20260130</loc>
     <lastmod>2026-01-30T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/tesla-tsla-stock-analysis-q4-earnings-20260130</loc>
+    <loc>https://market-drip.com/en/article/tesla-tsla-stock-analysis-q4-earnings-20260130</loc>
     <lastmod>2026-01-30T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/ai-semiconductor-stock-drivers-20260118</loc>
+    <loc>https://market-drip.com/en/article/ai-semiconductor-stock-drivers-20260118</loc>
     <lastmod>2026-01-18T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/capital-flows-signals-investors-20260118</loc>
+    <loc>https://market-drip.com/en/article/capital-flows-signals-investors-20260118</loc>
     <lastmod>2026-01-18T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/crypto-market-sentiment-key-drivers-20260118</loc>
+    <loc>https://market-drip.com/en/article/crypto-market-sentiment-key-drivers-20260118</loc>
     <lastmod>2026-01-18T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/palantir-pltr-earnings-guidance-ai-growth-20260118</loc>
+    <loc>https://market-drip.com/en/article/palantir-pltr-earnings-guidance-ai-growth-20260118</loc>
     <lastmod>2026-01-18T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/stock-market-update-20260118</loc>
+    <loc>https://market-drip.com/en/article/stock-market-update-20260118</loc>
     <lastmod>2026-01-18T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://market-drip.pages.dev/article/nvda-stock-analysis-deepseek-shock-ai-capex-20250129</loc>
+    <loc>https://market-drip.com/en/article/nvda-stock-analysis-deepseek-shock-ai-capex-20250129</loc>
+    <lastmod>2025-01-29T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/stocks</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/etf</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/crypto</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/ai</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/dividends</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/banking</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/ionq-stock-crash-short-report-analysis-20260205</loc>
+    <lastmod>2026-02-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/palantir-pltr-stock-earnings-analysis-q4-2025-forecast-20260203</loc>
+    <lastmod>2026-02-03T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/bitcoin-crash-81k-liquidation-iran-risk-20260202</loc>
+    <lastmod>2026-02-02T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/20260201-tsla-stock-analysis-valuation</loc>
+    <lastmod>2026-02-01T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/20260131-nvda-stock-analysis-deepseek</loc>
+    <lastmod>2026-01-31T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/microsoft-msft-stock-analysis-q2-earnings-20260130</loc>
+    <lastmod>2026-01-30T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/tesla-tsla-stock-analysis-q4-earnings-20260130</loc>
+    <lastmod>2026-01-30T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/ai-semiconductor-stock-drivers-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/capital-flows-signals-investors-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/crypto-market-sentiment-key-drivers-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/palantir-pltr-earnings-guidance-ai-growth-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/stock-market-update-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/nvda-stock-analysis-deepseek-shock-ai-capex-20250129</loc>
+    <lastmod>2025-01-29T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/stocks</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/etf</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/crypto</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/ai</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/dividends</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/banking</loc>
+    <lastmod>2026-02-06T12:39:44.353Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/ionq-stock-crash-short-report-analysis-20260205</loc>
+    <lastmod>2026-02-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/palantir-pltr-stock-earnings-analysis-q4-2025-forecast-20260203</loc>
+    <lastmod>2026-02-03T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/bitcoin-crash-81k-liquidation-iran-risk-20260202</loc>
+    <lastmod>2026-02-02T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/20260201-tsla-stock-analysis-valuation</loc>
+    <lastmod>2026-02-01T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/20260131-nvda-stock-analysis-deepseek</loc>
+    <lastmod>2026-01-31T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/microsoft-msft-stock-analysis-q2-earnings-20260130</loc>
+    <lastmod>2026-01-30T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/tesla-tsla-stock-analysis-q4-earnings-20260130</loc>
+    <lastmod>2026-01-30T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/ai-semiconductor-stock-drivers-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/capital-flows-signals-investors-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/crypto-market-sentiment-key-drivers-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/palantir-pltr-earnings-guidance-ai-growth-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/stock-market-update-20260118</loc>
+    <lastmod>2026-01-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/nvda-stock-analysis-deepseek-shock-ai-capex-20250129</loc>
     <lastmod>2025-01-29T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

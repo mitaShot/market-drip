@@ -7,13 +7,13 @@ import styles from './Hero.module.css';
 import { useLanguage } from '@/context/LanguageContext';
 
 export default function Hero() {
-    const { t } = useLanguage();
+    const { language, t } = useLanguage();
 
     const categories = [
-        { name: t('categories.Stocks'), path: '/tag/stocks' },
-        { name: t('categories.Dividends'), path: '/tag/dividends' },
-        { name: t('categories.Banking'), path: '/tag/banking' },
-        { name: t('categories.Crypto'), path: '/tag/crypto' },
+        { name: t('categories.Stocks'), path: `/${language}/tag/stocks` },
+        { name: t('categories.Dividends'), path: `/${language}/tag/dividends` },
+        { name: t('categories.Banking'), path: `/${language}/tag/banking` },
+        { name: t('categories.Crypto'), path: `/${language}/tag/crypto` },
     ];
 
     return (

@@ -5,20 +5,10 @@ import { translations } from '@/lib/translations';
 
 const LanguageContext = createContext();
 
-export function LanguageProvider({ children }) {
-    const [language, setLanguage] = useState('en');
+export function LanguageProvider({ children, initialLang = 'en' }) {
+    const [language, setLanguage] = useState(initialLang);
 
-    useEffect(() => {
-        // Check browser language only on client side
-        const browserLang = navigator.language || navigator.userLanguage;
-        if (browserLang) {
-            if (browserLang.startsWith('ko')) {
-                setLanguage('ko');
-            } else if (browserLang.startsWith('ja')) {
-                setLanguage('ja');
-            }
-        }
-    }, []);
+    // Remove useEffect for browser detection
 
     const t = (key) => {
         const keys = key.split('.');

@@ -18,7 +18,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html>
       <head>
         <Script
           async
@@ -28,11 +28,7 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={inter.className}>
-        <LanguageProvider>
-          <Header />
-          {children}
-          <Footer />
-        </LanguageProvider>
+        {children}
       </body>
     </html>
   );
