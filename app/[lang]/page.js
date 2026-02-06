@@ -3,7 +3,7 @@ import NewsGrid from '@/components/NewsGrid/NewsGrid';
 import { getSortedPostsData } from '@/lib/posts';
 
 export async function generateMetadata({ params }) {
-    const { lang } = params;
+    const { lang } = await params;
     const baseUrl = 'https://market-drip.com';
 
     return {
