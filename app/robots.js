@@ -6,6 +6,6 @@ export default function robots() {
             userAgent: '*',
             allow: '/',
         },
-        sitemap: 'https://market-drip.pages.dev/sitemap.xml',
+        sitemap: 'https://market-drip.com/sitemap.xml',
     }
 }
