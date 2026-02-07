@@ -4,6 +4,7 @@ import { useLanguage } from '@/context/LanguageContext';
 import styles from './ArticleViewer.module.css';
 import Link from 'next/link';
 
+
 export default function ArticleViewer({ article }) {
     const { language, setLanguage } = useLanguage();
 
@@ -23,9 +24,6 @@ export default function ArticleViewer({ article }) {
     const category = getLocalized(article.category);
     const author = getLocalized(article.author);
     const excerpt = getLocalized(article.excerpt);
-
-    // If current language content is missing, show a warning or fallback?
-    // For now silent fallback.
 
     return (
         <>
@@ -52,6 +50,7 @@ export default function ArticleViewer({ article }) {
             </header>
             <div className={`container ${styles.contentContainer}`}>
                 {article.image && <img src={article.image} alt={title} className={styles.image} referrerPolicy="no-referrer" />}
+
                 <div className={styles.body}>
                     <div dangerouslySetInnerHTML={{ __html: contentHtml.replace(/<img /g, '<img referrerpolicy="no-referrer" ') }} />
                 </div>
