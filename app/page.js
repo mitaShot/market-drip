@@ -20,8 +20,12 @@ export default function RootPage() {
   }, [router]);
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#000', color: '#fff' }}>
-      <p>Redirecting...</p>
-    </div>
+    <html lang="en">
+      <body style={{ margin: 0 }}>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#000', color: '#fff' }}>
+          <p>Redirecting...</p>
+        </div>
+      </body>
+    </html>
   );
 }

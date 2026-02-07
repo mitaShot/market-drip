@@ -15,6 +15,7 @@
 
 .disclaimer {
     font-size: 0.85rem;
-    color: var(--color-text-secondary);
-    opacity: 0.7;
+    color: #cccccc;
+    /* Lighter color for better readability on dark bg */
+    opacity: 1;
 }
