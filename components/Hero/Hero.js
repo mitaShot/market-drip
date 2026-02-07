@@ -21,7 +21,7 @@ export default function Hero() {
             <div className={styles.bgWrap}>
                 <Image
                     alt="Market Drip Background"
-                    src="/hero-bg.png"
+                    src="/hero-bg.webp"
                     fill
                     priority
                     sizes="100vw"
