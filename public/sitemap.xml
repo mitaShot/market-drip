@@ -5,45 +5,51 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://market-drip.com/en</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/stocks</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/etf</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/crypto</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/ai</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/dividends</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/banking</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/bill-stock-surge-earnings-buyout-rumors-analysis</loc>
+    <lastmod>2026-02-08T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://market-drip.com/en/article/ionq-stock-crash-short-report-analysis-20260205</loc>
@@ -125,45 +131,51 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/stocks</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/etf</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/crypto</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/ai</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/dividends</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/banking</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/bill-stock-surge-earnings-buyout-rumors-analysis</loc>
+    <lastmod>2026-02-08T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ko/article/ionq-stock-crash-short-report-analysis-20260205</loc>
@@ -245,45 +257,51 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/stocks</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/etf</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/crypto</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/ai</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/dividends</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/banking</loc>
-    <lastmod>2026-02-07T08:33:51.612Z</lastmod>
+    <lastmod>2026-02-07T15:16:47.179Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/bill-stock-surge-earnings-buyout-rumors-analysis</loc>
+    <lastmod>2026-02-08T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://market-drip.com/ja/article/ionq-stock-crash-short-report-analysis-20260205</loc>
