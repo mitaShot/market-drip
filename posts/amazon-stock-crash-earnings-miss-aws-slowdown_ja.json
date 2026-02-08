@@ -1,0 +1,105 @@
+{
+  "meta_info": {
+    "selected_ticker": "AMZN",
+    "selection_reason": "Q4決算ミス＆AWS成長鈍化で大量売りが発生（2月5-6日、2026年）",
+    "market_status": "休場中（週末）"
+  },
+  "seo": {
+    "title": "AMZN -12%暴落：『クラウド帝国』の終焉か買い場か？",
+    "meta_description": "アマゾン(AMZN)決算ショック！AWS成長鈍化とAI投資費急増で12%急落。ウォール街機関が明かす本当の理由と$180支持線分析。",
+    "slug": "amazon-stock-crash-earnings-miss-aws-slowdown",
+    "category": "Stocks",
+    "tags": [
+      "AMZN",
+      "決算ミス",
+      "市場暴落",
+      "AWS",
+      "AIバブル"
+    ],
+    "published_date": "2026-02-08",
+    "author": "Alpha-Hunter Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒投資テーゼ（3-Second Investment Thesis）",
+      "points": [
+        "暴落理由：Q4決算失望（AWS成長鈍化）と下方修正ガイダンスで-12%急落。",
+        "クジラ/インサイダーシグナル：機関投資家が『AI収益性懸念』でテックセクター回転売りを加速。",
+        "結論：『Falling Knife（落ちるナイフ）』。$180支持線確認まで買い控え。"
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$198.45",
+      "todays_change": "-12.4%",
+      "target_price_avg": "$235.00",
+      "market_cap": "$2.05T",
+      "rsi_index": "22（オーバーソールド）",
+      "sentiment": "弱気"
+    },
+    "excerpt": "アマゾンが崩壊した。2026年初の決算シーズンで、AWS成長鈍化と天文学的AI投資費が重なり株価は$200を割り込んだ。一時的調整か、AIバブル崩壊の序曲か？",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "市場概況：なぜアマゾン(AMZN)は暴落したのか？",
+        "content": "先週金曜日（2月6日）、アマゾンは市場期待を無残に裏切りました。ウォール街はAIブームに乗じたAWS再躍進を期待しましたが、実際のクラウド成長率はわずか14%にとどまり、競合（MSFT Azure、Google Cloud）に後れを取る結果となりました。さらに2026年第1四半期ガイダンスも予想を下回ると、『AI投資ROI（投資収益率）』への疑念が爆発し、パニック売りが発生しました。"
+      },
+      {
+        "type": "price_trends",
+        "heading": "最近の株価動向＆勢い",
+        "content": "テクニカル的に強固な$215支持線がギャップダウンで崩壊。現在株価$198.45は心理的節目の$200線すら割り込みました。RSIは22で『過熱売られ過ぎ』領域に入りましたが、出来高を伴う下落のため底打ち宣言は時期尚早。次のテクニカル支持線は2025年安値圏の$180〜$185です。"
+      },
+      {
+        "type": "analysis",
+        "heading": "主要触媒＆リスク要因",
+        "content": "最大のリスクは『Capex（設備投資）の泥沼』です。アマゾンは今年AIインフラに$1,000億ドル以上を投じる計画を明らかにしましたが、市場はこれを『収益なき支出』と解釈し始めました。特に小売（Retail）部門の営業利益率までもインフレ圧力で停滞し、『成長』と『収益性』の両取り失敗への恐怖が広がっています。"
+      },
+      {
+        "type": "news",
+        "heading": "最近のニュース＆動向",
+        "sources": [
+          {
+            "name": "WSJ Market News",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-05-2026"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
+          }
+        ],
+        "content": "2月5日大引け後に発表された決算で、EPSと売上高ともにコンセンサスを下回りました。ウォール・ストリート・ジャーナルはこれを「ビッグテックAIパーティーの二日酔い」と表現し、今回の決算ショックがナスダック全体の調整引き金になったと報じました。"
+      },
+      {
+        "type": "insights",
+        "heading": "機関投資家＆インサイダー活動",
+        "content": "スマートマネーの動きは冷徹です。主要ヘッジファンドは決算発表前からクラウドセクターの比率を縮小し、生活必需品株や高配当株へ資金シフトする『デリスキング（リスク軽減）』の兆候が確認されました。インサイダー取引データでも経営陣の売り越しが買い越しを圧倒しており、短期反発は期待薄な需給状況です。"
+      },
+      {
+        "type": "outlook",
+        "heading": "投資見通し（3〜6ヶ月）",
+        "bull_case": "$180付近でダブルボトム形成＋下半期AWS AI収益化顕在化で$230再挑戦可能。",
+        "bear_case": "$180支持線崩壊で失望売り殺到、$160台までの追加下落リスク。AIバブル論拡大で最大被ダメージ想定。",
+        "strategy": "最終判断：**SELL / 待機**。現在は落ちるナイフ領域です。安易なナンピンは厳禁。$185での支持力確認後にエントリーでも遅くありません。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "今アマゾン(AMZN)を押し目買いすべきか？",
+        "answer": "まだ危険です。機関投資家の売り圧力が止まっておらず、$200回復テストが必要です。最低3日間横ばいで底打ち確認を。"
+      },
+      {
+        "question": "今回の暴落の主因は何ですか？",
+        "answer": "本質はAWS（クラウド）の成長鈍化です。AI投資は増えるが売上成長が追いつかず、投資効率（ROI）への市場信頼が崩壊しました。"
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Create a high-impact, cinematic 3D financial illustration for ticker 'AMZN'. VISUAL METAPHOR: A massive, metallic Amazon 'smile' logo cracking and crumbling under the weight of heavy golden server racks labeled 'AI COST'. Stormy dark clouds with red lightning bolts striking the logo. Red downward charts in the background. Dramatic shadows, wet texture, 8k resolution, photorealistic.",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "Minimalist vector art representing the core catalyst: A broken cloud icon leaking digital coins, signifying profit loss in cloud computing. Red warning triangles surrounding it. Clean isometric style, corporate white and red theme, white background.",
+      "size": "1024x1024"
+    }
+  }
+}

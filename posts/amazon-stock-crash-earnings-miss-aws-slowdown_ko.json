@@ -1,0 +1,105 @@
+{
+  "meta_info": {
+    "selected_ticker": "AMZN",
+    "selection_reason": "Q4 Earnings Miss & AWS Growth Deceleration triggering massive sell-off (Feb 5-6, 2026)",
+    "market_status": "Closed (Weekend)"
+  },
+  "seo": {
+    "title": "AMZN -12% 대폭락: '클라우드 제국'의 몰락인가, 저가 매수의 기회인가?",
+    "meta_description": "아마존(AMZN) 어닝 쇼크! AWS 성장 둔화와 AI 투자 비용 급증으로 주가 12% 폭락. 월가 기관들이 던지는 진짜 이유와 $180 지지선 분석.",
+    "slug": "amazon-stock-crash-earnings-miss-aws-slowdown",
+    "category": "Stocks",
+    "tags": [
+      "AMZN",
+      "Earnings Miss",
+      "Market Crash",
+      "AWS",
+      "AI Bubble"
+    ],
+    "published_date": "2026-02-08",
+    "author": "Alpha-Hunter Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약 (3-Second Investment Thesis)",
+      "points": [
+        "Why it's Moving: Q4 실적 실망(AWS 성장률 둔화) 및 가이던스 하향으로 -12% 폭락.",
+        "Whale/Insider Signal: 기관 투자자들, 'AI 수익성 우려'로 기술주 섹터 로테이션(매도) 가속화.",
+        "Verdict: 'Falling Knife' (떨어지는 칼날). $180 지지선 확인 전까지 매수 보류."
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$198.45",
+      "todays_change": "-12.4%",
+      "target_price_avg": "$235.00",
+      "market_cap": "$2.05T",
+      "rsi_index": "22 (Oversold)",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "아마존이 무너졌다. 2026년 첫 어닝 시즌, AWS의 성장 둔화와 천문학적인 AI 투자 비용이 맞물리며 주가는 $200선을 내줬다. 이것은 일시적 조정인가, AI 버블 붕괴의 서막인가?",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: 왜 아마존(AMZN)은 폭락했는가?",
+        "content": "지난 금요일(2월 6일), 아마존은 시장의 기대를 처참히 배신했습니다. 월가는 AI 붐에 힘입은 AWS의 재도약을 기대했으나, 실제 발표된 클라우드 성장률은 14%에 그치며 경쟁사(MSFT Azure, Google Cloud) 대비 열위를 드러냈습니다. 설상가상으로 2026년 1분기 가이던스마저 예상치를 하회하자, 'AI 투자 대비 수익성(ROI)'에 대한 의구심이 폭발하며 패닉 셀링이 발생했습니다."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "기술적으로 $215의 강력한 지지선이 갭하락(Gap Down)으로 붕괴되었습니다. 현재 주가는 $198.45로, 심리적 마지노선인 $200조차 깨진 상태입니다. RSI(상대강도지수)는 22를 기록하며 '과매도' 구간에 진입했지만, 거래량을 동반한 하락세라 바닥을 예단하기 이릅니다. 다음 기술적 지지선은 2025년 저점 부근인 $180~$185 구간입니다."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "가장 큰 리스크는 'Capex(자본지출)의 늪'입니다. 아마존은 올해 AI 인프라에 $1,000억 달러 이상을 쏟아부을 계획이라 밝혔지만, 시장은 이를 '수익 없는 지출'로 해석하기 시작했습니다. 특히 소매(Retail) 부문의 영업이익률마저 인플레이션 압박으로 정체되면서, '성장'과 '수익' 두 마리 토끼를 모두 놓칠 수 있다는 공포가 확산되고 있습니다."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "WSJ Market News",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-05-2026"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
+          }
+        ],
+        "content": "2월 5일 장 마감 후 발표된 실적에서 아마존은 주당순이익(EPS)과 매출 모두 컨센서스를 하회했습니다. 월스트리트저널(WSJ)은 이를 두고 '빅테크 AI 파티의 숙취(Hangover)'라고 표현했으며, 이번 실적 쇼크가 나스닥 전체의 조정 빌미가 되고 있다고 보도했습니다."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "스마트머니의 움직임은 냉정합니다. 주요 헤지펀드들은 실적 발표 직전부터 클라우드 섹터 비중을 축소하고, 필수소비재 및 배당주로 자금을 이동시키는 '디리스킹(De-risking)' 징후가 포착되었습니다. 내부자 거래 데이터에서도 최근 경영진의 매도세가 매수세보다 압도적으로 우위에 있어, 단기 반등을 기대하기 어려운 수급 상황입니다."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–6 Months)",
+        "bull_case": "주가가 $180 부근에서 쌍바닥(Double Bottom)을 형성하고, 하반기 AWS의 AI 수익화가 가시화될 경우 $230 재도전 가능.",
+        "bear_case": "$180 지지선 붕괴 시, 실망 매물이 쏟아지며 $160대까지 추가 하락 가능성. AI 거품론 확산 시 최대 피해 예상.",
+        "strategy": "Final Verdict: **SELL / WAIT**. 현재는 떨어지는 칼날입니다. 섣불리 물타기 하지 마십시오. $185 구간에서의 지지력을 확인한 후 진입해도 늦지 않습니다."
+      }
+    ],
+    "faq": [
+      {
+        "question": "지금 아마존(AMZN)을 저점 매수해도 될까요?",
+        "answer": "아직 위험합니다. 기관들의 매도세가 멈추지 않았고, $200선 회복 여부를 확인해야 합니다. 최소 3일간 주가가 횡보하며 바닥을 다지는 것을 확인하세요."
+      },
+      {
+        "question": "이번 폭락의 주된 원인은 무엇인가요?",
+        "answer": "핵심은 AWS(클라우드)의 성장 둔화입니다. AI 투자는 늘리는데 매출 성장이 따라오지 못해, 투자 효율성(ROI)에 대한 시장의 신뢰가 깨졌기 때문입니다."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Create a high-impact, cinematic 3D financial illustration for ticker 'AMZN'. VISUAL METAPHOR: A massive, metallic Amazon 'smile' logo cracking and crumbling under the weight of heavy golden server racks labeled 'AI COST'. Stormy dark clouds with red lightning bolts striking the logo. Red downward charts in the background. Dramatic shadows, wet texture, 8k resolution, photorealistic.",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "Minimalist vector art representing the core catalyst: A broken cloud icon leaking digital coins, signifying profit loss in cloud computing. Red warning triangles surrounding it. Clean isometric style, corporate white and red theme, white background.",
+      "size": "1024x1024"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "meta_info": {
+    "selected_ticker": "AMZN",
+    "selection_reason": "Q4 Earnings Miss & AWS Growth Deceleration triggering massive sell-off (Feb 5-6, 2026)",
+    "market_status": "Closed (Weekend)"
+  },
+  "seo": {
+    "title": "AMZN -12% Crash: End of 'Cloud Empire' or Buying Opportunity?",
+    "meta_description": "Amazon (AMZN) earnings shock! AWS growth slowdown and surging AI investment costs trigger 12% plunge. Wall Street institutions reveal real reasons and $180 support analysis.",
+    "slug": "amazon-stock-crash-earnings-miss-aws-slowdown",
+    "category": "Stocks",
+    "tags": [
+      "AMZN",
+      "Earnings Miss",
+      "Market Crash",
+      "AWS",
+      "AI Bubble"
+    ],
+    "published_date": "2026-02-08",
+    "author": "Alpha-Hunter Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Thesis",
+      "points": [
+        "Why it's Moving: Q4 earnings disappointment (AWS growth slowdown) and downward guidance triggered -12% crash.",
+        "Whale/Insider Signal: Institutions accelerating tech sector rotation (selling) due to 'AI profitability concerns'.",
+        "Verdict: 'Falling Knife'. Hold off buying until $180 support confirmed."
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$198.45",
+      "todays_change": "-12.4%",
+      "target_price_avg": "$235.00",
+      "market_cap": "$2.05T",
+      "rsi_index": "22 (Oversold)",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "Amazon has collapsed. In 2026's first earnings season, AWS growth deceleration and astronomical AI investment costs pushed shares below $200. Is this temporary correction or AI bubble bursting prelude?",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why Did Amazon (AMZN) Crash?",
+        "content": "Last Friday (Feb 6), Amazon brutally betrayed market expectations. Wall Street anticipated AWS resurgence fueled by AI boom, but actual cloud growth came in at just 14% - lagging competitors (MSFT Azure, Google Cloud). Disaster struck when Q1 2026 guidance also missed estimates, exploding 'AI investment ROI' doubts and triggering panic selling."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "Technically, the strong $215 support level suffered gap down breakdown. Current price at $198.45 has even breached psychological $200 line. RSI at 22 signals 'oversold' territory, but volume-backed decline makes calling bottom premature. Next technical support sits at 2025 lows around $180-$185."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Biggest risk is the 'Capex quagmire'. Amazon plans $100B+ AI infrastructure spend this year, but market now interprets this as 'revenue-less expenditure'. Even Retail segment's operating margin stalled under inflation pressure, spreading fears Amazon could miss both 'growth' and 'profitability' targets."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "WSJ Market News",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-05-2026"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://markets.businessinsider.com"
+          }
+        ],
+        "content": "After-market hours on Feb 5 revealed EPS and revenue both missed consensus. Wall Street Journal called it 'Big Tech AI party hangover', noting this earnings shock became catalyst for broader Nasdaq correction."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "Smart money remains ice cold. Major hedge funds trimmed cloud sector exposure pre-earnings, rotating into consumer staples and dividend payers - clear 'de-risking' signal. Insider transaction data shows executive selling overwhelming buying, creating poor short-term supply-demand dynamics."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–6 Months)",
+        "bull_case": "Double bottom formation near $180 with visible AWS AI monetization in H2 could challenge $230 again.",
+        "bear_case": "$180 support breakdown triggers disappointed sellers flooding market, potential drop to $160s. AI bubble narrative expansion means maximum damage risk.",
+        "strategy": "Final Verdict: **SELL / WAIT**. This is falling knife territory. Don't average down recklessly. Entering after $185 support confirmation won't be too late."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Should I buy Amazon (AMZN) at these lows now?",
+        "answer": "Too risky. Institutions haven't stopped selling, $200 recovery test needed. Confirm 3-day sideways consolidation forming bottom first."
+      },
+      {
+        "question": "What was the main cause of this crash?",
+        "answer": "Core issue is AWS (cloud) growth deceleration. AI investments rising but revenue growth lagging, shattering market trust in investment efficiency (ROI)."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Create a high-impact, cinematic 3D financial illustration for ticker 'AMZN'. VISUAL METAPHOR: A massive, metallic Amazon 'smile' logo cracking and crumbling under the weight of heavy golden server racks labeled 'AI COST'. Stormy dark clouds with red lightning bolts striking the logo. Red downward charts in the background. Dramatic shadows, wet texture, 8k resolution, photorealistic.",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "Minimalist vector art representing the core catalyst: A broken cloud icon leaking digital coins, signifying profit loss in cloud computing. Red warning triangles surrounding it. Clean isometric style, corporate white and red theme, white background.",
+      "size": "1024x1024"
+    }
+  }
+}
