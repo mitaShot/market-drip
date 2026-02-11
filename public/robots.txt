@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://market-drip.com/sitemap.xml
