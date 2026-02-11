@@ -12,6 +12,20 @@ if (!fs.existsSync(PUBLIC_DIR)) {
 }
 
 const LANGUAGES = ['en', 'ko', 'ja'];
+const OUTPUT_DIRS = [PUBLIC_DIR, path.join(process.cwd(), 'out')];
+
+function escapeXml(unsafe) {
+    if (!unsafe) return '';
+    return unsafe.replace(/[<>&'"]/g, function (c) {
+        switch (c) {
+            case '<': return '&lt;';
+            case '>': return '&gt;';
+            case '&': return '&amp;';
+            case '\'': return '&apos;';
+            case '"': return '&quot;';
+        }
+    });
+}
 
 function getPosts() {
     if (!fs.existsSync(POSTS_DIR)) return [];
@@ -88,34 +102,38 @@ function generateLanguageSitemap(lang, posts, categories) {
 ${urls.map(url => {
         const pathSuffix = url.replace(`${BASE_URL}/${lang}`, '');
         const isPost = pathSuffix.startsWith('/article/');
-        const lastMod = isPost ? posts.find(p => url.endsWith(p.id))?.date.toISOString() : new Date().toISOString();
+        const post = posts.find(p => url.endsWith(p.id));
+        const lastMod = (isPost && post) ? post.date.toISOString() : new Date().toISOString();
         const priority = url === `${BASE_URL}/${lang}` ? '1.0' : (pathSuffix.startsWith('/tag/') ? '0.8' : '0.7');
 
         return `  <url>
-    <loc>${url}</loc>
+    <loc>${escapeXml(url)}</loc>
     <lastmod>${lastMod}</lastmod>
     <priority>${priority}</priority>
-${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${BASE_URL}/${l}${pathSuffix}" />`).join('\n')}
-    <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${pathSuffix}" />
+${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${pathSuffix}`)}" />`).join('\n')}
+    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${pathSuffix}`)}" />
   </url>`;
     }).join('\n')}
 </urlset>`;
 
-    // Ensure language directory exists
-    const langDir = path.join(PUBLIC_DIR, lang);
-    if (!fs.existsSync(langDir)) {
-        fs.mkdirSync(langDir, { recursive: true });
-    }
+    OUTPUT_DIRS.forEach(baseDir => {
+        if (!fs.existsSync(baseDir)) return;
 
-    fs.writeFileSync(path.join(langDir, `sitemap-${lang}.xml`), sitemapContent);
+        const langDir = path.join(baseDir, lang);
+        if (!fs.existsSync(langDir)) {
+            fs.mkdirSync(langDir, { recursive: true });
+        }
 
-    // Clean up old sitemap at root if it exists
-    const oldPath = path.join(PUBLIC_DIR, `sitemap-${lang}.xml`);
-    if (fs.existsSync(oldPath)) {
-        fs.unlinkSync(oldPath);
-    }
+        fs.writeFileSync(path.join(langDir, `sitemap-${lang}.xml`), sitemapContent);
 
-    console.log(`✅ sitemap-${lang}.xml generated in public/${lang}/`);
+        // Clean up old sitemap at root if it exists
+        const oldPath = path.join(baseDir, `sitemap-${lang}.xml`);
+        if (fs.existsSync(oldPath)) {
+            fs.unlinkSync(oldPath);
+        }
+    });
+
+    console.log(`✅ sitemap-${lang}.xml generated.`);
 }
 
 function generateSitemapIndex() {
@@ -127,8 +145,12 @@ ${LANGUAGES.map(lang => `  <sitemap>
   </sitemap>`).join('\n')}
 </sitemapindex>`;
 
-    fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemapIndex);
-    console.log('✅ sitemap.xml (index) generated at root.');
+    OUTPUT_DIRS.forEach(baseDir => {
+        if (!fs.existsSync(baseDir)) return;
+        fs.writeFileSync(path.join(baseDir, 'sitemap.xml'), sitemapIndex);
+    });
+
+    console.log('✅ sitemap.xml (index) generated.');
 }
 
 function generateSitemaps() {

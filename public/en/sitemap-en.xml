@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://market-drip.com/en</loc>
-    <lastmod>2026-02-11T06:21:34.998Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.039Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/stocks</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/etf</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/etf" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/etf" />
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/crypto</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/ai</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
@@ -48,7 +48,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/dividends</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/dividends" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/dividends" />
@@ -57,12 +57,39 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/banking</loc>
-    <lastmod>2026-02-11T06:21:34.999Z</lastmod>
+    <lastmod>2026-02-11T06:26:23.040Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/banking" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/banking" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/banking" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/banking" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/evommune-evmn-stock-surge-eczema-trial-results</loc>
+    <lastmod>2026-02-11T00:00:00.000Z</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/evommune-evmn-stock-surge-eczema-trial-results" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/evommune-evmn-stock-surge-eczema-trial-results" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/evommune-evmn-stock-surge-eczema-trial-results" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/evommune-evmn-stock-surge-eczema-trial-results" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/nvidia-stock-xai-apollo-deal-analysis</loc>
+    <lastmod>2026-02-11T00:00:00.000Z</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/nvidia-stock-xai-apollo-deal-analysis" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/nvidia-stock-xai-apollo-deal-analysis" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/nvidia-stock-xai-apollo-deal-analysis" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/nvidia-stock-xai-apollo-deal-analysis" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/palantir-pltr-stock-analysis-feb-2026</loc>
+    <lastmod>2026-02-11T00:00:00.000Z</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-feb-2026" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/palantir-pltr-stock-analysis-feb-2026" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/palantir-pltr-stock-analysis-feb-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-feb-2026" />
   </url>
   <url>
     <loc>https://market-drip.com/en/article/oracle-stock-surge-50-billion-investment-ai-cloud</loc>
