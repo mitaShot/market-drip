@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://market-drip.com/en/sitemap-en.xml</loc>
+    <lastmod>2026-02-11T07:21:57.956Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://market-drip.com/ko/sitemap-ko.xml</loc>
+    <lastmod>2026-02-11T07:21:57.956Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://market-drip.com/ja/sitemap-ja.xml</loc>
+    <lastmod>2026-02-11T07:21:57.956Z</lastmod>
+  </sitemap>
+</sitemapindex>
