@@ -1,0 +1,104 @@
+{
+  "meta_info": {
+    "selected_ticker": "EVMN",
+    "selection_reason": "EVO301 atopic dermatitis Phase 2a trial success triggered 70%+ surge, dominating market attention.",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "Next Dupixent Killer? Evommune (EVMN) 70% Surge After Clinical Breakthrough",
+    "meta_description": "Evommune (EVMN) rockets 70% on atopic dermatitis drug Phase 2a success. Wall Street target upgrades and game-changing potential analyzed.",
+    "slug": "evommune-evmn-stock-surge-eczema-trial-results",
+    "category": "Stocks",
+    "tags": [
+      "EVMN",
+      "Biotech",
+      "Clinical Trials",
+      "Eczema"
+    ],
+    "published_date": "2026-02-11",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Summary",
+      "points": [
+        "Phase 2a success: EVO301 shows 33% superior improvement vs placebo in atopic dermatitis patients.",
+        "Wall Street love: Oppenheimer and others raise targets to $40+ with strong Buy ratings.",
+        "Verdict: Short-term overheat caution but substantial mid-term upside - Buy on dips."
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$29.03",
+      "todays_change": "+70.87%",
+      "target_price_avg": "$40.00",
+      "market_cap": "$915.14M",
+      "rsi_index": "78.5 (Overbought)",
+      "sentiment": "Bullish"
+    },
+    "excerpt": "Yesterday's US market star was Evommune (EVMN). Phase 2a atopic dermatitis data triggered 70% explosion. Fundamental shift or just biotech hype?",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is EVMN Exploding?",
+        "content": "Evommune (EVMN) surged 70.87% on Feb 10, capturing all market attention. The catalyst: blockbuster atopic dermatitis candidate EVO301's Phase 2a results. EVO301 demonstrated statistically significant efficacy in itch reduction and skin lesion improvement vs placebo, positioning it as potential Dupixent competitor with superior patient convenience."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "Stock rocketed from $16.99 to $29.03, shattering 52-week highs. Volume exploded 70x average at 16M shares, confirming institutional conviction. RSI hit overbought but biotech clinical catalysts often sustain momentum. Key levels: $30 consolidation critical, $24-25 support on pullback."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Primary drivers: Phase 2b advancement and Big Pharma licensing potential. Data positions EVMN as prime M&A target. Risks include dilution from clinical funding needs and intensifying competition from NKTR's parallel AD success. Over-optimism requires monitoring."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/evommune-stock-soars-after-positive-phase-2a-trial-results-for-eczema-drug-93CH"
+          },
+          {
+            "name": "Nasdaq",
+            "url": "https://www.nasdaq.com/articles/evommune-stock-soars-51-over-positive-top-line-data-atopic-dermatitis-study"
+          }
+        ],
+        "content": "Analysts call results 'aced first test.' EVO301's monthly dosing beats weekly competitors. NKTR's parallel AD success shows entire eczema market heating up."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "Immediate Wall Street reaction: Oppenheimer $42 PT, Raymond James $40 PT - both Strong Buy. Implies 30-40% upside from current levels. Institutions likely increasing weightings, providing downside protection. Monitor post-IPO lockup expirations."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "Phase 2b success + Big Pharma partnership drives $50+ breakout.",
+        "bear_case": "Dilution fears trigger correction to $20s.",
+        "strategy": "Scale in on pullbacks to confirmed $25 support. Biotech clinical momentum favors buyers."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does EVMN do?",
+        "answer": "Clinical-stage biotech developing chronic inflammatory disease treatments. IPO'd late 2025."
+      },
+      {
+        "question": "Too late to buy the rally?",
+        "answer": "Short-term exhaustion risk exists, but clinical success creates real fundamental shift. Buy dips."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Cinematic 3D financial illustration of glowing DNA helix merging with rising stock chart, blue-purple neon lighting, futuristic biotech laboratory, ultra-detailed 8k",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "Minimalist vector illustration of chemical molecule transforming into protective skin shield, soft medical blues and whites, clean geometric design",
+      "size": "1024x1024"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta_info": {
+    "selected_ticker": "EVMN",
+    "selection_reason": "アトピー性皮膚炎薬EVO301の第2a相試験成功で70%超急騰、市場を席巻。",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "デュピクセント脅威？エボミューン(EVMN)70%急騰・臨床大成功分析",
+    "meta_description": "エボミューン(EVMN)がアトピー新薬第2a相成功で70%急騰。ウォール街目標株価引き上げとゲームチェンジャー可能性を緊急分析。",
+    "slug": "evommune-evmn-stock-surge-eczema-trial-results",
+    "category": "Stocks",
+    "tags": [
+      "EVMN",
+      "バイオテク",
+      "臨床試験",
+      "湿疹"
+    ],
+    "published_date": "2026-02-11",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒投資サマリー",
+      "points": [
+        "第2a相試験成功：EVO301がプラセボ比33%優れたアトピー改善効果を実証。",
+        "機関投資家の支持：Oppenheimer等が$40超目標株価に引き上げ強気シグナル。",
+        "判断：短期過熱注意も中長期上昇余地十分で「買い」推奨。"
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$29.03",
+      "todays_change": "+70.87%",
+      "target_price_avg": "$40.00",
+      "market_cap": "$915.14M",
+      "rsi_index": "78.5 (買われ過ぎ)",
+      "sentiment": "Bullish"
+    },
+    "excerpt": "昨日の米市場を震撼させた主役はエボミューン(EVMN)。アトピー第2a相データが大当たりで70%爆騰。ファンダメンタル変化かバイオハイプか？",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "市場概況：なぜEVMNが急騰？",
+        "content": "エボミューン(EVMN)は2月10日に70.87%急騰し市場の全視線を独占。起爆剤はアトピー性皮膚炎候補薬EVO301の第2a相試験結果。かゆみ軽減・皮膚病変改善でプラセボ比統計的有意差を示し、デュピクセント競合としての優位性を確立。"
+      },
+      {
+        "type": "price_trends",
+        "heading": "最近の価格動向＆勢い",
+        "content": "$16.99から$29.03へ急騰し52週高値更新。出来高は通常の70倍の1,600万株で機関投資家の確信を示す。RSIは買われ過ぎ水準だが、バイオ臨床成功は勢いを維持。重要水準：$30安定確認、押し目$24-25。"
+      },
+      {
+        "type": "analysis",
+        "heading": "主要触媒＆リスク要因",
+        "content": "第2b相進展と大手製薬ライセンス可能性が最大触媒。M&Aターゲットとしての地位確立。資金調達希薄化リスクとNKTRの同時アトピー成功による競争激化に注意。"
+      },
+      {
+        "type": "news",
+        "heading": "最近のニュース＆進展",
+        "sources": [
+          {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/evommune-stock-soars-after-positive-phase-2a-trial-results-for-eczema-drug-93CH"
+          },
+          {
+            "name": "Nasdaq",
+            "url": "https://www.nasdaq.com/articles/evommune-stock-soars-51-over-positive-top-line-data-atopic-dermatitis-study"
+          }
+        ],
+        "content": "アナリストは「初回テスト満点」と絶賛。EVO301月1回投与が週1回競合を凌駕。NKTR同時成功でアトピー市場全体が過熱。"
+      },
+      {
+        "type": "insights",
+        "heading": "機関投資家＆インサイダー動向",
+        "content": "Oppenheimer $42、Raymond James $40目標株価に引き上げ「強気買い」。現在値比30-40%上昇余地。機関投資家が保有比率拡大で下値支持強化。"
+      },
+      {
+        "type": "outlook",
+        "heading": "投資見通し（3-12ヶ月）",
+        "bull_case": "第2b相成功＋大手提携で$50超え可能。",
+        "bear_case": "希薄化懸念で$20台前半修正リスク。",
+        "strategy": "$25支持線確認後の押し目買い。バイオ臨床モメンタムは買い手優位。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "EVMNは何の会社？",
+        "answer": "慢性炎症性疾患治療薬を開発する臨床段階バイオ企業。2025年末上場。"
+      },
+      {
+        "question": "今買っても遅い？",
+        "answer": "短期疲労感あるが臨床成功は本物のファンダメンタル変化。押し目買い。"
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "シネマティック3Dファイナンシャルイラスト、輝くDNA二重らせんが上昇株価チャートと融合、青紫ネオン照明、未来的バイオテクラボ背景、超詳細8k",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "ミニマリストベクターアート、化学分子構造が皮膚保護シールドに変形、柔らかいパステル医療カラー、クリーンなライン",
+      "size": "1024x1024"
+    }
+  }
+}
