@@ -66,59 +66,80 @@ function getPosts() {
     return Object.values(uniquePosts).sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
-function generateSitemap() {
+function generateLanguageSitemap(lang, posts, categories) {
+    const urls = [];
+
+    // Home page
+    urls.push(`${BASE_URL}/${lang}`);
+
+    // Category/Tag pages
+    categories.forEach(cat => {
+        urls.push(`${BASE_URL}/${lang}/tag/${cat}`);
+    });
+
+    // Post pages
+    posts.forEach(post => {
+        urls.push(`${BASE_URL}/${lang}/article/${post.id}`);
+    });
+
+    const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+${urls.map(url => {
+        const pathSuffix = url.replace(`${BASE_URL}/${lang}`, '');
+        const isPost = pathSuffix.startsWith('/article/');
+        const lastMod = isPost ? posts.find(p => url.endsWith(p.id))?.date.toISOString() : new Date().toISOString();
+        const priority = url === `${BASE_URL}/${lang}` ? '1.0' : (pathSuffix.startsWith('/tag/') ? '0.8' : '0.7');
+
+        return `  <url>
+    <loc>${url}</loc>
+    <lastmod>${lastMod}</lastmod>
+    <priority>${priority}</priority>
+${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${BASE_URL}/${l}${pathSuffix}" />`).join('\n')}
+    <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${pathSuffix}" />
+  </url>`;
+    }).join('\n')}
+</urlset>`;
+
+    // Ensure language directory exists
+    const langDir = path.join(PUBLIC_DIR, lang);
+    if (!fs.existsSync(langDir)) {
+        fs.mkdirSync(langDir, { recursive: true });
+    }
+
+    fs.writeFileSync(path.join(langDir, `sitemap-${lang}.xml`), sitemapContent);
+
+    // Clean up old sitemap at root if it exists
+    const oldPath = path.join(PUBLIC_DIR, `sitemap-${lang}.xml`);
+    if (fs.existsSync(oldPath)) {
+        fs.unlinkSync(oldPath);
+    }
+
+    console.log(`✅ sitemap-${lang}.xml generated in public/${lang}/`);
+}
+
+function generateSitemapIndex() {
+    const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${LANGUAGES.map(lang => `  <sitemap>
+    <loc>${BASE_URL}/${lang}/sitemap-${lang}.xml</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
+  </sitemap>`).join('\n')}
+</sitemapindex>`;
+
+    fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemapIndex);
+    console.log('✅ sitemap.xml (index) generated at root.');
+}
+
+function generateSitemaps() {
     const posts = getPosts();
     const categories = ['stocks', 'etf', 'crypto', 'ai', 'dividends', 'banking'];
 
-    const allUrls = [];
-
     LANGUAGES.forEach(lang => {
-        // Home pages
-        allUrls.push({
-            url: `${BASE_URL}/${lang}`,
-            changeFrequency: 'daily',
-            priority: 1.0,
-        });
-
-        // Category/Tag pages
-        categories.forEach(cat => {
-            allUrls.push({
-                url: `${BASE_URL}/${lang}/tag/${cat}`,
-                changeFrequency: 'daily',
-                priority: 0.8,
-            });
-        });
-
-        // Post pages
-        posts.forEach(post => {
-            allUrls.push({
-                url: `${BASE_URL}/${lang}/article/${post.id}`,
-                lastModified: post.date.toISOString(),
-                changeFrequency: 'weekly',
-                priority: 0.7,
-            });
-        });
+        generateLanguageSitemap(lang, posts, categories);
     });
 
-    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-${allUrls
-            .map((page) => {
-                return `  <url>
-    <loc>${page.url}</loc>
-    ${page.lastModified ? `<lastmod>${page.lastModified}</lastmod>` : `<lastmod>${new Date().toISOString()}</lastmod>`}
-    ${page.changeFrequency ? `<changefreq>${page.changeFrequency}</changefreq>` : ''}
-    ${page.priority ? `<priority>${page.priority}</priority>` : ''}
-  </url>`;
-            })
-            .join('\n')}
-</urlset>`;
-
-    fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemap);
-    console.log('✅ sitemap.xml generated successfully in public/');
+    generateSitemapIndex();
 }
 
-generateSitemap();
+generateSitemaps();
