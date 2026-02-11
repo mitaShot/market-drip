@@ -119,17 +119,19 @@ ${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${es
     OUTPUT_DIRS.forEach(baseDir => {
         if (!fs.existsSync(baseDir)) return;
 
-        const langDir = path.join(baseDir, lang);
-        if (!fs.existsSync(langDir)) {
-            fs.mkdirSync(langDir, { recursive: true });
-        }
+        // Save at root to avoid Next.js routing conflict with [lang]
+        const filePath = path.join(baseDir, `sitemap-${lang}.xml`);
+        fs.writeFileSync(filePath, sitemapContent);
 
-        fs.writeFileSync(path.join(langDir, `sitemap-${lang}.xml`), sitemapContent);
-
-        // Clean up old sitemap at root if it exists
-        const oldPath = path.join(baseDir, `sitemap-${lang}.xml`);
-        if (fs.existsSync(oldPath)) {
-            fs.unlinkSync(oldPath);
+        // Clean up subdirectory version if it exists
+        const oldDir = path.join(baseDir, lang);
+        const oldSitemap = path.join(oldDir, `sitemap-${lang}.xml`);
+        if (fs.existsSync(oldSitemap)) {
+            try {
+                fs.unlinkSync(oldSitemap);
+            } catch (e) {
+                // Ignore if fails
+            }
         }
     });
 
@@ -140,7 +142,7 @@ function generateSitemapIndex() {
     const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${LANGUAGES.map(lang => `  <sitemap>
-    <loc>${BASE_URL}/${lang}/sitemap-${lang}.xml</loc>
+    <loc>${BASE_URL}/sitemap-${lang}.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>`).join('\n')}
 </sitemapindex>`;
