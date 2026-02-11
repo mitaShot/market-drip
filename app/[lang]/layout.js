@@ -18,7 +18,7 @@ export default async function LangLayout({ children, params }) {
     const { lang } = await params;
 
     return (
-        <html lang={lang}>
+        <LanguageProvider initialLang={lang}>
             <head>
                 <Script
                     async
@@ -42,13 +42,9 @@ export default async function LangLayout({ children, params }) {
                     `}
                 </Script>
             </head>
-            <body className={inter.className}>
-                <LanguageProvider initialLang={lang}>
-                    <Header />
-                    {children}
-                    <Footer />
-                </LanguageProvider>
-            </body>
-        </html>
+            <Header />
+            {children}
+            <Footer />
+        </LanguageProvider>
     );
 }
