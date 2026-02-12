@@ -1,0 +1,100 @@
+{
+  "meta_info": {
+    "selected_ticker": "TSM",
+    "selection_reason": "ボリンジャーバンド上限突破、中立RSIで展開",
+    "market_status": "Open"
+  },
+  "seo": {
+    "title": "TSM、ボリンジャーバンド上限突破：過熱シグナルか？",
+    "meta_description": "TSMが月次高値$364.76を試す、RSI67.3。テクニカルブレイクアウト進行中も利益確定に注意。",
+    "slug": "tsm-stock-breakout-bollinger-band-analysis",
+    "category": "Stocks",
+    "tags": [
+      "TSM",
+      "テクニカル分析",
+      "ブレイクアウト",
+      "半導体"
+    ],
+    "published_date": "2026-02-10",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒投資サマリー",
+      "points": [
+        "上限バンドブレイク",
+        "RSI中立67.3",
+        "月次高値テスト"
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$361.91",
+      "todays_change": "+1.83%",
+      "target_price_avg": "$380.00",
+      "market_cap": "$900B",
+      "rsi_index": "67.3",
+      "sentiment": "中立"
+    },
+    "excerpt": "TSMが上限ボリンジャーバンドをブレイクアウト。RSIは中立を維持し継続性を示唆。",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "マーケット概観：TSMが動く理由は？",
+        "content": "TSMは上限ボリンジャーバンドをブレイクし、強力なテクニカルモメンタムを示しています。"
+      },
+      {
+        "type": "price_trends",
+        "heading": "最近の価格動向とモメンタム",
+        "content": "📊 **テクニカル分析:** ボリンジャーバンド上限突破（過熱圏入り）\n\n📉 **心理指標:** RSI 67.3（中立エリア）\n\n🛡️ **主要レンジ:** 直近1ヶ月の高値 $364.76、安値 $318.25\n\n⚠️ 前回の高値ブレイクアウトを試行中"
+      },
+      {
+        "type": "analysis",
+        "heading": "主要触媒とリスク要因",
+        "content": "半導体需要は堅調だが、過熱テクニカルは月次高値付近での利確を警告。"
+      },
+      {
+        "type": "news",
+        "heading": "最近のニュースと展開",
+        "sources": [
+          {
+            "name": "Yahoo Finance",
+            "url": "..."
+          }
+        ],
+        "content": "AIチップ需要が半導体セクターのモメンタムを推進。"
+      },
+      {
+        "type": "insights",
+        "heading": "機関投資家・インサイダー活動",
+        "content": "主要機関がブレイクアウト試行中にポジション維持。"
+      },
+      {
+        "type": "outlook",
+        "heading": "投資見通し（3～12ヶ月）",
+        "bull_case": "AI/半導体スーパーサイクル継続。",
+        "bear_case": "月次高値での過熱修正。",
+        "strategy": "20日線上のトレーリングストップ。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "TSMは過熱していますか？",
+        "answer": "RSI67.3は中立。上限バンドブレイクはモメンタム継続を示唆。"
+      },
+      {
+        "question": "主要抵抗線はどこですか？",
+        "answer": "$364.76の月次高値。明確なブレイクで上値目標。"
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "株価チャートがレジスタンスをブレイクアウトする劇的なライティングのシネマティック3D金融イラスト",
+      "size": "1024x1024"
+    },
+    "inline": {
+      "prompt": "ボリンジャーバンドブレイクアウトとRSIインジケーターを表示するミニマリストベクター株価チャート",
+      "size": "1024x1024"
+    }
+  }
+}
