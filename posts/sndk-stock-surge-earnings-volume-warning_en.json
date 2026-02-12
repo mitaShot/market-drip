@@ -1,0 +1,101 @@
+{
+  "meta_info": {
+    "selected_ticker": "SNDK",
+    "selection_reason": "SNDK stands out as today's hottest stock based on drama + volume. Earnings surprise and guidance expectations triggered a surge with explosive volume, amplified by mixed analyst signals (upside potential vs overvaluation warnings). [page:1]",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "SNDK Surge Alert: +10% Jump - Why Chasing Now is Riskiest",
+    "meta_description": "SanDisk(SNDK) explodes on earnings beat + volume spike. But avg target below current price? Check these 3 levels first.",
+    "slug": "sndk-stock-surge-earnings-volume-warning",
+    "category": "Stocks",
+    "tags": [
+      "SNDK",
+      "Semiconductors",
+      "High-Volume",
+      "Earnings-Drip"
+    ],
+    "published_date": "2026-02-12",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Summary",
+      "points": [
+        "Why Moving: EPS $6.20 (est $3.31) & revenue $3.03B (est $2.67B) surprise drove the surge. [page:1]",
+        "Whale Signal: Daily volume ~20.18M shares exceeds avg (~19.47M) - short-term flows dominating. [page:1]",
+        "Verdict: Hold (no chasing) - Consensus target below current price signals volatility over momentum. [page:1]"
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$599.34",
+      "todays_change": "+10.7%",
+      "target_price_avg": "$542.85",
+      "market_cap": "$88.44B",
+      "rsi_index": "N/A",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "SNDK surged on earnings + volume explosion, but consensus target below current price prioritizes risk management over returns. [page:1]",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is SNDK Moving?",
+        "content": "SNDK jumped +10.7% intraday, capturing market attention. [page:1] Core catalyst: Q4 EPS $6.20 beat consensus $3.31, revenue $3.03B topped $2.67B estimates. [page:1] +61.2% YoY revenue reignited memory cycle/AI demand expectations, fueling momentum. [page:1]"
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "Price action shows gap-up + trend pattern, with 20.18M volume exceeding avg 19.47M - clear buying pressure. [page:1] Intraday high $612.80 acts as psychological resistance; prior close $541.64 is first support. [page:1] Chasing without stops remains highest risk in this setup. [page:1]"
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Bull catalysts: (1) earnings beat, (2) +61.2% YoY revenue, (3) analyst target hikes/Outperform calls. [page:1] Key risk: price may have front-run expectations - MarketBeat consensus $542.85 sits below current $599 range, requiring further surprises for upside. [page:1] Post-surge news gaps often trigger sharp pullbacks. [page:1]"
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "MarketBeat",
+            "url": "https://www.marketbeat.com/instant-alerts/sandisk-nasdaqsndk-shares-up-107-still-a-buy-2026-02-11/"
+          },
+          {
+            "name": "NASDAQ.com",
+            "url": "https://www.nasdaq.com/articles/sandisk-sndk-price-target-increased-11360-62579"
+          }
+        ],
+        "content": "1) SNDK +10.7% on confirmed earnings beat (EPS $6.20 vs $3.31, rev $3.03B vs $2.67B). [page:1] 2) Avg 1-year target raised to $625.79, but represents -10.02% from latest close - headline upgrade masks overvaluation debate. "
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "Insider: Director Necip Sayiner sold 1,271 shares @ $195.14 avg (Dec 3, 2025). [page:1] Institutions added positions in Q3, but today's move reflects short-term options/program flows more than fundamentals. [page:1]"
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "If earnings beat proves sustainable (revenue growth + margin recovery), target upgrades and re-rating to $612.80+ possible. [page:1]",
+        "bear_case": "Consensus $542.85 below current price risks 'expectations front-run' correction; $541.64 break accelerates downside. [page:1]",
+        "strategy": "Primary rule: No chasing. Conservative: Wait $541 support + volatility contraction. Aggressive: $612.80 break/hold only, with hard stops. [page:1]"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Why did SNDK surge today?",
+        "answer": "EPS $6.20 beat $3.31 est, revenue $3.03B topped $2.67B, plus 20.18M volume surge. [page:1]"
+      },
+      {
+        "question": "Should I buy now?",
+        "answer": "Post-surge volatility favors waiting (consensus $542.85 target < current price). [page:1]"
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "SNDK",
+    "chart_filename": "sndk-stock-surge-earnings-volume-warning_inner.webp",
+    "analysis": "**Technical:** Above 20-day MA (Uptrend intact)\\n\\n**Sentiment:** RSI 62.4 (Neutral zone)\\n\\n**Key Range:** 1-month High $725.00, Low $373.97\\n\\n**Volume:** 20.32M (0.97x vs 20D avg)\\n\\n**Analyst targets:** Mean $688.16 (+14.8%) / Median $700.00 (Range $300.00–$1000.00)",
+    "image_alt": "SNDK stock chart as of 2026-02-11: close $599.34 (+10.65%), RSI(14) 62.4, 1-month range $374.0–$725.0.",
+    "image_caption": "SNDK (2026-02-11): Uptrend intact (above 20-day MA); Close $599.34 (+10.65%), RSI(14) 62.4."
+  }
+}
