@@ -1,0 +1,101 @@
+{
+  "meta_info": {
+    "selected_ticker": "CSCO",
+    "selection_reason": "今日の米国市場で**CSCO**は1日変動幅(-12%)と出来高(平均比約3倍)が同時に爆発した「決算発表後ガイダンスショック」型のドラマが最大。Q2決算自体は売上153億ドル(+10% YoY)、Non-GAAP EPS 1.04ドルで堅調でしたが、市場はマージン/コスト問題とガイダンス解釈により急落が拡大。",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "CSCO -12%暴落：決算は勝ったのに何で投げられた？75ドル線崩壊警告",
+    "meta_description": "Cisco(CSCO)一日-12%急落。Q2売上153億ドル・EPS 1.04ドルでもガイダンス/マージン懸念で投げ売り。75ドル防衛失敗時の次シナリオ。",
+    "slug": "csco-cisco-stock-plunge-guidance-margin-risk-75-break",
+    "category": "Stocks",
+    "tags": [
+      "CSCO",
+      "Technology",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-13",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒投資核心サマリー",
+      "points": [
+        "Why Moving：Q2決算は上回ったが「マージン圧力+ガイダンス失望」解釈で一日-12%急落。",
+        "Whale Signal：出来高6,801万株で普段(2,219万株)の約3倍—パニック性デレバレッジング/機関リバランス区間。",
+        "Verdict：Hold(保守的)—75ドル下はボラティリティ区間なので「追撃買い禁止」、2〜3営業日安定確認優先。"
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$75.00",
+      "todays_change": "-12.32%",
+      "target_price_avg": "n/a",
+      "market_cap": "$296.33B",
+      "rsi_index": "n/a",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "決算は「良かったのに」株価は暴落。CSCOはQ2売上153億ドル(+10% YoY)、Non-GAAP EPS 1.04ドルにも関わらずマージン(原価)負担とガイダンス解釈が重なり一日-12%急落、出来高は3倍に急増。",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is CSCO Moving?",
+        "content": "CiscoはFY2026 Q2で売上153億ドル(+10% YoY)、GAAP EPS 0.80ドル、Non-GAAP EPS 1.04ドルを発表、年間ガイダンス売上612〜617億ドル、Non-GAAP EPS 4.13〜4.17ドルを提示。しかし市場は「良い数字」より利益率圧力(部品/メモリコスト等)と今後四半期マージンリスクにより大きく価格に反映し急落。つまり今日の核心発火点は決算自体ではなく「品質(マージン)と次四半期信頼」でした。"
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "当日株価は85.54ドル(前日終値)から75ドルへ急落(-12.32%)、日中高値80.37ドル、安値74.09ドルを記録。出来高は6,801万株で平均2,219万株比約3.1倍で「投げ売り水準」が伴った下落(ディストリビューション)性格が強い。テクニカル的には75ドル付近が短期心理線で、終値基準でこのレベルが崩れると需給真空区間が出やすく、損切り/ヘッジ注文が連鎖的に付くリスク大。"
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "好材料は明確：CiscoはQ2で製品受注増加(前年比+18%)とハイパースケーラー向けAIインフラ受注21億ドルを強調、ネットワーキング売上も+21%で強かった。一方価格を支配するのは「マージン圧力」—コスト上昇が続けばEPSが耐えてもバリュエーション・ディレイティングが加速可能。また会社ガイダンスに関税(tariffs)影響が含まれると明記されており、政策/原価変数が大きくなるほど市場は保守的にディスカウントする可能性。"
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "Cisco Newsroom (Earnings Release)",
+            "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/cisco-reports-second-quarter-earnings.html"
+          },
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html"
+          }
+        ],
+        "content": "核心ニュースは2つ。(1)CiscoがFY2026 Q2決算(売上153億ドル、Non-GAAP EPS 1.04ドル)とQ3/年間ガイダンスを発表、AIインフラ受注(ハイパースケーラー21億ドル)等成長シグナル提示。(2)しかし主要外信はメモリ価格等原価がマージンを圧迫しガイダンスが「微妙」と評価し株価急落を報道。"
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "今日は「オプション一発」より現物出来高急増が強いシグナル：出来高6,801万株(平均2,219万株)で、短期的に機関リバランス・リスクパリティ縮小・クオント売り(ボラティリティベース)の可能性大。決算イベント直後-12%急落は通常ポジション整理(損切り/マージンコール性)水準が混じり価格発見が過剰に進行しやすく、インサイダー買い/機関13F等の「確定データ」は次公表区間で再確認必要。"
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "AIインフラ受注(ハイパースケーラー21億ドル)とネットワーキング成長(+21%)が続き、FY2026売上612〜617億ドルガイダンスを実績上段近く達成すれば「暴落後バリューリレイティング」が可能。",
+        "bear_case": "メモリ/部品原価負担が予想より長引けばマージンが再び屈し、決算悪くなくても「品質問題」で追加下落(トレンド下転換)リスク。",
+        "strategy": "戦略は「価格確認後参入」。1) 75ドル回復・維持(2〜3営業日)+出来高正常化が出れば分割接近、2) 75ドル下でボラティリティ拡大時は新規買いより現金比重・ヘッジ(短い満期プット/コールスプレッド)でリスクを先に管理。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "CSCOは決算良かったのに何で株価が大きく落ちた？",
+        "answer": "売上・EPS上回りも市場はマージン(原価)圧力とガイダンスの「質(利益率/見通し)」により大きく評価しディレイティング発生。"
+      },
+      {
+        "question": "今CSCOすぐ買ってもいい？",
+        "answer": "一日-12%急落後はボラティリティ大きく「底確認」優先。75ドル奪還と出来高鎮静(パニック水準消化)確認前まで追撃買いはリスク大。"
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CSCO",
+    "chart_filename": "csco-cisco-stock-plunge-guidance-margin-risk-75-break_inner.webp",
+    "analysis": "**テクニカル分析:** 20日移動平均線下抜け（弱気トレンド）\\n\\n**心理指標:** RSI 40.5（中立エリア）\\n\\n**主要レンジ:** 直近1ヶ月の高値 $88.19、安値 $73.01\\n\\n**出来高:** 68.05M（20日平均比 2.59倍）\\n\\n**目標株価（アナリスト）:** 平均 $87.86（+17.1%）/ 中央 $88.00（レンジ $67.00–$100.00）",
+    "image_alt": "CSCO 株価チャート（2026-02-12時点）: 終値 $75.00（-12.32%）, RSI(14) 40.5, 直近1ヶ月レンジ $73.0–$88.2.",
+    "image_caption": "CSCO（2026-02-12）: 弱気基調（20日線下）。終値 $75.00（-12.32%）, RSI(14) 40.5。"
+  }
+}

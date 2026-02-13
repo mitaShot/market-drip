@@ -1,0 +1,101 @@
+{
+  "meta_info": {
+    "selected_ticker": "CSCO",
+    "selection_reason": "오늘 미 증시에서 **CSCO**는 하루 변동폭(-12%대)과 거래량(평균 대비 약 3배)이 동시에 터진 ‘실적 발표 후 가이던스 쇼크’형 드라마가 가장 큽니다. Q2 실적 자체는 매출 153억달러(+10% YoY), Non-GAAP EPS 1.04달러로 견조했지만, 시장은 마진/비용(메모리 비용 등) 이슈와 가이던스 해석에 더 크게 반응하며 급락이 확산된 케이스입니다.",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "CSCO -12% 폭락: 실적은 이겼는데 왜 던졌나? 75달러선 붕괴 경고",
+    "meta_description": "Cisco(CSCO) 하루 -12% 급락. Q2 매출 153억달러·EPS 1.04달러에도 가이던스/마진 우려로 투매. 75달러 방어 실패 시 다음 시나리오.",
+    "slug": "csco-cisco-stock-plunge-guidance-margin-risk-75-break",
+    "category": "Stocks",
+    "tags": [
+      "CSCO",
+      "Technology",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-13",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "Why Moving: Q2 실적은 상회했지만 ‘마진 압박+가이던스 실망’ 해석이 붙으며 하루 -12% 급락.",
+        "Whale Signal: 거래량이 6,801만주로 평소(2,219만주) 대비 약 3배 폭증—패닉성 디레버리징/기관 리밸런싱 구간.",
+        "Verdict: Hold(보수적) — 75달러 하회 구간은 변동성 구간이라 ‘추격매수 금지’, 2~3거래일 안정 확인이 우선."
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$75.00",
+      "todays_change": "-12.32%",
+      "target_price_avg": "N/A",
+      "market_cap": "$296.33B",
+      "rsi_index": "N/A",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "실적은 ‘좋았는데’ 주가는 폭락했다. CSCO는 Q2 매출 153억달러(+10% YoY), Non-GAAP EPS 1.04달러에도 불구하고 마진(원가) 부담과 가이던스 해석이 겹치며 하루 -12% 급락, 거래량은 3배로 폭증했다.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is CSCO Moving?",
+        "content": "Cisco는 FY2026 Q2에서 매출 153억달러(+10% YoY), GAAP EPS 0.80달러, Non-GAAP EPS 1.04달러를 발표했고 연간 가이던스로 매출 612~617억달러, Non-GAAP EPS 4.13~4.17달러를 제시했습니다. 그럼에도 시장은 ‘좋은 숫자’보다 이익률 압박(부품/메모리 비용 등)과 향후 분기 마진 리스크를 더 크게 가격에 반영하면서 주가가 급락했습니다. 즉 오늘의 핵심 촉발점은 실적 자체가 아니라 ‘퀄리티(마진)와 다음 분기 신뢰’였습니다."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "당일 주가는 85.54달러(전일 종가)에서 75달러로 급락(-12.32%)하며 장중 고점 80.37달러, 저점 74.09달러를 기록했습니다. 거래량은 6,801만주로 평균 2,219만주 대비 약 3.1배로 ‘던지는 물량’이 동반된 하락(디스트리뷰션) 성격이 강합니다. 기술적으로는 75달러 부근이 단기 심리선인데, 종가 기준으로 이 레벨이 무너지면 수급 공백 구간이 나올 수 있어 손절/헤지 주문이 연쇄적으로 붙을 위험이 큽니다."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "호재 쪽은 분명합니다: Cisco는 Q2에서 제품 주문 증가(전년 대비 +18%)와 하이퍼스케일러 대상 AI 인프라 주문 21억달러를 강조했고, 네트워킹 매출도 +21%로 강했습니다. 반면 리스크는 ‘마진 압박’이 주가를 지배한다는 점입니다—비용 상승이 지속되면 EPS가 버텨도 밸류에이션 디레이팅이 더 빨라질 수 있습니다. 또한 회사 가이던스에 관세(tariffs) 영향이 포함된다고 명시돼 있어, 정책/원가 변수가 커질수록 시장은 보수적으로 할인할 가능성이 있습니다."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "Cisco Newsroom (Earnings Release)",
+            "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/cisco-reports-second-quarter-earnings.html"
+          },
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html"
+          }
+        ],
+        "content": "핵심 뉴스는 2개입니다. (1) Cisco가 FY2026 Q2 실적(매출 153억달러, Non-GAAP EPS 1.04달러)과 Q3/연간 가이던스를 발표하며 AI 인프라 주문(하이퍼스케일러 21억달러) 등 성장 신호를 제시했습니다. (2) 하지만 주요 외신은 메모리 가격 등 원가가 마진을 압박해 가이던스가 ‘미지근’하다는 평가를 내리며 주가 급락을 보도했습니다."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "오늘은 ‘옵션 한 방’보다 현물 거래량 폭증이 더 강한 신호입니다: 거래량 6,801만주(평균 2,219만주)로, 단기적으로 기관 리밸런싱·리스크 패리티 축소·퀀트 매도(변동성 기반) 가능성이 큽니다. 실적 이벤트 직후 -12% 급락은 통상적으로 포지션 정리(손절/마진콜성) 물량이 섞여 가격 발견이 과하게 진행될 수 있어, 내부자 매수/기관 13F 같은 ‘확정 데이터’는 다음 공시 구간에서 재확인이 필요합니다."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "AI 인프라 주문(하이퍼스케일러 21억달러)과 네트워킹 성장(+21%)이 이어지고, FY2026 매출 612~617억달러 가이던스를 실제로 상단에 가깝게 달성하면 ‘폭락 후 밸류 리레이팅’이 가능합니다.",
+        "bear_case": "메모리/부품 원가 부담이 생각보다 길어지면 마진이 재차 꺾이고, 실적이 나쁘지 않아도 ‘퀄리티 이슈’로 추가 하락(추세 하향 전환) 위험이 있습니다.",
+        "strategy": "전략은 ‘가격 확인 후 진입’입니다. 1) 75달러 회복·유지(2~3거래일) + 거래량 정상화가 나오면 분할 접근, 2) 75달러 아래에서 변동성 확대 시엔 신규매수보다 현금 비중·헤지(짧은 만기 풋/콜스프레드)로 리스크를 먼저 관리하세요."
+      }
+    ],
+    "faq": [
+      {
+        "question": "CSCO는 실적이 좋았는데 왜 주가가 크게 빠졌나요?",
+        "answer": "매출·EPS 상회에도 시장은 마진(원가) 압박과 가이던스의 ‘질(이익률/가시성)’을 더 크게 평가해 디레이팅이 발생했기 때문입니다."
+      },
+      {
+        "question": "지금 CSCO를 바로 사도 되나요?",
+        "answer": "하루 -12% 급락 후에는 변동성이 커 ‘바닥 확인’이 우선입니다. 75달러선 재탈환과 거래량 진정(패닉 물량 소화) 확인 전까지는 추격매수는 리스크가 큽니다."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CSCO",
+    "chart_filename": "csco-cisco-stock-plunge-guidance-margin-risk-75-break_inner.webp",
+    "analysis": "**기술적 위치:** 20일선 하회 (약세 흐름)\\n\\n**심리 지표:** RSI 40.5 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $88.19, 최저 $73.01\\n\\n**거래량:** 68.05M (20일 평균 대비 2.59배)\\n\\n**목표가(애널리스트):** 평균 $87.86 (+17.1%) / 중간값 $88.00 (범위 $67.00~$100.00)",
+    "image_alt": "CSCO 주가 차트(2026-02-12 기준): 종가 $75.00 (-12.32%), RSI(14) 40.5, 최근 1개월 범위 $73.0~$88.2.",
+    "image_caption": "CSCO (2026-02-12): 약세 흐름(20일선 하회). 종가 $75.00 (-12.32%), RSI(14) 40.5."
+  }
+}

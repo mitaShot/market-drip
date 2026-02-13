@@ -1,0 +1,101 @@
+{
+  "meta_info": {
+    "selected_ticker": "CSCO",
+    "selection_reason": "Today in the US market, **CSCO** has the biggest 'earnings announcement post-guidance shock'-type drama with a daily range (-12%) and volume (about 3x average) exploding simultaneously. Q2 earnings itself were solid with revenue $15.3B (+10% YoY), Non-GAAP EPS $1.04, but the market reacted more sharply to margin/cost issues and guidance interpretation, spreading the plunge.",
+    "market_status": "Closed"
+  },
+  "seo": {
+    "title": "CSCO -12% Plunge: Earnings Beat But Why Dumped? 75 Warning",
+    "meta_description": "Cisco(CSCO) daily -12% plunge. Q2 revenue $15.3B·EPS $1.04 despite guidance/margin concerns triggering sell-off. Next scenario if 75 defense fails.",
+    "slug": "csco-cisco-stock-plunge-guidance-margin-risk-75-break",
+    "category": "Stocks",
+    "tags": [
+      "CSCO",
+      "Technology",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-13",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Key Summary",
+      "points": [
+        "Why Moving: Q2 earnings beat but 'margin pressure + guidance disappointment' interpretation led to -12% daily plunge.",
+        "Whale Signal: Volume at 68.01M shares, about 3x normal (22.19M)—panic deleveraging/institutional rebalancing zone.",
+        "Verdict: Hold (conservative) — below 75 is volatility zone so 'no chasing buys', confirm stability in 2-3 days first."
+      ]
+    },
+    "key_statistics": {
+      "current_price": "$75.00",
+      "todays_change": "-12.32%",
+      "target_price_avg": "N/A",
+      "market_cap": "$296.33B",
+      "rsi_index": "N/A",
+      "sentiment": "Bearish"
+    },
+    "excerpt": "Earnings were 'good' but stock plunged. CSCO's Q2 revenue $15.3B (+10% YoY), Non-GAAP EPS $1.04, yet margin (cost) burden and guidance interpretation overlapped, causing -12% daily drop with 3x volume surge.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is CSCO Moving?",
+        "content": "Cisco announced FY2026 Q2 revenue $15.3B (+10% YoY), GAAP EPS $0.80, Non-GAAP EPS $1.04, and annual guidance revenue $61.2-61.7B, Non-GAAP EPS $4.13-4.17. Yet the market priced in margin pressure (parts/memory costs etc.) and future quarter margin risk more heavily than the 'good numbers', causing the plunge. In short, today's key trigger was not the earnings itself but 'quality (margin) and next quarter confidence'."
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "Daily price plunged from $85.54 (prior close) to $75 (-12.32%), with intraday high $80.37, low $74.09. Volume hit 68.01M shares vs average 22.19M, about 3.1x, showing 'dumping volume' accompanied decline (distribution) character. Technically, around $75 is short-term psychological line, and closing below it risks supply vacuum triggering stop/hedge orders in chain."
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Positives are clear: Cisco highlighted Q2 product order growth (+18% YoY) and hyperscaler AI infra orders $2.1B, with networking revenue +21%. Risks dominating price are 'margin pressure'—if cost rises persist, valuation derating accelerates even if EPS holds. Also, guidance explicitly includes tariff impacts, so policy/cost variables growing means market likely to discount conservatively."
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "sources": [
+          {
+            "name": "Cisco Newsroom (Earnings Release)",
+            "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/cisco-reports-second-quarter-earnings.html"
+          },
+          {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html"
+          }
+        ],
+        "content": "Key news in 2 items. (1) Cisco announced FY2026 Q2 earnings (revenue $15.3B, Non-GAAP EPS $1.04) and Q3/annual guidance, highlighting growth signals like AI infra orders (hyperscaler $2.1B). (2) Major outlets reported stock plunge, evaluating guidance as 'lukewarm' due to memory costs etc. squeezing margins."
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "Today, physical volume surge outweighs 'options one-shot': 68.01M shares (avg 22.19M), suggesting institutional rebalancing·risk parity reduction·quant selling (volatility-based). Post-earnings -12% plunge typically mixes position unwinds (stops/margin call), so 'confirmed data' like insider buys/13F needs recheck at next filings."
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "If AI infra orders (hyperscaler $2.1B) and networking growth (+21%) continue, and FY2026 revenue $61.2-61.7B guidance hits near upper end, 'post-plunge value re-rating' possible.",
+        "bear_case": "If memory/parts cost burden lasts longer than expected, margins bend again, risking further downside (trend reversal) even on decent earnings due to 'quality issues'.",
+        "strategy": "Strategy is 'enter after price confirmation'. 1) On 75 recovery·hold (2-3 days) + volume normalization, approach in tranches. 2) Below 75 with volatility spike, prioritize cash weight·hedge (short-dated put/call spread) over new buys for risk management."
+      }
+    ],
+    "faq": [
+      {
+        "question": "CSCO earnings were good, so why did the stock plunge so much?",
+        "answer": "Revenue·EPS beat, but market weighed margin (cost) pressure and guidance 'quality (profitability/visibility)' more heavily, causing derating."
+      },
+      {
+        "question": "Can I buy CSCO right now?",
+        "answer": "After -12% daily plunge, volatility is high so 'bottom confirmation' first. Chasing buys risky until 75 reclaimed and volume calms (panic volume digested)."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CSCO",
+    "chart_filename": "csco-cisco-stock-plunge-guidance-margin-risk-75-break_inner.webp",
+    "analysis": "**Technical:** Below 20-day MA (Bearish trend)\\n\\n**Sentiment:** RSI 40.5 (Neutral zone)\\n\\n**Key Range:** 1-month High $88.19, Low $73.01\\n\\n**Volume:** 68.05M (2.59x vs 20D avg)\\n\\n**Analyst targets:** Mean $87.86 (+17.1%) / Median $88.00 (Range $67.00–$100.00)",
+    "image_alt": "CSCO stock chart as of 2026-02-12: close $75.00 (-12.32%), RSI(14) 40.5, 1-month range $73.0–$88.2.",
+    "image_caption": "CSCO (2026-02-12): Bearish tone (below 20-day MA); Close $75.00 (-12.32%), RSI(14) 40.5."
+  }
+}
