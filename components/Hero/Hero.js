@@ -9,12 +9,7 @@ import { useLanguage } from '@/context/LanguageContext';
 export default function Hero() {
     const { language, t } = useLanguage();
 
-    const categories = [
-        { name: t('categories.Stocks'), path: `/${language}/tag/stocks` },
-        { name: t('categories.Dividends'), path: `/${language}/tag/dividends` },
-        { name: t('categories.Banking'), path: `/${language}/tag/banking` },
-        { name: t('categories.Crypto'), path: `/${language}/tag/crypto` },
-    ];
+    const categories = [];
 
     return (
         <section className={styles.hero}>
@@ -33,13 +28,15 @@ export default function Hero() {
                 <p className={styles.subtitle}>
                     {t('hero.subtitle')}
                 </p>
-                <div className={styles.chips}>
-                    {categories.map((cat) => (
-                        <Link key={cat.path} href={cat.path} className={styles.chip}>
-                            {cat.name}
-                        </Link>
-                    ))}
-                </div>
+                {categories.length > 0 && (
+                    <div className={styles.chips}>
+                        {categories.map((cat) => (
+                            <Link key={cat.path} href={cat.path} className={styles.chip}>
+                                {cat.name}
+                            </Link>
+                        ))}
+                    </div>
+                )}
             </div>
         </section>
     );

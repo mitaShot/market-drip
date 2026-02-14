@@ -7,7 +7,7 @@ export default function ClientRedirector({ targetPath }) {
     const router = useRouter();
 
     useEffect(() => {
-        const browserLang = navigator.language || navigator.userLanguage;
+        const browserLang = navigator.language;
         let targetLang = 'en';
 
         if (browserLang.startsWith('ko')) {
