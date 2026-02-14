@@ -74,11 +74,6 @@ function generateLanguageSitemap(lang, posts) {
     // Home page
     urls.push({ loc: `${BASE_URL}/${lang}`, priority: '1.0' });
 
-    // Category/Tag pages
-    CATEGORIES.forEach(cat => {
-        urls.push({ loc: `${BASE_URL}/${lang}/tag/${cat}`, priority: '0.8' });
-    });
-
     // Post pages
     posts.forEach(post => {
         urls.push({
