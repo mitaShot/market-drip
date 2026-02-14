@@ -1,0 +1,194 @@
+{
+  "meta_info": {
+    "selected_ticker": "CRSR",
+    "selection_reason": "Among the stocks with the strongest 'drama + trading explosion' combination in the US market today, Corsair Gaming (CRSR) stands out. It has a clear narrative compared to mega-caps (NVDA etc.), with earnings release (sharp net income surge), intraday surge (60%+), and massive volume, making it the 'hottest single ticker'.",
+    "references": [
+      {
+        "name": "Nasdaq (RTTNews) - Corsair Gaming Stock Surges 62%",
+        "url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+      },
+      {
+        "name": "StockAnalysis - Today's Most Active Stocks (Updated Feb 13, 2026)",
+        "url": "https://stockanalysis.com/markets/active/"
+      },
+      {
+        "name": "Stocktwits News Articles - CRSR Stock Is Soaring Today After Corsair's Q4 Beat, $50M Share Repurchase Program",
+        "url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+      }
+    ]
+  },
+  "seo": {
+    "title": "CRSR Explodes in One Day: 'Earnings Shock' or Real 'Turnaround Signal'?",
+    "meta_description": "Corsair (CRSR) surges after earnings release. Net income spike, volume explosion, share repurchase buzz—key catalysts and risks compressed.",
+    "slug": "crsr-corsair-earnings-surge-20260214",
+    "category": "Stocks",
+    "tags": [
+      "CRSR",
+      "Tech",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-14",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Key Summary",
+      "points": [
+        "Why Moving: CRSR surged alongside news flow of significantly increased net income in Q4 earnings release.",
+        "Whale Signal: Intraday volume hit 'top US market tier', suggesting high short-term supply/demand concentration possibility, but cannot confirm institutional/large fund inflow based on this alone.",
+        "Verdict: Hold — Earnings and return policy momentum confirmed, but post-surge volatility risk makes 'chasing buys' less rational than conditional approach."
+      ],
+      "claims": [
+        {
+          "claim": "CRSR stock surged approximately 62% intraday on Friday morning, potentially linked to Q4 earnings release (net income surge) as reported.",
+          "evidence_type": "other",
+          "metric": "price_change_pct",
+          "value": 62.99,
+          "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+        },
+        {
+          "claim": "CRSR ranked in the 'Most Actively Traded Today' upper tier with significantly tallied volume on specific date.",
+          "evidence_type": "volume_only",
+          "metric": "volume",
+          "value": 31870944,
+          "source_url": "https://stockanalysis.com/markets/active/"
+        }
+      ]
+    },
+    "excerpt": "CRSR surged with Q4 earnings (net income surge) reports and top-tier volume spike. But post-surge, volatility management is key.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is CRSR Moving?",
+        "content": "CRSR's core catalyst today is 'earnings surprise-based narrative'. Reports indicate Q4 net income rose sharply year-over-year, interpreted as direct driver of intraday surge. Combined with shareholder returns (share repurchase program) news, short-term momentum strengthened.",
+        "claims": [
+          {
+            "claim": "Corsair Gaming's Q4 net income increased to $26.1 million (vs $2.7 million last year), and this earnings tied to stock surge as reported.",
+            "evidence_type": "headline_event",
+            "metric": "earnings",
+            "value": 26100000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "'Q4 earnings beat' and '$50M share repurchase program' mentioned as CRSR surge background.",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "Price-wise, CRSR shows 'single event (earnings) post-surge' with very strong momentum. However, such surges typically bring bid gaps and volatility expansion, so new entries need support/resistance confirmation. Simultaneous volume spike signals concentrated short-term trading interest.",
+        "claims": [
+          {
+            "claim": "CRSR reported up approximately 62% intraday (including vs prior close).",
+            "evidence_type": "price_action",
+            "metric": "change_pct",
+            "value": 62.99,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "StockAnalysis 'Active Today' lists CRSR volume at 31,870,944 (update date included).",
+            "evidence_type": "price_action",
+            "metric": "volume",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Upside catalysts: (1) Earnings surprise summarized as net income surge, (2) Market-reactive 'shareholder return' keywords like repurchase program. Risks: Post-surge price may outpace fundamentals, and Wall Street views mixed. Next watch: Company guidance tone (conservative/aggressive) and volume sustainability.",
+        "claims": [
+          {
+            "claim": "CRSR surge potentially linked to Q4 earnings release (net income surge) as reported.",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "Articles note mixed Wall Street (analyst) views, with some lowering targets and conservative comments.",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "content": "First, earnings reports highlighted CRSR net income surge and revenue growth. Second, Q4 beat plus repurchase program reports ignited short-term supply/psychology. These two news items bundle as core backdrop to 'surge + volume'.",
+        "claims": [
+          {
+            "claim": "Nasdaq reports Q4 net income at $26.1 million increase, net sales $436.9 million increase.",
+            "evidence_type": "headline_event",
+            "metric": "key_figure",
+            "value": 436900000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "Stocktwits article cites 'Q4 earnings beat' and '$50M share repurchase program' as CRSR surge background.",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "No direct evidence (13F, insider filings etc.) secured to confirm 'institutional/insider' at this point. However, top-tier volume observed suggests significant short-term supply concentration possible. In this range, 'who bought' matters less than 'volume sustainability' for risk management.",
+        "claims": [
+          {
+            "claim": "StockAnalysis 'Active Today' includes CRSR in top volume stocks with large tallied volume.",
+            "evidence_type": "volume_only",
+            "metric": "volume_only",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "If earnings improvement continues and repurchase-like returns execute as actual buys, 're-rating' window could open. Especially if volume holds post-surge, market may interpret as start of change, not just event.",
+        "bear_case": "If surge ends as short-term event (surprise/short-cover incl.) and volume drops sharply, volatility could expand. Mixed analyst views also signal lingering uncertainty on outlook (guidance/demand).",
+        "strategy": "Strategy favors conditional over chasing: For earnings-driven surge to become real trend, needs volume hold and volatility calm. If holding, set risk limits first accounting for post-event volatility expansion.",
+        "claims": [
+          {
+            "claim": "CRSR surge reported alongside Q4 earnings beat and share repurchase program news.",
+            "evidence_type": "other",
+            "metric": "scenario_trigger",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is CRSR surge 'one-off'?",
+        "answer": "Confirmed catalysts: Earnings (net income surge) and repurchase news. But post-surge high volatility means volume sustainability is key signal for one-off vs trend."
+      },
+      {
+        "question": "Buy timing now?",
+        "answer": "This report's base call is Hold. In surge zone, risk (volatility/gaps) management precedes price; conditional entry after volume hold/volatility ease is consistent strategy."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CRSR",
+    "chart_filename": "crsr-corsair-earnings-surge-20260214_inner.webp",
+    "analysis": "**Technical:** Breaking above Upper Band (Overbought)\\n\\n**Sentiment:** RSI 68.0 (Neutral zone)\\n\\n**Key Range:** 1-month High $7.68, Low $4.48\\n\\n**Volume:** 46.71M (12.71x vs 20D avg)\\n\\n**Analyst targets:** Mean $8.19 (+20.6%) / Median $7.50 (Range $6.00–$11.00)",
+    "image_alt": "CRSR stock chart as of 2026-02-13: close $6.79 (+48.25%), RSI(14) 68.0, 1-month range $4.5–$7.7.",
+    "image_caption": "CRSR (2026-02-13): Overbought signal (above upper Bollinger Band); Close $6.79 (+48.25%), RSI(14) 68.0."
+  }
+}

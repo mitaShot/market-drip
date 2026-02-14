@@ -1,0 +1,194 @@
+{
+  "meta_info": {
+    "selected_ticker": "CRSR",
+    "selection_reason": "오늘 미국 시장에서 ‘드라마+거래 폭발’ 조합이 가장 강한 종목 중 하나가 코르세어 게이밍(CRSR)이다. 초대형 종목(NVDA 등) 대비 서사가 명확하고, 실적 발표(순이익 급증)와 주가 급등(당일 60%대), 대규모 거래량이 동시에 포착되며 ‘핫한 단일 티커’로 선정했다.",
+    "references": [
+      {
+        "name": "Nasdaq (RTTNews) - Corsair Gaming Stock Surges 62%",
+        "url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+      },
+      {
+        "name": "StockAnalysis - Today's Most Active Stocks (Updated Feb 13, 2026)",
+        "url": "https://stockanalysis.com/markets/active/"
+      },
+      {
+        "name": "Stocktwits News Articles - CRSR Stock Is Soaring Today After Corsair's Q4 Beat, $50M Share Repurchase Program",
+        "url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+      }
+    ]
+  },
+  "seo": {
+    "title": "CRSR, 하루 만에 폭발: ‘실적 쇼크’가 아니라 ‘턴어라운드 신호’일까?",
+    "meta_description": "코르세어(CRSR)가 실적 발표 이후 급등. 순이익 급증, 거래량 폭발, 자사주 매입 이슈까지—지금 진짜 핵심 촉매와 리스크를 압축 정리.",
+    "slug": "crsr-corsair-earnings-surge-20260214",
+    "category": "Stocks",
+    "tags": [
+      "CRSR",
+      "Tech",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-14",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "Why Moving: CRSR는 4분기 실적 발표에서 순이익이 크게 늘었다는 뉴스 흐름과 함께 급등했다.",
+        "Whale Signal: 당일 거래량이 ‘미국 시장 상위권’으로 관측돼 단기 수급 쏠림 가능성은 높지만, 이것만으로 기관/대형자금 유입을 단정할 수는 없다.",
+        "Verdict: Hold — 급등의 동력(실적·환원정책)이 확인됐지만, 급등 직후엔 변동성 리스크가 커 ‘추격 매수’보다 조건부 접근이 합리적이다."
+      ],
+      "claims": [
+        {
+          "claim": "CRSR 주가가 금요일 오전 장중 약 62% 급등했으며, 이는 4분기 실적 발표(순이익 급증)와 연관될 수 있다고 보도됐다.",
+          "evidence_type": "other",
+          "metric": "price_change_pct",
+          "value": 62.99,
+          "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+        },
+        {
+          "claim": "CRSR는 ‘가장 활발하게 거래된 종목(Active Today)’ 상위권에 포함되며, 특정 날짜 기준 거래량이 크게 집계됐다.",
+          "evidence_type": "volume_only",
+          "metric": "volume",
+          "value": 31870944,
+          "source_url": "https://stockanalysis.com/markets/active/"
+        }
+      ]
+    },
+    "excerpt": "CRSR는 4분기 실적(순이익 급증) 보도와 함께 급등했고, 거래량도 상위권으로 튀었다. 다만 급등 직후엔 변동성 관리가 핵심이다.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is CRSR Moving?",
+        "content": "오늘 CRSR의 핵심 촉매는 ‘실적 발표 기반의 서프라이즈’다. 보도에 따르면 4분기 순이익이 전년 대비 큰 폭으로 늘었고, 이 재료가 장중 급등의 직접 동력으로 해석됐다. 여기에 주주환원(자사주 매입 프로그램) 뉴스까지 겹치며 단기 모멘텀이 강화되는 구도다.",
+        "claims": [
+          {
+            "claim": "Corsair Gaming의 4분기 순이익이 2,610만 달러로 증가(전년 270만 달러 대비)했고, 해당 실적이 주가 급등과 연관될 수 있다고 보도됐다.",
+            "evidence_type": "headline_event",
+            "metric": "earnings",
+            "value": 26100000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "CRSR 급등 배경으로 ‘Q4 실적 비트’와 ‘5,000만 달러 자사주 매입 프로그램’이 함께 언급됐다.",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "가격 측면에서 CRSR은 ‘단일 이벤트(실적) 이후 급등’ 형태로 모멘텀이 매우 강하다. 다만 이런 급등은 보통 호가 공백과 변동성 확대를 동반하므로, 신규 진입은 지지/저항이 잡히는지 확인이 필요하다. 거래량이 동시에 터진 점은 단기 트레이딩 관심이 집중됐다는 신호로 해석할 수 있다.",
+        "claims": [
+          {
+            "claim": "CRSR는 장중 약 62%대 상승으로 보도됐다(전일 종가 대비 상승폭 포함).",
+            "evidence_type": "price_action",
+            "metric": "change_pct",
+            "value": 62.99,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "StockAnalysis의 ‘Active Today’ 표에서 CRSR 거래량이 31,870,944로 기재됐다(업데이트 날짜 포함).",
+            "evidence_type": "price_action",
+            "metric": "volume",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "상승 촉매는 (1) 순이익 급증으로 요약되는 실적 서프라이즈, (2) 자사주 매입 프로그램처럼 시장이 즉시 반응하는 ‘주주환원’ 키워드다. 반대로 리스크는 급등 직후 가격이 펀더멘털 대비 앞서갈 수 있다는 점, 그리고 월가 시각이 엇갈린다는 점이다. 따라서 다음 관전 포인트는 회사가 제시한 가이던스의 톤(보수/공격)과, 급등 이후에도 거래가 유지되는지다.",
+        "claims": [
+          {
+            "claim": "CRSR의 주가 급등이 4분기 실적 발표(순이익 급증)와 연관될 수 있다고 보도됐다.",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "기사에서 월가(애널리스트) 의견이 엇갈린다고 언급되며, 일부는 목표가를 낮추는 등 보수적 코멘트가 포함됐다.",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "content": "첫째, 실적 발표 관련 보도에서 CRSR의 순이익 급증과 매출 증가가 함께 언급됐다. 둘째, Q4 비트와 함께 자사주 매입 프로그램이 제시됐다는 보도가 나와 단기 수급/심리에 불을 붙였다. 이 두 뉴스가 ‘급등+거래량’의 핵심 배경으로 묶인다.",
+        "claims": [
+          {
+            "claim": "Nasdaq 보도에서 4분기 순이익이 2,610만 달러로 증가했고, 매출(순매출)이 4억 3,690만 달러로 증가했다고 언급됐다.",
+            "evidence_type": "headline_event",
+            "metric": "key_figure",
+            "value": 436900000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "Stocktwits 기사에서 CRSR 급등 배경으로 ‘Q4 실적 비트’와 ‘5,000만 달러 자사주 매입 프로그램’이 언급됐다.",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "현 시점에서 ‘기관/인사이더’로 단정할 수 있는 직접 증거(13F, 내부자 거래 공시 등)를 본문 근거로 확보하진 못했다. 다만, 거래량이 시장 상위권으로 관측된 만큼 단기 수급이 크게 쏠렸을 가능성은 있다. 이 구간에선 “누가 샀나”보다 “거래가 유지되는가”가 리스크 관리에 더 직접적이다.",
+        "claims": [
+          {
+            "claim": "StockAnalysis의 ‘Active Today’에서 CRSR가 상위 거래량 종목으로 포함돼 거래량이 크게 집계됐다.",
+            "evidence_type": "volume_only",
+            "metric": "volume_only",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "실적 개선 흐름이 이어지고, 자사주 매입 같은 환원정책이 실제 매입 집행으로 확인되면 ‘재평가’ 구간이 열릴 수 있다. 특히 급등 이후에도 거래가 유지되면 시장이 단순 이벤트가 아니라 변화의 시작으로 해석할 여지가 커진다.",
+        "bear_case": "급등이 단기 이벤트성(서프라이즈/숏커버 가능성 포함)으로 끝나고 거래가 급격히 식으면 변동성이 확대될 수 있다. 또한 애널리스트 시각이 엇갈린다는 점은, 실적 이후에도 전망(가이던스/수요)에 대한 불확실성이 남아있음을 시사한다.",
+        "strategy": "전략은 ‘추격’보다 조건부 접근이 낫다: 실적 뉴스로 만든 급등이 진짜 추세가 되려면, 거래가 유지되고 변동성이 진정되는 구간이 필요하다. 이미 보유 중이라면 이벤트 이후 변동성 확대를 감안해 리스크 한도를 먼저 정하자.",
+        "claims": [
+          {
+            "claim": "CRSR 급등이 Q4 실적 비트와 자사주 매입 프로그램 뉴스와 함께 보도됐다.",
+            "evidence_type": "other",
+            "metric": "scenario_trigger",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "CRSR 급등은 ‘일회성’인가요?",
+        "answer": "근거로 확인된 촉매는 실적(순이익 급증)과 자사주 매입 뉴스다. 다만 급등 직후엔 변동성이 커서, 거래 유지 여부가 일회성/추세를 가르는 핵심 신호가 된다."
+      },
+      {
+        "question": "지금은 매수 타이밍인가요?",
+        "answer": "이 보고서의 기본 판단은 Hold다. 급등 구간에서는 가격보다 리스크(변동성·갭) 관리가 우선이며, 조건(거래 유지·변동성 완화)이 확인된 뒤 접근하는 편이 일관된 전략이다."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CRSR",
+    "chart_filename": "crsr-corsair-earnings-surge-20260214_inner.webp",
+    "analysis": "**기술적 위치:** 볼린저 밴드 상단 돌파 (과열권 진입)\\n\\n**심리 지표:** RSI 68.0 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $7.68, 최저 $4.48\\n\\n**거래량:** 46.71M (20일 평균 대비 12.71배)\\n\\n**목표가(애널리스트):** 평균 $8.19 (+20.6%) / 중간값 $7.50 (범위 $6.00~$11.00)",
+    "image_alt": "CRSR 주가 차트(2026-02-13 기준): 종가 $6.79 (+48.25%), RSI(14) 68.0, 최근 1개월 범위 $4.5~$7.7.",
+    "image_caption": "CRSR (2026-02-13): 과열 신호(볼린저 상단 돌파). 종가 $6.79 (+48.25%), RSI(14) 68.0."
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "meta_info": {
+    "selected_ticker": "CRSR",
+    "selection_reason": "今日の米国市場で「ドラマ＋取引爆発」の組み合わせが最も強い銘柄の一つがCorsair Gaming（CRSR）。メガキャップ（NVDAなど）と比べて明確なストーリーがあり、決算発表（純利益急増）、日中急騰（60％超）、大量出来高で「最も熱い単一ティッカー」に選定。",
+    "references": [
+      {
+        "name": "Nasdaq (RTTNews) - Corsair Gaming Stock Surges 62%",
+        "url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+      },
+      {
+        "name": "StockAnalysis - Today's Most Active Stocks (Updated Feb 13, 2026)",
+        "url": "https://stockanalysis.com/markets/active/"
+      },
+      {
+        "name": "Stocktwits News Articles - CRSR Stock Is Soaring Today After Corsair's Q4 Beat, $50M Share Repurchase Program",
+        "url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+      }
+    ]
+  },
+  "seo": {
+    "title": "CRSR、一日で爆発：「決算ショック」ではなく「転換点シグナル」か？",
+    "meta_description": "Corsair（CRSR）が決算発表後に急騰。純利益急増、出来高爆発、自社株買い話題まで—主要カタリストとリスクを圧縮整理。",
+    "slug": "crsr-corsair-earnings-surge-20260214",
+    "category": "Stocks",
+    "tags": [
+      "CRSR",
+      "Tech",
+      "Earnings",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-14",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒投資要点まとめ",
+      "points": [
+        "急騰理由：CRSRは第4四半期決算発表で純利益が大幅に増加したニュースフローと連動して急騰。",
+        "クジラシグナル：日中出来高が「米国市場上位階層」に達し、短期需給集中の可能性が高いが、これだけで機関・大口資金流入を断定はできない。",
+        "結論：ホールド — 決算と還元政策のモメンタムは確認されたが、急騰後のボラティリティリスクで「追証買い」より条件付きアプローチが合理的。"
+      ],
+      "claims": [
+        {
+          "claim": "CRSR株価は金曜朝に約62％急騰し、第4四半期決算発表（純利益急増）と関連があると報じられた。",
+          "evidence_type": "other",
+          "metric": "price_change_pct",
+          "value": 62.99,
+          "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+        },
+        {
+          "claim": "CRSRは特定日基準で出来高が大幅に集計され「本日最も活発に取引された銘柄」上位にランクイン。",
+          "evidence_type": "volume_only",
+          "metric": "volume",
+          "value": 31870944,
+          "source_url": "https://stockanalysis.com/markets/active/"
+        }
+      ]
+    },
+    "excerpt": "CRSRは第4四半期決算（純利益急増）報道で急騰、上位出来高も跳ね上がった。急騰後はボラティリティ管理が鍵。",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "市場概況：なぜCRSRが動いているのか？",
+        "content": "今日のCRSRの核心カタリストは「決算サプライズベースのストーリー」。報道によると第4四半期純利益が前年比大幅増、日中急騰の直接原動力と解釈された。株主還元（自社株買いプログラム）ニュースも重なり、短期モメンタムが強化。",
+        "claims": [
+          {
+            "claim": "Corsair Gamingの第4四半期純利益が2,610万ドルに増加（前年2,700万ドル比）、この決算が株価急騰に関連すると報じられた。",
+            "evidence_type": "headline_event",
+            "metric": "earnings",
+            "value": 26100000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "CRSR急騰背景に「第4四半期決算ビート」と「5,000万ドル自社株買いプログラム」が言及。",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "price_trends",
+        "heading": "直近価格動向＆モメンタム",
+        "content": "価格面でCRSRは「単一イベント（決算）後の急騰」形態でモメンタムが非常に強い。ただしこの手の急騰は通常、ホガ空洞とボラ拡大を伴うため、新規参入は支持線・抵抗線確認が必要。同時出来高急増は短期トレーディング関心集中のシグナル。",
+        "claims": [
+          {
+            "claim": "CRSRは日中約62％上昇と報じられた（前日終値比上昇幅含む）。",
+            "evidence_type": "price_action",
+            "metric": "change_pct",
+            "value": 62.99,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "StockAnalysis「Active Today」でCRSR出来高が31,870,944と記載（更新日含む）。",
+            "evidence_type": "price_action",
+            "metric": "volume",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "analysis",
+        "heading": "主要カタリスト＆リスク要因",
+        "content": "上昇カタリスト：(1)純利益急増で要約される決算サプライズ、(2)自社株買いプログラムのような市場が即反応する「株主還元」キーワード。リスクは急騰後価格がファンダメンタルズを先行する可能性と、ウォール街見解のまちまちさ。次なる注目点は会社提示ガイダンストーン（保守的／攻撃的）と急騰後も出来高が維持されるか。",
+        "claims": [
+          {
+            "claim": "CRSR急騰は第4四半期決算発表（純利益急増）と関連があると報じられた。",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "記事でウォール街（アナリスト）見解がまちまちとされ、一部目標株価引き下げなど保守的コメント含む。",
+            "evidence_type": "other",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "news",
+        "heading": "最近のニュース＆動向",
+        "content": "まず、決算報道でCRSR純利益急増と売上成長が併せて言及。次に、第4四半期ビート＋自社株買いプログラム報道で短期需給・心理に火をつけた。この2つのニュースが「急騰＋出来高」の核心背景として結びつく。",
+        "claims": [
+          {
+            "claim": "Nasdaq報道で第4四半期純利益2,610万ドル増加、純売上4億3,690万ドル増加と記載。",
+            "evidence_type": "headline_event",
+            "metric": "key_figure",
+            "value": 436900000,
+            "source_url": "https://www.nasdaq.com/articles/corsair-gaming-stock-surges-62"
+          },
+          {
+            "claim": "Stocktwits記事でCRSR急騰背景に「第4四半期決算ビート」と「5,000万ドル自社株買いプログラム」が言及。",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": 50000000,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      },
+      {
+        "type": "insights",
+        "heading": "機関投資家＆インサイダー活動",
+        "content": "現時点で「機関・インサイダー」を断定できる直接証拠（13F、インサイダー取引開示等）は本文根拠として確保できず。ただし、上位出来高観測から短期需給が大きく集中した可能性はある。このレンジでは「誰が買ったか」より「出来高持続か」がリスク管理に直接的。",
+        "claims": [
+          {
+            "claim": "StockAnalysis「Active Today」でCRSRが上位出来高銘柄に含まれ、大量出来高が集計された。",
+            "evidence_type": "volume_only",
+            "metric": "volume_only",
+            "value": 31870944,
+            "source_url": "https://stockanalysis.com/markets/active/"
+          }
+        ]
+      },
+      {
+        "type": "outlook",
+        "heading": "投資見通し（3～12ヶ月）",
+        "bull_case": "決算改善フローが続き、自社株買い等の還元政策が実際の買い執行で確認されれば「再評価」窓が開く可能性。特に急騰後も出来高が維持されれば、市場が単なるイベントでなく変化の始まりと解釈する余地が拡大。",
+        "bear_case": "急騰が短期イベント性（サプライズ／ショートカバー含む）で終わり出来高が急減すればボラティリティ拡大の可能性。アナリスト見解まちまちも、見通し（ガイダンス／需要）に不確実性が残ることを示唆。",
+        "strategy": "戦略は「追証」より条件付きアプローチが適切：決算駆動の急騰が本物のトレンドになるには、出来高維持とボラティリティ鎮静化が必要。保有中であればイベント後ボラ拡大を考慮し、まずリスク限度を設定。",
+        "claims": [
+          {
+            "claim": "CRSR急騰は第4四半期決算ビートと自社株買いプログラムニュースと併せて報じられた。",
+            "evidence_type": "other",
+            "metric": "scenario_trigger",
+            "value": null,
+            "source_url": "https://stocktwits.com/news-articles/markets/equity/crsr-stock-soaring-after-q4-beat-50m-share-repurchase-program/cZR5zkxR4tJ"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "CRSR急騰は「一過性」？",
+        "answer": "確認済みカタリスト：決算（純利益急増）と自社株買いニュース。ただし急騰後ボラ高のため、出来高持続有無が一過性／トレンドの決定的シグナル。"
+      },
+      {
+        "question": "今は買いタイミング？",
+        "answer": "本レポートの基本判断はホールド。急騰ゾーンでは価格よりリスク（ボラ／ギャップ）管理が優先、出来高維持／ボラ緩和確認後の条件付き参入が一貫戦略。"
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "CRSR",
+    "chart_filename": "crsr-corsair-earnings-surge-20260214_inner.webp",
+    "analysis": "**テクニカル分析:** ボリンジャーバンド上限突破（過熱圏入り）\\n\\n**心理指標:** RSI 68.0（中立エリア）\\n\\n**主要レンジ:** 直近1ヶ月の高値 $7.68、安値 $4.48\\n\\n**出来高:** 46.71M（20日平均比 12.71倍）\\n\\n**目標株価（アナリスト）:** 平均 $8.19（+20.6%）/ 中央 $7.50（レンジ $6.00–$11.00）",
+    "image_alt": "CRSR 株価チャート（2026-02-13時点）: 終値 $6.79（+48.25%）, RSI(14) 68.0, 直近1ヶ月レンジ $4.5–$7.7.",
+    "image_caption": "CRSR（2026-02-13）: 過熱シグナル（ボリンジャー上限超え）。終値 $6.79（+48.25%）, RSI(14) 68.0。"
+  }
+}

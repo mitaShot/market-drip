@@ -1,0 +1,194 @@
+{
+  "meta_info": {
+    "selected_ticker": "TSLA",
+    "selection_reason": "2026년 2월 13일 마감 기준 417달러 선에서의 치열한 공방 및 Q4 실적 발표 후 '뉴스에 팔아라' 심리와 저가 매수세의 충돌.",
+    "references": [
+      {
+        "name": "Yahoo Finance TSLA History",
+        "url": "https://finance.yahoo.com/quote/TSLA/history/"
+      },
+      {
+        "name": "Barchart Waymo/Tesla Analysis",
+        "url": "https://www.barchart.com/story/news/27297/waymo-raises-another-red-flag-for-tesla-should-you-sell-tsla-stock-in-february-2026"
+      },
+      {
+        "name": "MarketBeat Tesla News",
+        "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-26-heres-why-2026-02-12/"
+      }
+    ]
+  },
+  "seo": {
+    "title": "테슬라(TSLA) 417달러 사수 공방전: 웨이모의 역습과 내부자 매도의 진실",
+    "meta_description": "2026년 2월 테슬라 주가가 417달러 선에서 흔들리고 있습니다. Q4 실적 서프라이즈에도 불구하고 주가가 하락한 이유와 11만 주 내부자 매도 시그널을 분석합니다.",
+    "slug": "tesla-stock-analysis-waymo-competition-insider-selling-20260214",
+    "category": "Stocks",
+    "tags": [
+      "TSLA",
+      "EV Sector",
+      "Earnings Beat",
+      "Insider Selling"
+    ],
+    "published_date": "2026-02-14",
+    "author": "Financial Hunter-Analyst"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "Q4 실적 서프라이즈(EPS $0.50)에도 불구하고 '뉴스에 팔아라' 물량과 웨이모의 경쟁 심화로 약세 흐름.",
+        "최근 내부자들의 11만 주 규모 매도세가 포착되어 단기 투자심리에 부담을 주고 있음.",
+        "중립(Hold): 410달러 지지선 붕괴 여부가 관건이며, 444달러(50일 이평선) 돌파 전까지는 보수적 접근 필요."
+      ],
+      "claims": [
+        {
+          "claim": "Q4 EPS $0.50 (예상치 $0.45 상회)",
+          "evidence_type": "headline_event",
+          "metric": "earnings",
+          "value": "0.50",
+          "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-q4-2025-beats-forecasts-stock-edges-up-93CH-4471703"
+        },
+        {
+          "claim": "내부자 최근 약 119,457주 매도",
+          "evidence_type": "insider_filing",
+          "metric": "insider_filing",
+          "value": "119457",
+          "source_url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-26-heres-why-2026-02-12/"
+        }
+      ]
+    },
+    "excerpt": "테슬라가 Q4 어닝 서프라이즈를 기록했음에도 주가는 417달러 선에서 고전 중입니다. 웨이모의 160억 달러 펀딩 소식과 내부자 매도가 겹치며 상승 모멘텀이 제한되고 있습니다.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: 실적 호조에도 주가가 눌리는 이유",
+        "content": "테슬라는 2025년 4분기 매출 249억 달러, EPS 0.50달러를 기록하며 시장 예상치를 상회했습니다. 그러나 호실적 발표 직후 차익 실현 매물이 쏟아지며 주가는 약세를 보였습니다. 특히 경쟁사 웨이모(Waymo)가 대규모 자금 조달에 성공하며 로보택시 시장 경쟁 우려가 재점화된 점이 투자 심리를 위축시키고 있습니다.",
+        "claims": [
+          {
+            "claim": "Q4 매출 249억 달러 (예상치 247.8억 달러 상회)",
+            "evidence_type": "headline_event",
+            "metric": "earnings",
+            "value": "24.9B",
+            "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-q4-2025-beats-forecasts-stock-edges-up-93CH-4471703"
+          },
+          {
+            "claim": "웨이모 160억 달러 펀딩 및 로보택시 확장 가속화",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": "16B",
+            "source_url": "https://www.barchart.com/story/news/27297/waymo-raises-another-red-flag-for-tesla-should-you-sell-tsla-stock-in-february-2026"
+          }
+        ]
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends: 417달러의 줄다리기",
+        "content": "2월 13일 종가 기준 417.44달러를 기록하며 50일 이동평균선(약 444달러) 아래에 머물러 있어 기술적 약세 국면입니다. 단기 지지선인 410달러 부근에서의 반등 시도가 관찰되나, 430~440달러 구간의 저항 매물을 소화하지 못하고 있습니다.",
+        "claims": [
+          {
+            "claim": "2월 13일 종가 417.44달러",
+            "evidence_type": "price_action",
+            "metric": "price_level",
+            "value": "417.44",
+            "source_url": "https://www.perplexity.ai/finance/TSLA"
+          },
+          {
+            "claim": "50일 이동평균선 444.18달러 하회",
+            "evidence_type": "price_action",
+            "metric": "price_level",
+            "value": "444.18",
+            "source_url": "https://www.perplexity.ai/finance/TSLA"
+          }
+        ]
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors: 밸류에이션 부담",
+        "content": "중국의 텐센트와 클라우드 계약을 체결하며 중국 내 서비스 강화를 꾀한 점은 긍정적입니다. 반면, 현재 주가수익비율(P/E)이 약 250배에 달해 산업 평균 대비 극도로 높은 밸류에이션 부담이 지속되고 있습니다. 이는 작은 악재에도 주가가 민감하게 반응할 수 있는 리스크 요인입니다.",
+        "claims": [
+          {
+            "claim": "텐센트 클라우드 계약으로 차량 내 기능 강화",
+            "evidence_type": "headline_event",
+            "metric": "contract",
+            "value": null,
+            "source_url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-26-heres-why-2026-02-12/"
+          },
+          {
+            "claim": "P/E 약 250배 (Perplexity Data 기준)",
+            "evidence_type": "other",
+            "metric": "valuation",
+            "value": "249.96",
+            "source_url": "https://www.perplexity.ai/finance/TSLA"
+          }
+        ]
+      },
+      {
+        "type": "news",
+        "heading": "Recent News: 경쟁 심화와 전략적 제휴",
+        "content": "웨이모가 160억 달러 펀딩을 통해 로보택시 상용화를 가속화하며 테슬라의 FSD 리더십을 위협하고 있습니다. 한편, 테슬라는 중국 시장 방어를 위해 텐센트와 협력하며 현지화 전략을 강화하고 있습니다.",
+        "claims": [
+          {
+            "claim": "웨이모 160억 달러 자금 조달",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": "16B",
+            "source_url": "https://www.barchart.com/story/news/27297/waymo-raises-another-red-flag-for-tesla-should-you-sell-tsla-stock-in-february-2026"
+          },
+          {
+            "claim": "텐센트와 클라우드 파트너십 체결",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": null,
+            "source_url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-26-heres-why-2026-02-12/"
+          }
+        ]
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity: 내부자의 매도 신호",
+        "content": "최근 내부자들이 약 11만 9천 주를 매도한 것으로 보고되었습니다. 이는 주가 고점 인식에 따른 차익 실현일 가능성이 있으며, 신규 진입을 고려하는 투자자들에게는 경계 신호로 해석될 수 있습니다.",
+        "claims": [
+          {
+            "claim": "내부자 119,457주 매도",
+            "evidence_type": "insider_filing",
+            "metric": "insider_filing",
+            "value": "119457",
+            "source_url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-26-heres-why-2026-02-12/"
+          }
+        ]
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook: 박스권 돌파를 기다리며",
+        "bull_case": "444달러(50일 이평선)를 강하게 돌파하고 중국 시장 판매량이 반등할 경우 500달러 재도전 가능.",
+        "bear_case": "410달러 지지선이 붕괴되고 로보택시 경쟁 심화 뉴스가 이어질 경우 380달러 선까지 조정 가능성.",
+        "strategy": "현재가는 적극 매수보다 관망이 유리한 구간입니다. 410달러 지지력을 확인하거나, 확실한 모멘텀으로 444달러를 돌파할 때 진입하는 전략을 추천합니다.",
+        "claims": [
+          {
+            "claim": "중요 저항선 50일 이평선 444달러",
+            "evidence_type": "other",
+            "metric": "price_level",
+            "value": "444",
+            "source_url": "https://www.perplexity.ai/finance/TSLA"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Q4 실적이 좋은데 왜 주가는 떨어지나요?",
+        "answer": "시장 기대치가 이미 주가에 선반영되어 있었으며, 웨이모의 펀딩 소식 등 경쟁 심화 우려가 차익 실현 명분으로 작용했습니다."
+      },
+      {
+        "question": "지금 테슬라를 매수해도 될까요?",
+        "answer": "내부자 매도와 높은 밸류에이션 부담이 있어 공격적 매수는 위험할 수 있습니다. 410달러 지지 여부를 먼저 확인하세요."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "TSLA",
+    "chart_filename": "tesla-stock-analysis-waymo-competition-insider-selling-20260214_inner.webp",
+    "analysis": "**기술적 위치:** 20일선 하회 (약세 흐름)\\n\\n**심리 지표:** RSI 45.3 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $452.43, 최저 $387.53\\n\\n**거래량:** 51.35M (20일 평균 대비 0.83배)\\n\\n**목표가(애널리스트):** 평균 $421.73 (+1.0%) / 중간값 $458.00 (범위 $125.00~$600.00)",
+    "image_alt": "TSLA 주가 차트(2026-02-13 기준): 종가 $417.44 (+0.09%), RSI(14) 45.3, 최근 1개월 범위 $387.5~$452.4.",
+    "image_caption": "TSLA (2026-02-13): 약세 흐름(20일선 하회). 종가 $417.44 (+0.09%), RSI(14) 45.3."
+  }
+}
