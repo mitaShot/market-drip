@@ -30,25 +30,32 @@ export default function Header() {
                     <Link href={`/${language}/tag/ai`} className={styles.link}>{t('header.ai')}</Link>
                 </nav>
 
-                <div className={styles.langSwitcher}>
-                    <button
-                        onClick={() => switchLanguage('en')}
-                        className={`${styles.langBtn} ${language === 'en' ? styles.activeLang : ''}`}
-                    >
-                        EN
-                    </button>
-                    <button
-                        onClick={() => switchLanguage('ko')}
-                        className={`${styles.langBtn} ${language === 'ko' ? styles.activeLang : ''}`}
-                    >
-                        KO
-                    </button>
-                    <button
-                        onClick={() => switchLanguage('ja')}
-                        className={`${styles.langBtn} ${language === 'ja' ? styles.activeLang : ''}`}
-                    >
-                        JA
-                    </button>
+                <div className={styles.rightSection}>
+                    <a href={`/rss-${language}.xml`} className={styles.rssLink} target="_blank" rel="noopener">
+                        <span className={styles.rssIcon}>RSS</span>
+                        <span className={styles.rssLabel}>{t('header.rss')}</span>
+                    </a>
+
+                    <div className={styles.langSwitcher}>
+                        <button
+                            onClick={() => switchLanguage('en')}
+                            className={`${styles.langBtn} ${language === 'en' ? styles.activeLang : ''}`}
+                        >
+                            EN
+                        </button>
+                        <button
+                            onClick={() => switchLanguage('ko')}
+                            className={`${styles.langBtn} ${language === 'ko' ? styles.activeLang : ''}`}
+                        >
+                            KO
+                        </button>
+                        <button
+                            onClick={() => switchLanguage('ja')}
+                            className={`${styles.langBtn} ${language === 'ja' ? styles.activeLang : ''}`}
+                        >
+                            JA
+                        </button>
+                    </div>
                 </div>
             </div>
         </header>

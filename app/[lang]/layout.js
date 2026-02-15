@@ -19,29 +19,33 @@ export default async function LangLayout({ children, params }) {
 
     return (
         <LanguageProvider initialLang={lang}>
-            <head>
-                <Script
-                    async
-                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3649579475017357"
-                    crossOrigin="anonymous"
-                    strategy="afterInteractive"
-                />
-                {/* Google tag (gtag.js) */}
-                <Script
-                    async
-                    src="https://www.googletagmanager.com/gtag/js?id=G-F9BBX408T6"
-                    strategy="afterInteractive"
-                />
-                <Script id="google-analytics" strategy="afterInteractive">
-                    {`
-                        window.dataLayer = window.dataLayer || [];
-                        function gtag(){dataLayer.push(arguments);}
-                        gtag('js', new Date());
+            <link
+                rel="alternate"
+                type="application/rss+xml"
+                href={`/rss-${lang}.xml`}
+                title={`Market Drip RSS (${lang.toUpperCase()})`}
+            />
+            <Script
+                async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3649579475017357"
+                crossOrigin="anonymous"
+                strategy="afterInteractive"
+            />
+            {/* Google tag (gtag.js) */}
+            <Script
+                async
+                src="https://www.googletagmanager.com/gtag/js?id=G-F9BBX408T6"
+                strategy="afterInteractive"
+            />
+            <Script id="google-analytics" strategy="afterInteractive">
+                {`
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
 
-                        gtag('config', 'G-F9BBX408T6');
-                    `}
-                </Script>
-            </head>
+                    gtag('config', 'G-F9BBX408T6');
+                `}
+            </Script>
             <Header />
             {children}
             <Footer />
