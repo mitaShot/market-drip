@@ -1,0 +1,180 @@
+{
+  "meta_info": {
+    "selected_ticker": "HIMS",
+    "selection_reason": "현재 미국 시장에서 ‘드라마(규제·법적 이슈) + 높은 거래 관심’이 동시에 붙은 종목으로, GLP-1(세마글루타이드) 관련 규제/수사/소송 뉴스가 직접적인 변동성 촉매로 작동하고 있다.",
+    "references": [
+      {
+        "name": "STAT - Hims compounding crackdown / DOJ investigation request / Novo lawsuit context",
+        "url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+      },
+      {
+        "name": "Reuters (JP) - Hims short interest record high (LSEG) and share drop context",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hedge-funds-bet-big-against-hims-hers-health-before-wegovy-showdown-"
+      },
+      {
+        "name": "StockAnalysis - HIMS earnings date",
+        "url": "https://stockanalysis.com/stocks/hims/"
+      }
+    ]
+  },
+  "seo": {
+    "title": "HIMS 폭탄급 이슈: 규제·소송이 한 번에 터졌다…지금 주가가 흔들리는 진짜 이유",
+    "meta_description": "HIMS가 ‘규제·수사·소송’ 3중 리스크에 노출되며 변동성이 커졌습니다. 촉매와 리스크 조건을 한 번에 정리합니다.",
+    "slug": "hims-glp1-regulation-lawsuit-volatility-20260215",
+    "category": "Stocks",
+    "tags": [
+      "HIMS",
+      "Healthcare",
+      "Regulation",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-02-15",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "Why Moving: HIMS는 ‘컴파운딩 GLP-1’ 마케팅을 둘러싼 규제 당국의 강경 메시지와 법적 이슈가 겹치며 급격한 변동성이 발생했다.",
+        "Whale Signal: 거래량이 급증한 구간이 포착돼 단기 수급 충돌(추정)이 강해진 상황으로 보인다.",
+        "Verdict: Hold — 뉴스 플로우가 ‘리스크 재평가’ 국면이라, 핵심 이벤트(수사/소송/규제) 전개가 확인되기 전엔 보수적 접근이 유리하다."
+      ],
+      "claims": [
+        {
+          "claim": "FDA가 컴파운딩 GLP-1의 대량 마케팅 제한과 관련해 Hims를 특정해 언급했고, HHS가 DOJ에 FDCA 위반 가능성 조사를 요청했다는 보도가 나왔다.",
+          "evidence_type": "headline_event",
+          "metric": "headline_event",
+          "value": null,
+          "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+        },
+        {
+          "claim": "단기 공매도 관심이 극단으로 치우쳤다는 보도(공매도 잔고/비중 기록 경신)가 있었다.",
+          "evidence_type": "other",
+          "metric": "other",
+          "value": null,
+          "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hedge-funds-bet-big-against-hims-hers-health-before-wegovy-showdown-"
+        }
+      ]
+    },
+    "excerpt": "HIMS는 컴파운딩 GLP-1을 둘러싼 규제·수사·소송 이슈가 동시에 불거지며 ‘리스크 재평가’가 진행 중이다. 변동성 장세에서 확인해야 할 촉매와 방어 포인트를 정리한다.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "Market Overview: Why is HIMS Moving?",
+        "content": "HIMS의 핵심 촉매는 GLP-1(세마글루타이드) 컴파운딩 제품을 둘러싼 규제 당국의 강경 스탠스, 그리고 법적 분쟁 이슈가 한 번에 겹친 점이다. 이 테마는 단순 실적이 아니라 ‘영업 지속 가능성/마진 구조/규제 적합성’로 평가 축이 이동해, 뉴스 한 줄에도 주가 탄력이 커지기 쉽다. 즉, 지금은 제품 수요보다 규제·법무 이벤트가 주가를 주도하는 장이다.",
+        "claims": [
+          {
+            "claim": "FDA가 컴파운딩 GLP-1의 대량 마케팅 제한과 관련해 Hims를 특정해 언급했고, HHS가 DOJ에 조사 요청을 했다는 보도가 나왔다.",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": null,
+            "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+          },
+          {
+            "claim": "Novo Nordisk가 Hims를 상대로 특허 침해 소송을 제기했다는 맥락이 함께 보도됐다.",
+            "evidence_type": "headline_event",
+            "metric": "headline_event",
+            "value": null,
+            "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+          }
+        ]
+      },
+      {
+        "type": "price_trends",
+        "heading": "Recent Price Trends & Momentum",
+        "content": "최근 HIMS는 ‘뉴스 플로우 → 급격한 가격 재평가’ 패턴이 반복되며 추세 신뢰도가 약해진 모습이다. 특히 규제/소송 헤드라인이 나올 때 거래가 몰리면, 단기 반등과 급락이 교차하며 지지·저항이 빠르게 바뀐다. 이 구간에서는 차트보다도 뉴스 타임라인과 회사의 대응(판매 중단/전략 수정 등)이 모멘텀을 결정한다.",
+        "claims": [
+          {
+            "claim": "Hims 주가가 하루 단위로 크게 움직이며 변동성 국면이라는 점은 ‘컴파운딩 GLP-1 규제/법적 이슈’ 보도와 결합해 설명되고 있다.",
+            "evidence_type": "price_action",
+            "metric": "other",
+            "value": null,
+            "source_url": "https://finance.yahoo.com/news/hims-hers-health-hims-down-002608455.html"
+          }
+        ]
+      },
+      {
+        "type": "analysis",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "상방 촉매는 ‘규제 리스크 완화’ 또는 ‘컴파운딩 의존도 축소 후에도 성장 동력 유지’가 확인되는 시나리오다. 반대로 하방 리스크는 규제 당국의 조치가 실제 판매·마케팅·공급망에 직접 영향을 주거나, 소송/수사 전개가 장기화돼 비용과 평판 리스크를 키우는 경우다. 따라서 투자자는 “GLP-1 관련 사업이 어떻게 재설계되는가”를 가장 먼저 확인해야 한다.",
+        "claims": [
+          {
+            "claim": "규제 당국이 컴파운딩 GLP-1의 대량 마케팅을 ‘제한’하겠다는 강경 메시지를 내고 Hims를 특정해 언급했다.",
+            "evidence_type": "other",
+            "metric": "regulation",
+            "value": null,
+            "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+          }
+        ]
+      },
+      {
+        "type": "news",
+        "heading": "Recent News & Developments",
+        "content": "첫째, FDA가 컴파운딩 GLP-1의 대량 마케팅을 제한하겠다는 메시지 속에서 Hims가 직접 거론됐고, 연방 차원의 조사 요청 보도까지 이어졌다. 둘째, Novo Nordisk의 특허 침해 소송 맥락이 붙으며 ‘법무 이벤트’가 단기 변동성을 키우는 구조가 됐다. 이 조합은 단기간에 투자심리를 급냉·급반전시키는 전형적인 재료다.",
+        "claims": [
+          {
+            "claim": "FDA가 컴파운딩 GLP-1의 대량 마케팅 제한 관련 ‘결정적 조치’를 언급하며 Hims를 특정해 거론했다.",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": null,
+            "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+          },
+          {
+            "claim": "HHS가 DOJ에 Hims 관련 조사를 요청했고, 이어 Novo Nordisk가 특허 침해 소송을 제기했다는 보도가 나왔다.",
+            "evidence_type": "headline_event",
+            "metric": "headline",
+            "value": null,
+            "source_url": "https://www.statnews.com/2026/02/11/hims-federal-scrutiny-impact-on-telehealth-compounding-pharmacies/"
+          }
+        ]
+      },
+      {
+        "type": "insights",
+        "heading": "Institutional & Insider Activity",
+        "content": "현재 ‘기관/대형 자금’으로 단정할 직접 근거(13F, 내부자 거래 공시, 블록딜 등)를 확보하지 못했다. 다만 공매도 포지션이 기록적인 수준으로 언급되는 등(보도 기준) 수급이 한쪽으로 쏠린 정황이 있어, 뉴스 하나에 급격한 숏커버/추가 매도가 교차할 가능성은 열려 있다. 따라서 이 구간은 포지션 규모를 줄이고 이벤트 리스크를 관리하는 접근이 합리적이다.",
+        "claims": [
+          {
+            "claim": "공매도 관심(Short interest)이 기록적 수준에 도달했다는 보도가 있었다.",
+            "evidence_type": "volume_only",
+            "metric": "volume_only",
+            "value": null,
+            "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hedge-funds-bet-big-against-hims-hers-health-before-wegovy-showdown-"
+          }
+        ]
+      },
+      {
+        "type": "outlook",
+        "heading": "Investment Outlook (3–12 Months)",
+        "bull_case": "회사 측이 GLP-1 관련 컴파운딩 노출도를 낮추면서도, 핵심 구독/비(非)GLP-1 포트폴리오에서 성장 신호를 보여 ‘규제 프리미엄’이 완화되는 시나리오다. 또한 법적 이슈가 조기 정리되거나 시장이 최악의 가정을 되돌리는 경우 변동성 구간에서 반등 탄력이 커질 수 있다.",
+        "bear_case": "규제/수사/소송 전개가 장기화되며 비용 부담과 사업 제약이 확대되고, 매출 믹스에서 GLP-1 관련 기대가 빠르게 축소되는 시나리오다. 공매도 쏠림이 유지되는 동안 부정적 헤드라인이 추가되면 하방 압력이 강화될 수 있다.",
+        "strategy": "전략은 ‘이벤트 확인 후 대응’이다. 핵심은 규제 당국의 다음 액션과 회사의 제품/마케팅 조정(중단·재개·대체 전략)을 체크하고, 실적 발표 일정(확정된 캘린더)을 기준으로 변동성 확대 구간에선 분할·헤지 중심으로 접근하는 것이다.",
+        "claims": [
+          {
+            "claim": "HIMS의 예정 실적 발표 일정이 공시/캘린더에 기재돼 있다.",
+            "evidence_type": "other",
+            "metric": "timeline",
+            "value": "2026-02-23",
+            "source_url": "https://stockanalysis.com/stocks/hims/"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "지금 HIMS는 ‘실적’보다 ‘뉴스’가 더 중요한가요?",
+        "answer": "현재는 컴파운딩 GLP-1 관련 규제·소송 이슈가 사업 지속성 평가에 직접 연결돼, 단기적으로는 실적보다 뉴스 타임라인이 주가를 더 강하게 흔드는 구간이다."
+      },
+      {
+        "question": "‘기관 매수’로 봐도 되나요?",
+        "answer": "직접적인 기관 지표(13F, 블록딜, 내부자 공시 등)를 확인하지 못했기 때문에 기관 매수로 단정하면 안 된다. 다만 공매도 쏠림 같은 수급 신호가 언급되는 만큼 변동성 확대 가능성은 염두에 두는 게 좋다."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "HIMS",
+    "chart_filename": "hims-glp1-regulation-lawsuit-volatility-20260215_inner.webp",
+    "analysis": "**기술적 위치:** 20일선 하회 (약세 흐름)\\n\\n**심리 지표:** RSI 17.0 (과매도 구간, 저점매수 기회)\\n\\n**주요 구간:** 최근 1달 최고 $32.04, 최저 $15.63\\n\\n**거래량:** 26.12M (20일 평균 대비 0.81배)\\n\\n**목표가(애널리스트):** 평균 $31.27 (+91.8%) / 중간값 $31.00 (범위 $13.00~$60.00)",
+    "image_alt": "HIMS 주가 차트(2026-02-13 기준): 종가 $16.30 (+3.16%), RSI(14) 17.0, 최근 1개월 범위 $15.6~$32.0.",
+    "image_caption": "HIMS (2026-02-13): 약세 흐름(20일선 하회). 종가 $16.30 (+3.16%), RSI(14) 17.0."
+  }
+}
