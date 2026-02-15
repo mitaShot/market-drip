@@ -1,0 +1,392 @@
+{
+  "seo": {
+    "title": "S&P 500 Earnings Calendar - UPDATE 2026-02-15",
+    "meta_description": "Upcoming S&P 500 earnings announcements from 2026-02-01 to 2026-03-18. Track estimated EPS and release dates. Updated 2026-02-15.",
+    "slug": "sp500-earnings-calendar-en",
+    "category": "Earnings",
+    "tags": [
+      "Earnings",
+      "SP500",
+      "Calendar"
+    ],
+    "published_date": "2026-02-15",
+    "author": "Market Drip Research"
+  },
+  "content": {
+    "excerpt": "Upcoming S&P 500 earnings announcements from 2026-02-01 to 2026-03-18. Track estimated EPS and release dates. Updated 2026-02-15.",
+    "sections": [
+      {
+        "type": "overview",
+        "heading": "This Month's Earnings Schedule",
+        "content": "Major S&P 500 companies will be reporting their earnings over the next 30 days. The calendar below features the latest information collected via the FMP (Financial Modeling Prep) API and is updated weekly. Review each company's estimated EPS and announcement dates before making investment decisions."
+      },
+      {
+        "type": "earnings_calendar",
+        "heading": "S&P 500 Earnings Calendar - UPDATE 2026-02-15",
+        "earnings": [
+          {
+            "ticker": "DIS",
+            "company": "The Walt Disney Company",
+            "sector": "Communication Services",
+            "website": "https://www.thewaltdisneycompany.com",
+            "date": "2026-02-02",
+            "eps_est": "$1.57",
+            "eps_actual": "$1.63",
+            "rev_est": "$25.70B",
+            "rev_actual": "$25.98B",
+            "description": "The Walt Disney Company, together with its subsidiaries, operates as an entertainment company worldwide. It operates through two segments, Disney Media and Entertainment Distribution; and Disney Parks, Experiences and Products. The company engages in the film and episodic television content production and distribution activities, as well as operates television broadcast networks under the ABC, Disney, ESPN, Freeform, FX, Fox, National Geographic, and Star brands; and studios that produces motion pictures under the Walt Disney Pictures, Twentieth Century Studios, Marvel, Lucasfilm, Pixar, and Searchlight Pictures banners. It also offers direct-to-consumer streaming services through Disney+, Disney+ Hotstar, ESPN+, Hulu, and Star+; sale/licensing of film and television content to third-party television and subscription video-on-demand services; theatrical, home entertainment, and music distribution services; staging and licensing of live entertainment events; and post-production services by Industrial Light & Magic and Skywalker Sound. In addition, the company operates theme parks and resorts, such as Walt Disney World Resort in Florida; Disneyland Resort in California; Disneyland Paris; Hong Kong Disneyland Resort; and Shanghai Disney Resort; Disney Cruise Line, Disney Vacation Club, National Geographic Expeditions, and Adventures by Disney as well as Aulani, a Disney resort and spa in Hawaii; licenses its intellectual property to a third party for the operations of the Tokyo Disney Resort; and provides consumer products, which include licensing of trade names, characters, visual, literary, and other IP for use on merchandise, published materials, and games. Further, it sells branded merchandise through retail, online, and wholesale businesses; and develops and publishes books, comic books, and magazines. The Walt Disney Company was founded in 1923 and is based in Burbank, California."
+          },
+          {
+            "ticker": "PLTR",
+            "company": "Palantir Technologies Inc.",
+            "sector": "Technology",
+            "website": "https://www.palantir.com",
+            "date": "2026-02-02",
+            "eps_est": "$0.23",
+            "eps_actual": "$0.25",
+            "rev_est": "$1.34B",
+            "rev_actual": "$1.41B",
+            "description": "Palantir Technologies Inc. builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations in the United States, the United Kingdom, and internationally. The company provides Palantir Gotham, a software platform which enables users to identify patterns hidden deep within datasets, ranging from signals intelligence sources to reports from confidential informants, as well as facilitates the handoff between analysts and operational users, helping operators plan and execute real-world responses to threats that have been identified within the platform. It also offers Palantir Foundry, a platform that transforms the ways organizations operate by creating a central operating system for their data; and allows individual users to integrate and analyze the data they need in one place. In addition, it provides Palantir Apollo, a software that delivers software and updates across the business, as well as enables customers to deploy their software virtually in any environment; and Palantir Artificial Intelligence Platform (AIP) that provides unified access to open-source, self-hosted, and commercial large language models (LLM) that can transform structured and unstructured data into LLM-understandable objects and can turn organizations' actions and processes into tools for humans and LLM-driven agents. The company was incorporated in 2003 and is headquartered in Denver, Colorado."
+          },
+          {
+            "ticker": "PFE",
+            "company": "Pfizer Inc.",
+            "sector": "Healthcare",
+            "website": "https://www.pfizer.com",
+            "date": "2026-02-03",
+            "eps_est": "$0.57",
+            "eps_actual": "$0.66",
+            "rev_est": "$16.85B",
+            "rev_actual": "$17.56B",
+            "description": "Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers medicines and vaccines in various therapeutic areas, including cardiovascular metabolic and women's health under the Premarin family and Eliquis brands; biologics, small molecules, immunotherapies, and biosimilars under the Ibrance, Xtandi, Sutent, Inlyta, Retacrit, Lorbrena, and Braftovi brands; and sterile injectable and anti-infective medicines, and oral COVID-19 treatment under the Sulperazon, Medrol, Zavicefta, Zithromax, Vfend, Panzyga, and Paxlovid brands. The company also provides medicines and vaccines in various therapeutic areas, such as pneumococcal disease, meningococcal disease, tick-borne encephalitis, and COVID-19 under the Comirnaty/BNT162b2, Nimenrix, FSME/IMMUN-TicoVac, Trumenba, and the Prevnar family brands; biosimilars for chronic immune and inflammatory diseases under the Xeljanz, Enbrel, Inflectra, Eucrisa/Staquis, and Cibinqo brands; and amyloidosis, hemophilia, and endocrine diseases under the Vyndaqel/Vyndamax, BeneFIX, and Genotropin brands. In addition, the company is involved in the contract manufacturing business. It serves wholesalers, retailers, hospitals, clinics, government agencies, pharmacies, and individual provider offices, as well as disease control and prevention centers. The company has collaboration agreements with Bristol-Myers Squibb Company; Astellas Pharma US, Inc.; Myovant Sciences Ltd.; Akcea Therapeutics, Inc; Merck KGaA; Valneva SE; BioNTech SE; and Arvinas, Inc. Pfizer Inc. was founded in 1849 and is headquartered in New York, New York."
+          },
+          {
+            "ticker": "PEP",
+            "company": "PepsiCo, Inc.",
+            "sector": "Consumer Defensive",
+            "website": "https://www.pepsico.com",
+            "date": "2026-02-03",
+            "eps_est": "$2.24",
+            "eps_actual": "$2.26",
+            "rev_est": "$28.98B",
+            "rev_actual": "$29.34B",
+            "description": "PepsiCo, Inc. manufactures, markets, distributes, and sells various beverages and convenient foods worldwide. The company operates through seven segments: Frito-Lay North America; Quaker Foods North America; PepsiCo Beverages North America; Latin America; Europe; Africa, Middle East and South Asia; and Asia Pacific, Australia and New Zealand and China Region. It provides dips, cheese-flavored snacks, and spreads, as well as corn, potato, and tortilla chips; cereals, rice, pasta, mixes and syrups, granola bars, grits, oatmeal, rice cakes, simply granola, and side dishes; beverage concentrates, fountain syrups, and finished goods; ready-to-drink tea, coffee, and juices; dairy products; and sparkling water makers and related products. It serves wholesale and other distributors, foodservice customers, grocery stores, drug stores, convenience stores, discount/dollar stores, mass merchandisers, membership stores, hard discounters, e-commerce retailers and authorized independent bottlers, and others through a network of direct-store-delivery, customer warehouse, and distributor networks, as well as directly to consumers through e-commerce platforms and retailers. The company was founded in 1898 and is headquartered in Purchase, New York."
+          },
+          {
+            "ticker": "AMD",
+            "company": "Advanced Micro Devices, Inc.",
+            "sector": "Technology",
+            "website": "https://www.amd.com",
+            "date": "2026-02-03",
+            "eps_est": "$1.32",
+            "eps_actual": "$1.53",
+            "rev_est": "$9.67B",
+            "rev_actual": "$10.27B",
+            "description": "Advanced Micro Devices, Inc. operates as a semiconductor company worldwide. The company operates in two segments, Computing and Graphics; and Enterprise, Embedded and Semi-Custom. Its products include x86 microprocessors as an accelerated processing unit, chipsets, discrete and integrated graphics processing units (GPUs), data center and professional GPUs, and development services; and server and embedded processors, and semi-custom System-on-Chip (SoC) products, development services, and technology for game consoles. The company provides processors for desktop and notebook personal computers under the AMD Ryzen, AMD Ryzen PRO, Ryzen Threadripper, Ryzen Threadripper PRO, AMD Athlon, AMD Athlon PRO, AMD FX, AMD A-Series, and AMD PRO A-Series processors brands; discrete GPUs for desktop and notebook PCs under the AMD Radeon graphics, AMD Embedded Radeon graphics brands; and professional graphics products under the AMD Radeon Pro and AMD FirePro graphics brands. It also offers Radeon Instinct, Radeon PRO V-series, and AMD Instinct accelerators for servers; chipsets under the AMD trademark; microprocessors for servers under the AMD EPYC; embedded processor solutions under the AMD Athlon, AMD Geode, AMD Ryzen, AMD EPYC, AMD R-Series, and G-Series processors brands; and customer-specific solutions based on AMD CPU, GPU, and multi-media technologies, as well as semi-custom SoC products. It serves original equipment manufacturers, public cloud service providers, original design manufacturers, system integrators, independent distributors, online retailers, and add-in-board manufacturers through its direct sales force, independent distributors, and sales representatives. The company was incorporated in 1969 and is headquartered in Santa Clara, California."
+          },
+          {
+            "ticker": "PYPL",
+            "company": "PayPal Holdings, Inc.",
+            "sector": "Financial Services",
+            "website": "https://www.paypal.com",
+            "date": "2026-02-03",
+            "eps_est": "$1.29",
+            "eps_actual": "$1.23",
+            "rev_est": "$8.79B",
+            "rev_actual": "$8.76B",
+            "description": "PayPal Holdings, Inc. operates a technology platform that enables digital payments on behalf of merchants and consumers worldwide. It provides payment solutions under the PayPal, PayPal Credit, Braintree, Venmo, Xoom, Zettle, Hyperwallet, Honey, and Paidy names. The company's payments platform allows consumers to send and receive payments in approximately 200 markets and in approximately 100 currencies, withdraw funds to their bank accounts in 56 currencies, and hold balances in their PayPal accounts in 25 currencies. PayPal Holdings, Inc. was founded in 1998 and is headquartered in San Jose, California."
+          },
+          {
+            "ticker": "ABBV",
+            "company": "AbbVie Inc.",
+            "sector": "Healthcare",
+            "website": "https://www.abbvie.com",
+            "date": "2026-02-04",
+            "eps_est": "$2.65",
+            "eps_actual": "$2.71",
+            "rev_est": "$16.41B",
+            "rev_actual": "$16.62B",
+            "description": "AbbVie Inc. discovers, develops, manufactures, and sells pharmaceuticals in the worldwide. The company offers HUMIRA, a therapy administered as an injection for autoimmune and intestinal Behçet's diseases; SKYRIZI to treat moderate to severe plaque psoriasis in adults; RINVOQ, a JAK inhibitor for the treatment of moderate to severe active rheumatoid arthritis in adult patients; IMBRUVICA to treat adult patients with chronic lymphocytic leukemia (CLL), small lymphocytic lymphoma (SLL), and VENCLEXTA, a BCL-2 inhibitor used to treat adults with CLL or SLL; and MAVYRET to treat patients with chronic HCV genotype 1-6 infection. It also provides CREON, a pancreatic enzyme therapy for exocrine pancreatic insufficiency; Synthroid used in the treatment of hypothyroidism; Linzess/Constella to treat irritable bowel syndrome with constipation and chronic idiopathic constipation; Lupron for the palliative treatment of advanced prostate cancer, endometriosis and central precocious puberty, and patients with anemia caused by uterine fibroids; and Botox therapeutic. In addition, the company offers ORILISSA, a nonpeptide small molecule gonadotropin-releasing hormone antagonist for women with moderate to severe endometriosis pain; Duopa and Duodopa, a levodopa-carbidopa intestinal gel to treat Parkinson's disease; Lumigan/Ganfort, a bimatoprost ophthalmic solution for the reduction of elevated intraocular pressure (IOP) in patients with open angle glaucoma (OAG) or ocular hypertension; Ubrelvy to treat migraine with or without aura in adults; Alphagan/ Combigan, an alpha-adrenergic receptor agonist for the reduction of IOP in patients with OAG; and Restasis, a calcineurin inhibitor immunosuppressant to increase tear production, as well as other eye care products. AbbVie Inc. has a research collaboration with Dragonfly Therapeutics, Inc. The company was incorporated in 2012 and is headquartered in North Chicago, Illinois."
+          },
+          {
+            "ticker": "UBER",
+            "company": "Uber Technologies, Inc.",
+            "sector": "Technology",
+            "website": "https://www.uber.com",
+            "date": "2026-02-04",
+            "eps_est": "$0.79",
+            "eps_actual": "$0.71",
+            "rev_est": "$14.32B",
+            "rev_actual": "$14.37B",
+            "description": "Uber Technologies, Inc. develops and operates proprietary technology applications in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It connects consumers with independent providers of ride services for ridesharing services; and connects riders and other consumers with restaurants, grocers, and other stores with delivery service providers for meal preparation, grocery, and other delivery services. The company operates through three segments: Mobility, Delivery, and Freight. The Mobility segment provides products that connect consumers with mobility drivers who provide rides in a range of vehicles, such as cars, auto rickshaws, motorbikes, minibuses, or taxis. It also offers financial partnerships, transit, and vehicle solutions offerings. The Delivery segment allows consumers to search for and discover local restaurants, order a meal, and either pick-up at the restaurant or have the meal delivered; and offers grocery, alcohol, and convenience store delivery, as well as select other goods. The Freight segment connects carriers with shippers on the company's platform and enable carriers upfront, transparent pricing, and the ability to book a shipment, as well as transportation management and other logistics services offerings. The company was formerly known as Ubercab, Inc. and changed its name to Uber Technologies, Inc. in February 2011. Uber Technologies, Inc. was founded in 2009 and is headquartered in San Francisco, California."
+          },
+          {
+            "ticker": "GOOGL",
+            "company": "Alphabet Inc.",
+            "sector": "Technology",
+            "website": "https://www.abc.xyz",
+            "date": "2026-02-04",
+            "eps_est": "$2.57",
+            "eps_actual": "$2.82",
+            "rev_est": "$103.90B",
+            "rev_actual": "$113.90B",
+            "description": "Alphabet Inc. provides various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment offers products and services, including ads, Android, Chrome, hardware, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in the Google Play store; and Fitbit wearable devices, Google Nest home products, Pixel phones, and other devices, as well as in the provision of YouTube non-advertising services. The Google Cloud segment offers infrastructure, platform, and other services; Google Workspace that include cloud-based collaboration tools for enterprises, such as Gmail, Docs, Drive, Calendar, and Meet; and other services for enterprise customers. The Other Bets segment sells health technology and internet services. The company was founded in 1998 and is headquartered in Mountain View, California."
+          },
+          {
+            "ticker": "MGM",
+            "company": "MGM Resorts International",
+            "sector": "Consumer Cyclical",
+            "website": "https://www.mgmresorts.com",
+            "date": "2026-02-05",
+            "eps_est": "$0.64",
+            "eps_actual": "$1.60",
+            "rev_est": "$4.44B",
+            "rev_actual": "$4.61B",
+            "description": "MGM Resorts International, through its subsidiaries, owns and operates casino, hotel, and entertainment resorts in the United States and Macau. The company operates through three segments: Las Vegas Strip Resorts, Regional Operations, and MGM China. Its casino resorts offer gaming, hotel, convention, dining, entertainment, retail, and other resort amenities. The company's casino operations include slots and table games, as well as online sports betting and iGaming through BetMGM. As of February 17, 2021, its portfolio consisted of 29 hotel and destination gaming offerings. The company also owns and operates Las Vegas Strip Resorts and Fallen Oak golf course. Its customers include premium gaming customers; leisure and wholesale travel customers; business travelers; and group customers, including conventions, trade associations, and small meetings. The company was formerly known as MGM MIRAGE and changed its name to MGM Resorts International in June 2010. MGM Resorts International was incorporated in 1986 and is based in Las Vegas, Nevada."
+          },
+          {
+            "ticker": "AMZN",
+            "company": "Amazon.com, Inc.",
+            "sector": "Consumer Cyclical",
+            "website": "https://www.amazon.com",
+            "date": "2026-02-05",
+            "eps_est": "$1.97",
+            "eps_actual": "$1.95",
+            "rev_est": "$211.44B",
+            "rev_actual": "$213.39B",
+            "description": "Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). Its products offered through its stores include merchandise and content purchased for resale; and products offered by third-party sellers The company also manufactures and sells electronic devices, including Kindle, Fire tablets, Fire TVs, Rings, Blink, eero, and Echo; and develops and produces media content. In addition, it offers programs that enable sellers to sell their products in its stores; and programs that allow authors, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, the company provides compute, storage, database, analytics, machine learning, and other services, as well as fulfillment, advertising, and digital content subscriptions. Additionally, it offers Amazon Prime, a membership program. The company serves consumers, sellers, developers, enterprises, content creators, and advertisers. Amazon.com, Inc. was incorporated in 1994 and is headquartered in Seattle, Washington."
+          },
+          {
+            "ticker": "CARR",
+            "company": "Carrier Global Corporation",
+            "sector": "Industrials",
+            "website": "https://www.corporate.carrier.com",
+            "date": "2026-02-05",
+            "eps_est": "$0.37",
+            "eps_actual": "$0.34",
+            "rev_est": "$5.05B",
+            "rev_actual": "$4.84B",
+            "description": "Carrier Global Corporation provides heating, ventilating, and air conditioning (HVAC), refrigeration, fire, security, and building automation technologies worldwide. It operates through three segments: HVAC, Refrigeration, and Fire & Security. The HVAC segment provides products, controls, services, and solutions to meet the heating, cooling, and ventilation needs of residential and commercial customers. Its products include air conditioners, heating systems, controls, and aftermarket components, as well as aftermarket repair and maintenance services and building automation solutions. The Refrigeration segment offers transport refrigeration and monitoring products and services, as well as digital solutions for trucks, trailers, shipping containers, intermodal applications, food retail, and warehouse cooling; and commercial refrigeration solutions, such as refrigerated cabinets, freezers, systems, and controls. The Fire & Security segment provides various residential, commercial, and industrial technologies, including fire, flame, gas, smoke, and carbon monoxide detection; portable fire extinguishers; fire suppression systems; intruder alarms; access control systems; video management systems; and electronic controls. Its other fire and security service offerings comprise audit, design, installation, and system integration, as well as aftermarket maintenance and repair and monitoring services. The company offers its products under the Autronica, Det-Tronics, Edwards, Fireye, GST, Kidde, LenelS2, Marioff, Onity, and Supra; Carrier, Automated Logic, Bryant, CIAT, Day & Night, Heil, NORESCO, and Riello; and Carrier Commercial Refrigeration, Carrier Transicold, and Sensitech brands. The company was incorporated in 2019 and is headquartered in Palm Beach Gardens, Florida."
+          },
+          {
+            "ticker": "HOOD",
+            "company": "Robinhood Markets, Inc.",
+            "sector": "Financial Services",
+            "website": "https://robinhood.com",
+            "date": "2026-02-10",
+            "eps_est": "$0.63",
+            "eps_actual": "$0.66",
+            "rev_est": "$1.35B",
+            "rev_actual": "$1.28B",
+            "description": "Robinhood Markets, Inc. operates financial services platform in the United States. Its platform allows users to invest in stocks, exchange-traded funds (ETFs), options, gold, and cryptocurrencies. The company also offers various learning and education solutions comprise Snacks, a digest of business news stories; Learn, which is a collection of approximately articles, including guides, feature tutorials, and financial dictionary; Newsfeeds that offer access to free premium news from various sites, such as Barron's, Reuters, and The Wall Street Journal; lists and alerts, which allow users to create custom watchlists and alerts to monitor securities, ETFs, and cryptocurrencies, as well as cash management services; and offers First trade recommendations to all new customers who have yet to place a trade. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in Menlo Park, California."
+          },
+          {
+            "ticker": "KO",
+            "company": "The Coca-Cola Company",
+            "sector": "Consumer Defensive",
+            "website": "https://www.coca-colacompany.com",
+            "date": "2026-02-10",
+            "eps_est": "$0.56",
+            "eps_actual": "$0.58",
+            "rev_est": "$12.05B",
+            "rev_actual": "$11.82B",
+            "description": "The Coca-Cola Company, a beverage company, manufactures, markets, and sells various nonalcoholic beverages worldwide. The company provides sparkling soft drinks, sparkling flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and other beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers, such as restaurants and convenience stores. The company sells its products under the Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, caffeine free Diet Coke, Cherry Coke, Fanta Orange, Fanta Zero Orange, Fanta Zero Sugar, Fanta Apple, Sprite, Sprite Zero Sugar, Simply Orange, Simply Apple, Simply Grapefruit, Fresca, Schweppes, Thums Up, Aquarius, Ayataka, BODYARMOR, Ciel, Costa, Dasani, dogadan, FUZE TEA, Georgia, glacéau smartwater, glacéau vitaminwater, Gold Peak, Ice Dew, I LOHAS, Powerade, Topo Chico, AdeS, Del Valle, fairlife, innocent, Minute Maid, and Minute Maid Pulpy brands. It operates through a network of independent bottling partners, distributors, wholesalers, and retailers, as well as through bottling and distribution operators. The company was founded in 1886 and is headquartered in Atlanta, Georgia."
+          },
+          {
+            "ticker": "F",
+            "company": "Ford Motor Company",
+            "sector": "Consumer Cyclical",
+            "website": "https://www.ford.com",
+            "date": "2026-02-10",
+            "eps_est": "$0.18",
+            "eps_actual": "$0.13",
+            "rev_est": "$43.60B",
+            "rev_actual": "$45.89B",
+            "description": "Ford Motor Company develops, delivers, and services a range of Ford trucks, commercial cars and vans, sport utility vehicles, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, and Ford Pro; Ford Next; and Ford Credit segments. The company sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies, and governments. It also engages in vehicle-related financing and leasing activities to and through automotive dealers. In addition, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Further, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. The company was incorporated in 1903 and is based in Dearborn, Michigan."
+          },
+          {
+            "ticker": "CSCO",
+            "company": "Cisco Systems, Inc.",
+            "sector": "Technology",
+            "website": "https://www.cisco.com",
+            "date": "2026-02-11",
+            "eps_est": "$1.02",
+            "eps_actual": "$1.04",
+            "rev_est": "$15.11B",
+            "rev_actual": "$15.35B",
+            "description": "Cisco Systems, Inc. designs, manufactures, and sells Internet Protocol based networking and other products related to the communications and information technology industry in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and China. The company also offers switching portfolio encompasses campus switching as well as data center switching; enterprise routing portfolio interconnects public and private wireline and mobile networks, delivering highly secure, and reliable connectivity to campus, data center and branch networks; and wireless products include indoor and outdoor wireless coverage designed for seamless roaming use of voice, video, and data applications. In addition, it provides security, which comprising network security, identity and access management, secure access service edge, and threat intelligence, detection, and response offerings; collaboration products, such as Webex Suite, collaboration devices, contact center, and communication platform as a service; end-to-end collaboration solutions that can be delivered from the cloud, on-premise or within hybrid cloud environments allowing customers to transition their collaboration solutions from on-premise to the cloud; and observability offers network assurance, monitoring and analytics and observability suite. Further, the company offers a range of service and support options for its customers, including technical support and advanced services and advisory services. It serves businesses of various sizes, public institutions, governments, and service providers. The company sells its products and services directly, as well as through systems integrators, service providers, other resellers, and distributors. Cisco Systems, Inc. has strategic alliances with other companies. Cisco Systems, Inc. was incorporated in 1984 and is headquartered in San Jose, California."
+          },
+          {
+            "ticker": "PINS",
+            "company": "Pinterest, Inc.",
+            "sector": "Communication Services",
+            "website": "https://www.pinterest.com",
+            "date": "2026-02-12",
+            "eps_est": "$0.66",
+            "eps_actual": "$0.67",
+            "rev_est": "$0.98B",
+            "rev_actual": "$1.32B",
+            "description": "Pinterest, Inc. operates as a visual discovery engine in the United States and internationally. The company's engine allows people to find inspiration for their lives, including recipes, style and home inspiration, DIY, and others; and provides video, product, and idea pins. It shows visual machine learning recommendations based on pinners taste and interests. The company was formerly known as Cold Brew Labs Inc. and changed its name to Pinterest, Inc. in April 2012. Pinterest, Inc. was incorporated in 2008 and is headquartered in San Francisco, California."
+          },
+          {
+            "ticker": "COIN",
+            "company": "Coinbase Global, Inc.",
+            "sector": "Financial Services",
+            "website": "https://www.coinbase.com",
+            "date": "2026-02-12",
+            "eps_est": "$1.00",
+            "eps_actual": "$-2.49",
+            "rev_est": "$1.81B",
+            "rev_actual": "$1.78B",
+            "description": "Coinbase Global, Inc. provides financial infrastructure and technology for the cryptoeconomy in the United States and internationally. It offers the primary financial account in the cryptoeconomy for consumers; a marketplace with a pool of liquidity for transacting in crypto assets for institutions; and technology and services that enable developers to build crypto-based applications and securely accept crypto assets as payment. The company was founded in 2012 and is based in Wilmington, Delaware."
+          },
+          {
+            "ticker": "WMT",
+            "company": "Walmart Inc.",
+            "sector": "Consumer Defensive",
+            "website": "https://corporate.walmart.com",
+            "date": "2026-02-19",
+            "eps_est": "$0.73",
+            "eps_actual": "-",
+            "rev_est": "$188.43B",
+            "rev_actual": "-",
+            "description": "Walmart Inc. engages in the operation of retail, wholesale, other units, and eCommerce worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club. It operates supercenters, supermarkets, hypermarkets, warehouse clubs, cash and carry stores, and discount stores under Walmart and Walmart Neighborhood Market brands; membership-only warehouse clubs; ecommerce websites, such as walmart.com.mx, walmart.ca, flipkart.com, PhonePe and other sites; and mobile commerce applications. The company offers grocery and consumables, including dairy, meat, bakery, deli, produce, dry, chilled or frozen packaged foods, alcoholic and nonalcoholic beverages, floral, snack foods, candy, other grocery items, health and beauty aids, paper goods, laundry and home care, baby care, pet supplies, and other consumable items; fuel, tobacco and other categories. It is also involved in the provision of health and wellness products covering pharmacy, optical and hearing services, and over-the-counter drugs and other medical products; and home and apparel including home improvement, outdoor living, gardening, furniture, apparel, jewelry, tools and power equipment, housewares, toys, seasonal items, mattresses and tire and battery centers. In addition, the company offers consumer electronics and accessories, software, video games, office supplies, appliances, and third-party gift cards. Further, it operates digital payment platforms; and offers financial services and related products, including money transfers, bill payments, money orders, check cashing, prepaid access, co-branded credit cards, installment lending, and earned wage access. Additionally, the company markets lines of merchandise under private brands, including Allswell, Athletic Works, Equate, and Free Assembly. The company was formerly known as Wal-Mart Stores, Inc. and changed its name to Walmart Inc. in February 2018. Walmart Inc. was founded in 1945 and is based in Bentonville, Arkansas."
+          },
+          {
+            "ticker": "ETSY",
+            "company": "Etsy, Inc.",
+            "sector": "Consumer Cyclical",
+            "website": "https://www.etsy.com",
+            "date": "2026-02-19",
+            "eps_est": "$0.88",
+            "eps_actual": "-",
+            "rev_est": "$0.88B",
+            "rev_actual": "-",
+            "description": "Etsy, Inc. operates online marketplaces that match third‑party sellers with buyers globally, with its main platform focused on unique and creative goods and its Depop brand focused on fashion resale. The company generates revenue primarily from marketplace fees (including listing, transaction, and payment processing fees), advertising services, and optional seller tools such as shipping labels. It also administers programs related to search placement, order protection on qualifying transactions, and fee incentives tied to seller‑driven traffic. Etsy was founded in 2005, incorporated as Indieco, Inc. in 2006, renamed Etsy, Inc. in June 2006, and is headquartered in Brooklyn, New York."
+          },
+          {
+            "ticker": "ZM",
+            "company": "Zoom Communications, Inc.",
+            "sector": "Technology",
+            "website": "https://www.zoom.com",
+            "date": "2026-02-25",
+            "eps_est": "$1.48",
+            "eps_actual": "-",
+            "rev_est": "$1.23B",
+            "rev_actual": "-",
+            "description": "Zoom Communications, Inc. engages in the provision of a communications and collaboration platform. It operates through the following geographical segments: Americas, Asia Pacific, and Europe, Middle East, and Africa. The company was founded by Eric S. Yuan in 2011 and is headquartered in San Jose, CA."
+          },
+          {
+            "ticker": "NVDA",
+            "company": "NVIDIA Corporation",
+            "sector": "Technology",
+            "website": "https://www.nvidia.com",
+            "date": "2026-02-25",
+            "eps_est": "$1.52",
+            "eps_actual": "-",
+            "rev_est": "$65.58B",
+            "rev_actual": "-",
+            "description": "NVIDIA Corporation provides graphics, and compute and networking solutions in the United States, Taiwan, China, and internationally. The company's Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building 3D designs and virtual worlds. Its Compute & Networking segment provides Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; cryptocurrency mining processors; Jetson for robotics and other embedded platforms; and NVIDIA AI Enterprise and other software. The company's products are used in gaming, professional visualization, datacenter, and automotive markets. NVIDIA Corporation sells its products to original equipment manufacturers, original device manufacturers, system builders, add-in board manufacturers, retailers/distributors, independent software vendors, Internet and cloud service providers, automotive manufacturers and tier-1 automotive suppliers, mapping companies, start-ups, and other ecosystem participants. It has a strategic collaboration with Kroger Co. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California."
+          },
+          {
+            "ticker": "TGT",
+            "company": "Target Corporation",
+            "sector": "Consumer Defensive",
+            "website": "https://corporate.target.com",
+            "date": "2026-03-03",
+            "eps_est": "$2.17",
+            "eps_actual": "-",
+            "rev_est": "$30.50B",
+            "rev_actual": "-",
+            "description": "Target Corporation operates as a general merchandise retailer in the United States. The company offers food assortments, including perishables, dry grocery, dairy, and frozen items; apparel, accessories, home décor products, electronics, toys, seasonal offerings, food, and other merchandise; and beauty and household essentials. It also provides in-store amenities, such as Target Café, Target Optical, Starbucks, and other food service offerings. The company sells its products through its stores; and digital channels, including Target.com. As of March 09, 2022, the company operated approximately 2,000 stores. Target Corporation was incorporated in 1902 and is headquartered in Minneapolis, Minnesota."
+          },
+          {
+            "ticker": "COST",
+            "company": "Costco Wholesale Corporation",
+            "sector": "Consumer Defensive",
+            "website": "https://www.costco.com",
+            "date": "2026-03-05",
+            "eps_est": "$4.53",
+            "eps_actual": "-",
+            "rev_est": "$69.16B",
+            "rev_actual": "-",
+            "description": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, the United Kingdom, Mexico, Japan, Korea, Australia, Spain, France, Iceland, China, and Taiwan. It offers branded and private-label products in a range of merchandise categories. The company offers sundries, dry groceries, candies, coolers, freezers, liquor, and tobacco and deli products; appliances, electronics, health and beauty aids, hardware, garden and patio products, sporting goods, tires, toys and seasonal products, office supplies, automotive care products, postages, tickets, apparel, small appliances, furniture, domestics, housewares, special order kiosks, and jewelry; and meat, produce, service deli, and bakery products. It also operates pharmacies, opticals, food courts, hearing-aid centers, and tire installation centers, as well as 636 gas stations; and offers business delivery, travel, same-day grocery, and various other services online in various countries. As of August 29, 2021, the company operated 815 membership warehouses, including 564 in the United States and Puerto Rico, 105 in Canada, 39 in Mexico, 30 in Japan, 29 in the United Kingdom, 16 in South Korea, 14 in Taiwan, 12 in Australia, 3 in Spain, 1 in Iceland, 1 in France, and 1 in China. It also operates e-commerce websites in the United States, Canada, the United Kingdom, Mexico, South Korea, Taiwan, Japan, and Australia. The company was formerly known as Costco Companies, Inc. and changed its name to Costco Wholesale Corporation in August 1999. Costco Wholesale Corporation was founded in 1976 and is based in Issaquah, Washington."
+          },
+          {
+            "ticker": "ADBE",
+            "company": "Adobe Inc.",
+            "sector": "Technology",
+            "website": "https://www.adobe.com",
+            "date": "2026-03-12",
+            "eps_est": "$5.88",
+            "eps_actual": "-",
+            "rev_est": "$6.28B",
+            "rev_actual": "-",
+            "description": "Adobe Inc. operates as a diversified software company worldwide. It operates through three segments: Digital Media, Digital Experience, and Publishing and Advertising. The Digital Media segment offers products, services, and solutions that enable individuals, teams, and enterprises to create, publish, and promote content; and Document Cloud, a unified cloud-based document services platform. Its flagship product is Creative Cloud, a subscription service that allows members to access its creative products. This segment serves content creators, workers, marketers, educators, enthusiasts, communicators, and consumers. The Digital Experience segment provides an integrated platform and set of applications and services that enable brands and businesses to create, manage, execute, measure, monetize, and optimize customer experiences from analytics to commerce. This segment serves marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers, and executives across the C-suite. The Publishing and Advertising segment offers products and services, such as e-learning solutions, technical document publishing, web conferencing, document and forms platform, web application development, and high-end printing, as well as Advertising Cloud offerings. The company offers its products and services directly to enterprise customers through its sales force and local field offices, as well as to end users through app stores and through its website at adobe.com. It also distributes products and services through a network of distributors, value-added resellers, systems integrators, software vendors and developers, retailers, and original equipment manufacturers. The company was formerly known as Adobe Systems Incorporated and changed its name to Adobe Inc. in October 2018. Adobe Inc. was founded in 1982 and is headquartered in San Jose, California."
+          }
+        ]
+      },
+      {
+        "type": "company_descriptions",
+        "heading": "Featured Company Profiles",
+        "companies": [
+          {
+            "name": "Robinhood Markets, Inc.",
+            "ticker": "HOOD",
+            "description": "Robinhood Markets, Inc. operates financial services platform in the United States. Its platform allows users to invest in stocks, exchange-traded funds (ETFs), options, gold, and cryptocurrencies. The company also offers various learning and education solutions comprise Snacks, a digest of business news stories; Learn, which is a collection of approximately articles, including guides, feature tutorials, and financial dictionary; Newsfeeds that offer access to free premium news from various sites, such as Barron's, Reuters, and The Wall Street Journal; lists and alerts, which allow users to create custom watchlists and alerts to monitor securities, ETFs, and cryptocurrencies, as well as cash management services; and offers First trade recommendations to all new customers who have yet to place a trade. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in Menlo Park, California."
+          },
+          {
+            "name": "The Coca-Cola Company",
+            "ticker": "KO",
+            "description": "The Coca-Cola Company, a beverage company, manufactures, markets, and sells various nonalcoholic beverages worldwide. The company provides sparkling soft drinks, sparkling flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and other beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers, such as restaurants and convenience stores. The company sells its products under the Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, caffeine free Diet Coke, Cherry Coke, Fanta Orange, Fanta Zero Orange, Fanta Zero Sugar, Fanta Apple, Sprite, Sprite Zero Sugar, Simply Orange, Simply Apple, Simply Grapefruit, Fresca, Schweppes, Thums Up, Aquarius, Ayataka, BODYARMOR, Ciel, Costa, Dasani, dogadan, FUZE TEA, Georgia, glacéau smartwater, glacéau vitaminwater, Gold Peak, Ice Dew, I LOHAS, Powerade, Topo Chico, AdeS, Del Valle, fairlife, innocent, Minute Maid, and Minute Maid Pulpy brands. It operates through a network of independent bottling partners, distributors, wholesalers, and retailers, as well as through bottling and distribution operators. The company was founded in 1886 and is headquartered in Atlanta, Georgia."
+          },
+          {
+            "name": "Ford Motor Company",
+            "ticker": "F",
+            "description": "Ford Motor Company develops, delivers, and services a range of Ford trucks, commercial cars and vans, sport utility vehicles, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, and Ford Pro; Ford Next; and Ford Credit segments. The company sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies, and governments. It also engages in vehicle-related financing and leasing activities to and through automotive dealers. In addition, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Further, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. The company was incorporated in 1903 and is based in Dearborn, Michigan."
+          },
+          {
+            "name": "Cisco Systems, Inc.",
+            "ticker": "CSCO",
+            "description": "Cisco Systems, Inc. designs, manufactures, and sells Internet Protocol based networking and other products related to the communications and information technology industry in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and China. The company also offers switching portfolio encompasses campus switching as well as data center switching; enterprise routing portfolio interconnects public and private wireline and mobile networks, delivering highly secure, and reliable connectivity to campus, data center and branch networks; and wireless products include indoor and outdoor wireless coverage designed for seamless roaming use of voice, video, and data applications. In addition, it provides security, which comprising network security, identity and access management, secure access service edge, and threat intelligence, detection, and response offerings; collaboration products, such as Webex Suite, collaboration devices, contact center, and communication platform as a service; end-to-end collaboration solutions that can be delivered from the cloud, on-premise or within hybrid cloud environments allowing customers to transition their collaboration solutions from on-premise to the cloud; and observability offers network assurance, monitoring and analytics and observability suite. Further, the company offers a range of service and support options for its customers, including technical support and advanced services and advisory services. It serves businesses of various sizes, public institutions, governments, and service providers. The company sells its products and services directly, as well as through systems integrators, service providers, other resellers, and distributors. Cisco Systems, Inc. has strategic alliances with other companies. Cisco Systems, Inc. was incorporated in 1984 and is headquartered in San Jose, California."
+          },
+          {
+            "name": "Pinterest, Inc.",
+            "ticker": "PINS",
+            "description": "Pinterest, Inc. operates as a visual discovery engine in the United States and internationally. The company's engine allows people to find inspiration for their lives, including recipes, style and home inspiration, DIY, and others; and provides video, product, and idea pins. It shows visual machine learning recommendations based on pinners taste and interests. The company was formerly known as Cold Brew Labs Inc. and changed its name to Pinterest, Inc. in April 2012. Pinterest, Inc. was incorporated in 2008 and is headquartered in San Francisco, California."
+          },
+          {
+            "name": "Coinbase Global, Inc.",
+            "ticker": "COIN",
+            "description": "Coinbase Global, Inc. provides financial infrastructure and technology for the cryptoeconomy in the United States and internationally. It offers the primary financial account in the cryptoeconomy for consumers; a marketplace with a pool of liquidity for transacting in crypto assets for institutions; and technology and services that enable developers to build crypto-based applications and securely accept crypto assets as payment. The company was founded in 2012 and is based in Wilmington, Delaware."
+          },
+          {
+            "name": "Walmart Inc.",
+            "ticker": "WMT",
+            "description": "Walmart Inc. engages in the operation of retail, wholesale, other units, and eCommerce worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club. It operates supercenters, supermarkets, hypermarkets, warehouse clubs, cash and carry stores, and discount stores under Walmart and Walmart Neighborhood Market brands; membership-only warehouse clubs; ecommerce websites, such as walmart.com.mx, walmart.ca, flipkart.com, PhonePe and other sites; and mobile commerce applications. The company offers grocery and consumables, including dairy, meat, bakery, deli, produce, dry, chilled or frozen packaged foods, alcoholic and nonalcoholic beverages, floral, snack foods, candy, other grocery items, health and beauty aids, paper goods, laundry and home care, baby care, pet supplies, and other consumable items; fuel, tobacco and other categories. It is also involved in the provision of health and wellness products covering pharmacy, optical and hearing services, and over-the-counter drugs and other medical products; and home and apparel including home improvement, outdoor living, gardening, furniture, apparel, jewelry, tools and power equipment, housewares, toys, seasonal items, mattresses and tire and battery centers. In addition, the company offers consumer electronics and accessories, software, video games, office supplies, appliances, and third-party gift cards. Further, it operates digital payment platforms; and offers financial services and related products, including money transfers, bill payments, money orders, check cashing, prepaid access, co-branded credit cards, installment lending, and earned wage access. Additionally, the company markets lines of merchandise under private brands, including Allswell, Athletic Works, Equate, and Free Assembly. The company was formerly known as Wal-Mart Stores, Inc. and changed its name to Walmart Inc. in February 2018. Walmart Inc. was founded in 1945 and is based in Bentonville, Arkansas."
+          },
+          {
+            "name": "Etsy, Inc.",
+            "ticker": "ETSY",
+            "description": "Etsy, Inc. operates online marketplaces that match third‑party sellers with buyers globally, with its main platform focused on unique and creative goods and its Depop brand focused on fashion resale. The company generates revenue primarily from marketplace fees (including listing, transaction, and payment processing fees), advertising services, and optional seller tools such as shipping labels. It also administers programs related to search placement, order protection on qualifying transactions, and fee incentives tied to seller‑driven traffic. Etsy was founded in 2005, incorporated as Indieco, Inc. in 2006, renamed Etsy, Inc. in June 2006, and is headquartered in Brooklyn, New York."
+          },
+          {
+            "name": "Zoom Communications, Inc.",
+            "ticker": "ZM",
+            "description": "Zoom Communications, Inc. engages in the provision of a communications and collaboration platform. It operates through the following geographical segments: Americas, Asia Pacific, and Europe, Middle East, and Africa. The company was founded by Eric S. Yuan in 2011 and is headquartered in San Jose, CA."
+          },
+          {
+            "name": "NVIDIA Corporation",
+            "ticker": "NVDA",
+            "description": "NVIDIA Corporation provides graphics, and compute and networking solutions in the United States, Taiwan, China, and internationally. The company's Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building 3D designs and virtual worlds. Its Compute & Networking segment provides Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; cryptocurrency mining processors; Jetson for robotics and other embedded platforms; and NVIDIA AI Enterprise and other software. The company's products are used in gaming, professional visualization, datacenter, and automotive markets. NVIDIA Corporation sells its products to original equipment manufacturers, original device manufacturers, system builders, add-in board manufacturers, retailers/distributors, independent software vendors, Internet and cloud service providers, automotive manufacturers and tier-1 automotive suppliers, mapping companies, start-ups, and other ecosystem participants. It has a strategic collaboration with Kroger Co. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California."
+          }
+        ]
+      },
+      {
+        "type": "glossary",
+        "heading": "Glossary",
+        "content": "**EPS (Earnings Per Share)**: A company's net profit divided by the number of outstanding shares. It's a key metric investors use to assess profitability.\\n\\n**Earnings Report**: An official quarterly or annual financial statement released by a company, including revenue, net income, and EPS.\\n\\n**EPS Estimate**: The average EPS forecast from analysts. If actual results beat this estimate, stock prices typically rise; if they miss, prices often fall.\\n\\n**TBA (To Be Announced)**: The announcement time hasn't yet been confirmed. Earnings are typically released before market open (BMO) or after market close (AMC)."
+      }
+    ]
+  }
+}

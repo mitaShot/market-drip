@@ -28,6 +28,7 @@ export default function Header() {
                 <nav className={styles.nav}>
                     <Link href={`/${language}/tag/stocks`} className={styles.link}>{t('header.stocks')}</Link>
                     <Link href={`/${language}/tag/ai`} className={styles.link}>{t('header.ai')}</Link>
+                    <Link href={`/${language}/tag/earnings`} className={styles.link}>{t('header.earnings')}</Link>
                 </nav>
 
                 <div className={styles.rightSection}>

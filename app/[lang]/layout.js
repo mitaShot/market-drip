@@ -46,6 +46,7 @@ export default async function LangLayout({ children, params }) {
                     gtag('config', 'G-F9BBX408T6');
                 `}
             </Script>
+            <Script src="/scripts/table-sort.js" strategy="afterInteractive" />
             <Header />
             {children}
             <Footer />
