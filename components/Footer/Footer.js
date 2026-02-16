@@ -9,11 +9,12 @@ export default function Footer() {
     const { t, language } = useLanguage();
     return (
         <footer className={styles.footer}>
-            <div className="container">
+            <div className={`container ${styles.footerContainer}`}>
                 <div className={styles.links}>
-                    <Link href={`/${language}/privacy`}>{t('footer.links.privacy')}</Link>
                     <Link href={`/${language}/terms`}>{t('footer.links.terms')}</Link>
+                    <Link href={`/${language}/privacy`}>{t('footer.links.privacy')}</Link>
                     <Link href={`/${language}/contact`}>{t('footer.links.contact')}</Link>
+                    <Link href={`/${language}/about`}>{t('footer.links.about')}</Link>
                 </div>
                 <p>&copy; {new Date().getFullYear()} Market Drip. {t('footer.rights')}</p>
                 <p className={styles.disclaimer}>

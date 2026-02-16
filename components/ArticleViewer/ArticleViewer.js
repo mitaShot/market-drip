@@ -12,6 +12,7 @@ export default function ArticleViewer({ article }) {
     // Helper to get localized content with fallback
     const getLocalized = (obj) => {
         if (!obj) return '';
+        if (typeof obj === 'string') return obj;
         if (obj[language]) return obj[language];
         if (obj['en']) return obj['en'];
         return Object.values(obj)[0] || '';
