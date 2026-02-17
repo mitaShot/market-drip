@@ -1,4 +1,4 @@
-import { getAllPostIds, getPostData } from '@/lib/posts';
+import { getAllPostIds, getPostData, getRelatedPosts } from '@/lib/posts';
 
 import ArticleViewer from '@/components/ArticleViewer/ArticleViewer';
 
@@ -95,13 +95,19 @@ export default async function ArticlePage({ params }) {
         description: excerpt,
     };
 
+    let relatedPosts = [];
+    if (article.ticker) {
+        relatedPosts = getRelatedPosts(article.ticker, id);
+    }
+
     return (
         <article>
             <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
             />
-            <ArticleViewer article={article} />
+            <ArticleViewer article={article} relatedPosts={relatedPosts} />
         </article>
     );
 }
+

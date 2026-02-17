@@ -5,8 +5,8 @@ import styles from './ArticleViewer.module.css';
 import Link from 'next/link';
 import { useEffect, useRef } from 'react';
 
-export default function ArticleViewer({ article }) {
-    const { language } = useLanguage();
+export default function ArticleViewer({ article, relatedPosts = [] }) {
+    const { language, t } = useLanguage();
     const bodyRef = useRef(null);
 
     // Helper to get localized content with fallback
@@ -78,6 +78,29 @@ export default function ArticleViewer({ article }) {
 
                 <div className={styles.body} ref={bodyRef}>
                     <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+                </div>
+
+                {relatedPosts && relatedPosts.length > 0 && (
+                    <div className={styles.relatedPosts}>
+                        <h3>{t('post.related_articles') || (language === 'ko' ? '관련 기사' : language === 'ja' ? '関連記事' : 'Related Articles')}</h3>
+                        <ul>
+                            {relatedPosts.map(post => {
+                                const postTitle = getLocalized(post.title);
+                                return (
+                                    <li key={post.id}>
+                                        <Link href={`/${language}/article/${post.id}`}>
+                                            {postTitle}
+                                        </Link>
+                                        <span className={styles.relatedDate}>{post.date}</span>
+                                    </li>
+                                );
+                            })}
+                        </ul>
+                    </div>
+                )}
+
+                <div className={styles.disclaimer}>
+                    <p>{t('footer.disclaimer')}</p>
                 </div>
             </div>
         </>
