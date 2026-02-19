@@ -6,7 +6,7 @@ const BASE_URL = 'https://market-drip.com';
 const POSTS_DIR = path.join(process.cwd(), 'posts');
 const OUT_DIR = path.join(process.cwd(), 'public');
 const LANGUAGES = ['en', 'ko', 'ja'];
-const CATEGORIES = ['stocks', 'etf', 'crypto', 'ai', 'dividends', 'banking'];
+const CATEGORIES = ['stocks', 'etf', 'crypto', 'earnings'];
 
 function escapeXml(unsafe) {
     if (!unsafe) return '';
@@ -27,7 +27,7 @@ function getPosts() {
     const fileNames = fs.readdirSync(POSTS_DIR);
     const posts = fileNames
         .map((fileName) => {
-            const match = fileName.match(/^(.+?)(?:_([a-z]{2}))?\.(md|html|json)$/);
+            const match = fileName.match(/^(.+?)(?:_([a-z]{2}))?\.((md|html|json))$/);
             if (!match) return null;
             return { fileName, id: match[1], lang: match[2] || 'en' };
         })
@@ -68,79 +68,94 @@ function getPosts() {
     return Object.values(uniquePosts).sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
-function generateLanguageSitemap(lang, posts) {
+function generateSitemap(posts) {
+    const now = new Date().toISOString();
     const urls = [];
 
-    // Home page
-    urls.push({ loc: `${BASE_URL}/${lang}`, priority: '1.0' });
-
-    // Post pages
-    posts.forEach(post => {
+    // Home pages (per language)
+    LANGUAGES.forEach(lang => {
         urls.push({
-            loc: `${BASE_URL}/${lang}/article/${post.id}`,
-            priority: '0.7',
-            lastmod: post.date.toISOString()
+            loc: `${BASE_URL}/${lang}`,
+            lastmod: now,
+            priority: '1.0',
+            pathSuffix: ''
         });
     });
 
-    const now = new Date().toISOString();
+    // Category pages (per language)
+    LANGUAGES.forEach(lang => {
+        CATEGORIES.forEach(cat => {
+            urls.push({
+                loc: `${BASE_URL}/${lang}/tag/${cat}`,
+                lastmod: now,
+                priority: '0.5',
+                pathSuffix: `/tag/${cat}`
+            });
+        });
+    });
+
+    // Article pages (per language per post)
+    LANGUAGES.forEach(lang => {
+        posts.forEach(post => {
+            urls.push({
+                loc: `${BASE_URL}/${lang}/article/${post.id}`,
+                lastmod: post.date.toISOString(),
+                priority: '0.7',
+                pathSuffix: `/article/${post.id}`
+            });
+        });
+    });
 
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 ${urls.map(url => {
-        const pathSuffix = url.loc.replace(`${BASE_URL}/${lang}`, '');
-        const lastmod = url.lastmod || now;
-
         return `  <url>
     <loc>${escapeXml(url.loc)}</loc>
-    <lastmod>${lastmod}</lastmod>
+    <lastmod>${url.lastmod}</lastmod>
     <priority>${url.priority}</priority>
-${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${pathSuffix}`)}" />`).join('\n')}
-    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${pathSuffix}`)}" />
+${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${url.pathSuffix}`)}" />`).join('\n')}
+    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${url.pathSuffix}`)}" />
   </url>`;
     }).join('\n')}
 </urlset>`;
 
-    // Write to out/<lang>/sitemap-<lang>.xml
-    const langDir = path.join(OUT_DIR, lang);
-    if (!fs.existsSync(langDir)) {
-        fs.mkdirSync(langDir, { recursive: true });
-    }
-    const filePath = path.join(langDir, `sitemap-${lang}.xml`);
+    const filePath = path.join(OUT_DIR, 'sitemap.xml');
     fs.writeFileSync(filePath, xml);
-    console.log(`✅ ${lang}/sitemap-${lang}.xml generated (${urls.length} URLs)`);
+    console.log(`✅ sitemap.xml generated (${urls.length} URLs)`);
 }
 
-function generateSitemapIndex() {
-    const now = new Date().toISOString();
+function cleanupOldSitemaps() {
+    // Remove old sitemap_index.xml
+    const indexPath = path.join(OUT_DIR, 'sitemap_index.xml');
+    if (fs.existsSync(indexPath)) {
+        fs.unlinkSync(indexPath);
+        console.log('🗑️  Removed old sitemap_index.xml');
+    }
 
-    const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${LANGUAGES.map(lang => `  <sitemap>
-    <loc>${BASE_URL}/${lang}/sitemap-${lang}.xml</loc>
-    <lastmod>${now}</lastmod>
-  </sitemap>`).join('\n')}
-</sitemapindex>`;
-
-    const filePath = path.join(OUT_DIR, 'sitemap_index.xml');
-    fs.writeFileSync(filePath, xml);
-    console.log(`✅ sitemap_index.xml generated`);
+    // Remove old language-specific sitemaps
+    LANGUAGES.forEach(lang => {
+        const oldPath = path.join(OUT_DIR, lang, `sitemap-${lang}.xml`);
+        if (fs.existsSync(oldPath)) {
+            fs.unlinkSync(oldPath);
+            console.log(`🗑️  Removed old ${lang}/sitemap-${lang}.xml`);
+        }
+    });
 }
 
 function main() {
     if (!fs.existsSync(OUT_DIR)) {
-        console.error('❌ out/ directory not found. Run "next build" first.');
+        console.error('❌ public/ directory not found.');
         process.exit(1);
     }
 
     const posts = getPosts();
     console.log(`📦 Found ${posts.length} unique posts`);
 
-    LANGUAGES.forEach(lang => generateLanguageSitemap(lang, posts));
-    generateSitemapIndex();
+    generateSitemap(posts);
+    cleanupOldSitemaps();
 
-    console.log('\n🎉 All sitemaps generated successfully!');
+    console.log('\n🎉 Sitemap generated successfully!');
 }
 
 main();
