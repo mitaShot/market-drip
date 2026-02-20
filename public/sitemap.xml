@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://market-drip.com/en</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
+    <lastmod>2026-02-20T07:42:33.773Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
+    <lastmod>2026-02-20T07:42:33.773Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -21,120 +21,12 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
+    <lastmod>2026-02-20T07:42:33.773Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/stocks</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/stocks" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/etf</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/etf" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/crypto</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/crypto" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/earnings</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/earnings" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/stocks</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/stocks" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/etf</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/etf" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/crypto</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/crypto" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/earnings</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/earnings" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/stocks</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/stocks" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/stocks" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/etf</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/etf" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/etf" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/crypto</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/crypto" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/crypto" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/earnings</loc>
-    <lastmod>2026-02-19T03:47:09.690Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/earnings" />
   </url>
   <url>
     <loc>https://market-drip.com/en/article/amd-stock-surge-warning-ai-chip-war-nvidia-risk-2026</loc>

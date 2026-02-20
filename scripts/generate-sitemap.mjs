@@ -6,7 +6,7 @@ const BASE_URL = 'https://market-drip.com';
 const POSTS_DIR = path.join(process.cwd(), 'posts');
 const OUT_DIR = path.join(process.cwd(), 'public');
 const LANGUAGES = ['en', 'ko', 'ja'];
-const CATEGORIES = ['stocks', 'etf', 'crypto', 'earnings'];
+
 
 function escapeXml(unsafe) {
     if (!unsafe) return '';
@@ -82,17 +82,7 @@ function generateSitemap(posts) {
         });
     });
 
-    // Category pages (per language)
-    LANGUAGES.forEach(lang => {
-        CATEGORIES.forEach(cat => {
-            urls.push({
-                loc: `${BASE_URL}/${lang}/tag/${cat}`,
-                lastmod: now,
-                priority: '0.5',
-                pathSuffix: `/tag/${cat}`
-            });
-        });
-    });
+
 
     // Article pages (per language per post)
     LANGUAGES.forEach(lang => {
