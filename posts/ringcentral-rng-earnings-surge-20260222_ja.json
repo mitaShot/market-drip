@@ -1,0 +1,112 @@
+```json
+{
+  "meta_info": {
+    "selected_ticker": "RNG",
+    "selection_reason": "第4四半期決算の改善を受けて株価が34%急騰、出来高は1500万株まで急増。本日の注目イニングス銘柄。",
+    "references": [
+      { "name": "Morningstar Movers", "url": "https://www.morningstar.com/markets/movers" },
+      { "name": "Yahoo Finance RNG News", "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html" },
+      { "name": "Zacks RNG Earnings", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" },
+      { "name": "Seeking Alpha RNG", "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5_percent-to-5_5_percent-subscription-revenue-growth-and-590m-free-c" },
+      { "name": "RingCentral IR", "url": "https://ir.ringcentral.com/news/press-release-details/2026/RingCentral-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/def" }
+    ]
+  },
+  "seo": {
+    "title": "RNGが34%急騰！決算好転のRingCentral、AI追い風は続くか？",
+    "meta_description": "RNGは好決算を受けて本日34%上昇。non-GAAP黒字転換とAIモメンタムは本物か？ガイダンス引き上げの理由と短期過熱リスクを分析。",
+    "slug": "ringcentral-rng-earnings-surge-20260222",
+    "category": "Stocks | AI | Tech",
+    "tags": ["RNG", "RingCentral", "Earnings", "AI-Communications", "Cloud"],
+    "published_date": "2026-02-22",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒で分かる投資サマリー",
+      "points": [
+        "RNGは第4四半期決算の好転を受けて34%急騰し、黒字転換で市場を驚かせた。",
+        "出来高は1500万株と通常の約7倍に急増し、機関投資家の資金流入が示唆される。",
+        "当社の見解はホールド／押し目待ち。AI成長ガイダンスは魅力的だが、RSIは短期的な過熱を示唆。"
+      ],
+      "claims": [
+        { "what": "RNG株価 +34.40%、終値 $39.50。", "value": "34.40", "url": "https://www.morningstar.com/markets/movers" },
+        { "what": "出来高1500万株、平均200万株を大幅上回る。", "value": "15", "url": "https://www.morningstar.com/markets/movers" }
+      ]
+    },
+    "excerpt": "決算シーズンでは、RNGのようなターンアラウンド銘柄が注目を集めやすい。本日の急騰理由（決算サプライズ）と、今後3～12カ月のシナリオを整理する。",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: なぜRNGは上昇したのか？",
+        "content": "本日のRNGは決算発表直後に34%急騰し、トップゲイナーとなった。第4四半期にnon-GAAPベースで赤字から黒字へ転換し、売上も予想を上回ったことが即座に株価へ反映された。\n\nQ. 今回の決算は本当にポジティブか？\nA. はい。non-GAAP EPSは$1.18でコンセンサスを上回り、売上高は$644M（前年比+4.8%）。前期の$7Mの損失から$23Mの黒字へ転換した点が強く評価された。\n\nQ. 規制リスクは？\nA. クラウドコミュニケーション分野であり、大きな規制リスクは限定的。むしろAI統合戦略が評価され、テックに友好的な政策環境も追い風となる可能性がある。\n\n総括すると、決算サプライズが市場に忘れられていたターンアラウンドストーリーを再び浮上させた一日だった。",
+        "claims": [
+          { "what": "Q4 non-GAAP EPS $1.18、予想超過。", "value": "1.18", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" },
+          { "what": "売上高 $644M、前年比 +4.8%。", "value": "644", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "直近の株価動向とモメンタム",
+        "content": "株価は52週高値を更新し、$39.50で引けた。出来高は1500万株と通常の200万株を大きく上回り、強いモメンタムが確認できる。\n\nQ. セクターや指数と比較すると？\nA. コミュニケーションサービスセクターが横ばいの中、RNGは34%上昇と大幅アウトパフォーム。ナスダックは約0.9%上昇で、相対的な強さが際立つ。\n\nQ. 過熱か、妥当か？\nA. RSI（相対力指数）は短期的な買われ過ぎを示唆。ただしブレイクアウト形状であり、調整が入っても$34付近がサポートとなる可能性が高い。",
+        "claims": [
+          { "what": "出来高は平均比7.5倍。", "value": "15M", "url": "https://www.morningstar.com/markets/movers" }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "主要カタリストとリスク要因",
+        "content": "最大のカタリストはAIモメンタム。RingCentralはAI統合型クラウドソリューションによる成長加速を強調し、2026年ガイダンスを引き上げた。FCF（フリーキャッシュフロー）$590M目標に加え、配当開始を発表し、資金創出力への自信を示した。\n\n金利面では利下げ期待が成長株に追い風。競争は激しいが、サブスクリプション成長率4.5～5.5%は現実的。主なリスクはマクロ減速による企業IT支出の鈍化。",
+        "claims": [
+          { "what": "2026年FCFガイダンス $590M。", "value": "590", "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5_percent-to-5_5_percent-subscription-revenue-growth-and-590m-free-c" }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "最近のニュースと動向",
+        "content": "見出しは「Q4黒字転換」「52週高値更新」が中心。ZacksはEPSの上振れを強調し、Seeking AlphaはAI主導のガイダンス引き上げを報じた。\n\nQ. 機関投資家の動きは？\nA. 出来高急増から機関の買いが示唆されるが、詳細は13F提出を待つ必要がある。Hillsdaleが持株を増やしたとの報道もポジティブ。\n\nQ. その他の材料は？\nA. 1株当たり$0.075の配当を発表し、株主還元を開始。財務安定性のシグナルとなった。",
+        "claims": [
+          { "what": "Q4純利益 $22.97M、黒字転換。", "value": "22.97", "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html" }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "機関・インサイダー動向",
+        "content": "1500万株の出来高の相当部分は機関投資家のフローとみられる。決算後ラリーでは個人と機関が混在するが、平均比7倍超の水準は大口参加を示唆。直近で目立ったインサイダー売却は確認されていない。オプション市場ではコール優勢の可能性があるが、確定データは限定的。",
+        "claims": [
+          { "what": "平均200万株の7.5倍水準。", "value": "2", "url": "https://www.morningstar.com/markets/movers" }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "投資戦略（3～12カ月）",
+        "bull_case": "AIクラウド需要が加速し、マクロ環境が安定すれば、サブスクリプション成長5%以上とEPS $4.97到達が視野に。FCF $590Mにより増配や自社株買いも可能。",
+        "bear_case": "景気減速で企業支出が縮小すれば成長鈍化とマージン圧迫のリスク。株価が30ドル台前半へ調整する可能性も。",
+        "strategy": "現水準での一括投資はリスクが高い。10～20%の調整を待ち段階的にエントリーする戦略が妥当。長期ではAI成長ストーリーを前提にホールドも選択肢。要点は、決算モメンタムを尊重しつつ過熱リスクに警戒すること。",
+        "claims": [
+          { "what": "2026年EPSガイダンス $4.76～$4.97。", "value": "4.97", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "決算の詳細は？",
+        "answer": "Q4売上高は$644M、non-GAAP EPSは$1.18で予想超過。$23Mの黒字転換とガイダンス引き上げが評価された。"
+      },
+      {
+        "question": "今からでも買える？",
+        "answer": "34%上昇後のため短期調整の可能性はあるが、ファンダメンタルは改善。$34付近のサポートを注視したい。"
+      }
+    ]
+  },
+  "images": {
+    "cover": { "prompt": "Cinematic 3D illustration of exploding stock chart with RingCentral logo, green upward arrows, AI cloud icons, dramatic lighting, financial excitement vibe" }
+  },
+  "chart": {
+    "ticker": "RNG",
+    "chart_filename": "hims-glp1-regulation-lawsuit-volatility-20260215_inner.webp",
+    "analysis": "**テクニカル分析:** ボリンジャーバンド上限突破（過熱圏入り）\n\n**心理指標:** RSI 78.2（買われすぎ、利益確定売り注意）\n\n**主要レンジ:** 直近1ヶ月の高値 $40.64、安値 $24.14\n\n**出来高:** 14.54M（20日平均比 3.98倍）\n\n**目標株価（アナリスト）:** 平均 $35.10（-11.1%）/ 中央 $34.00（レンジ $28.00–$50.00）",
+    "image_alt": "RNG 株価チャート（2026-02-20時点）: 終値 $39.50（+34.40%）, RSI(14) 78.2, 直近1ヶ月レンジ $24.1–$40.6.",
+    "image_caption": "RNG（2026-02-20）: 過熱シグナル（ボリンジャー上限超え）。終値 $39.50（+34.40%）, RSI(14) 78.2。"
+  }
+}
+```

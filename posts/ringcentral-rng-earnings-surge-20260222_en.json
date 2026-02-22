@@ -1,0 +1,169 @@
+{
+  "meta_info": {
+    "selected_ticker": "RNG",
+    "selection_reason": "Shares surged 34% on improved Q4 earnings with volume spiking to 15M, making it today’s hottest earnings-driven mover.",
+    "references": [
+      {
+        "name": "Morningstar Movers",
+        "url": "https://www.morningstar.com/markets/movers"
+      },
+      {
+        "name": "Yahoo Finance RNG News",
+        "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html"
+      },
+      {
+        "name": "Zacks RNG Earnings",
+        "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy"
+      },
+      {
+        "name": "Seeking Alpha RNG",
+        "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5-percent-to-5_5_percent-subscription-revenue-growth-and-590m-free-c"
+      },
+      {
+        "name": "RingCentral IR",
+        "url": "https://ir.ringcentral.com/news/press-release-details/2026/RingCentral-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/def"
+      }
+    ]
+  },
+  "seo": {
+    "title": "RNG Soars 34%! RingCentral Earnings Explosion — Can AI Momentum Continue?",
+    "meta_description": "RNG jumped 34% today on strong earnings. Is the turnaround (non-GAAP profitability) and AI momentum sustainable? We break down the guidance upgrade and short-term overheating risks.",
+    "slug": "ringcentral-rng-earnings-surge-20260222",
+    "category": "Stocks | AI | Tech",
+    "tags": [
+      "RNG",
+      "RingCentral",
+      "Earnings",
+      "AI-Communications",
+      "Cloud"
+    ],
+    "published_date": "2026-02-22",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Snapshot",
+      "points": [
+        "RNG surged 34% after strong Q4 results, returning to profitability and surprising the market.",
+        "Volume exploded to 15M — roughly 7x average — signaling strong institutional participation.",
+        "Our stance: Hold / Watch to Buy. AI growth guidance is attractive, but short-term overbought signals (RSI) suggest possible pullback."
+      ],
+      "claims": [
+        {
+          "what": "RNG stock +34.40%, closed at $39.50.",
+          "value": "34.40",
+          "url": "https://www.morningstar.com/markets/movers"
+        },
+        {
+          "what": "Volume 15M vs. 2M average.",
+          "value": "15",
+          "url": "https://www.morningstar.com/markets/movers"
+        }
+      ]
+    },
+    "excerpt": "Turnaround stories like RNG tend to shine during earnings season. Let’s break down why the stock jumped (earnings surprise) and what could happen next over the next 3–12 months.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is RNG Moving?",
+        "content": "Did you see RNG today? Shares surged 34% immediately after the earnings release, ranking as the top gainer. In Q4, the company swung from a loss to profitability (non-GAAP basis) and beat revenue expectations — and the market reacted instantly.\n\nQ. Was this earnings beat a real catalyst?\nA. Yes. Non-GAAP EPS came in at $1.18, above consensus, with revenue of $644M, up 4.8% YoY. The shift from a $7M loss in the prior period to $23M in profit stood out to investors.\n\nQ. Any policy or regulatory risks?\nA. As a cloud communications provider, major regulatory risk appears limited. In fact, the AI integration narrative has strengthened sentiment. A pro-tech policy backdrop could further support momentum.\n\nIn short: an earnings surprise revived a turnaround story the market had largely overlooked.",
+        "claims": [
+          {
+            "what": "Q4 non-GAAP EPS $1.18, beat estimates.",
+            "value": "1.18",
+            "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy"
+          },
+          {
+            "what": "Revenue $644M, YoY +4.8%.",
+            "value": "644",
+            "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy"
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Recent Price Action & Momentum",
+        "content": "The stock hit a new 52-week high and closed at $39.50. Volume reached 15M versus a typical 2M average — clear momentum expansion.\n\nQ. How does it compare to the sector and index?\nA. While the communication services sector was relatively flat, RNG outperformed sharply with a 34% gain. The Nasdaq rose about 0.9%, underscoring RNG’s relative strength.\n\nQ. Is this overbought or justified?\nA. RSI (Relative Strength Index) signals short-term overbought conditions. However, the breakout pattern suggests that even if a pullback occurs, support near $34 could hold.",
+        "claims": [
+          {
+            "what": "Volume up 7.5x vs. average.",
+            "value": "15M",
+            "url": "https://www.morningstar.com/markets/movers"
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "The primary catalyst is AI momentum. RingCentral highlighted accelerated growth driven by AI-integrated cloud solutions and raised its 2026 guidance. Management targets $590M in free cash flow (FCF) and even announced a dividend, signaling confidence in cash generation.\n\nOn rates, expectations for cuts generally favor growth stocks. Competitive pressures remain, but subscription growth guidance of 4.5–5.5% appears achievable. The main risk: macro slowdown reducing enterprise IT spending.",
+        "claims": [
+          {
+            "what": "2026 FCF guidance $590M.",
+            "value": "590",
+            "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5_percent-to-5_5_percent-subscription-revenue-growth-and-590m-free-c"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Recent News & Developments",
+        "content": "Headlines focused on 'Q4 Return to Profitability' and '52-Week High.' Zacks emphasized the EPS beat, while Seeking Alpha covered the AI-driven guidance upgrade.\n\nQ. What about institutional activity?\nA. The surge in volume suggests institutional buying, though confirmation requires 13F filings. Reports also indicated Hillsdale increased its position.\n\nQ. Any additional developments?\nA. The company declared a $0.075 dividend, marking the start of shareholder returns and signaling improved financial stability.",
+        "claims": [
+          {
+            "what": "Q4 net income $22.97M, returned to profit.",
+            "value": "22.97",
+            "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Institutional & Insider Activity",
+        "content": "A substantial portion of the 15M volume likely reflects institutional flow. Post-earnings rallies typically combine retail and institutional participation, but trading at 7x average volume strongly indicates large-player involvement. No notable recent insider selling has been reported. Options activity likely skewed toward calls, though confirmation data remains limited.",
+        "claims": [
+          {
+            "what": "7.5x above average volume of 2M.",
+            "value": "2",
+            "url": "https://www.morningstar.com/markets/movers"
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "Investment Plan (3–12 Months)",
+        "bull_case": "If AI-driven cloud demand accelerates and macro conditions stabilize, subscription growth above 5% could support EPS reaching $4.97. With $590M in FCF, dividend increases and potential buybacks become feasible.",
+        "bear_case": "If economic conditions weaken and enterprise spending slows, growth could decelerate and margin pressure intensify. A pullback toward the low $30s would be possible.",
+        "strategy": "Avoid full allocation at current levels due to near-term extension risk. Consider scaling in after a 10–20% pullback. Long-term investors may hold based on the AI growth thesis. Bottom line: ride the earnings momentum cautiously while respecting overbought conditions. The stock moved on earnings — future performance hinges on execution under both bull and bear scenarios.",
+        "claims": [
+          {
+            "what": "2026 EPS guidance $4.76–$4.97.",
+            "value": "4.97",
+            "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you provide more detailed earnings figures?",
+        "answer": "Q4 revenue was $644M with non-GAAP EPS of $1.18, exceeding expectations. The return to $23M in profit and raised guidance fueled investor enthusiasm."
+      },
+      {
+        "question": "Is it too late to buy after the surge?",
+        "answer": "After a 34% jump, a short-term pullback is possible. However, fundamentals have improved, so watching the $34 support level may offer a more attractive entry."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Cinematic 3D illustration of exploding stock chart with RingCentral logo, green upward arrows, AI cloud icons, dramatic lighting, financial excitement vibe"
+    }
+  },
+  "chart": {
+    "ticker": "RNG",
+    "chart_filename": "ringcentral-rng-earnings-surge-20260222_inner.webp",
+    "analysis": "**Technical:** Breaking above Upper Band (Overbought)\\n\\n**Sentiment:** RSI 78.2 (Overbought, watch for profit taking)\\n\\n**Key Range:** 1-month High $40.64, Low $24.14\\n\\n**Volume:** 14.54M (3.98x vs 20D avg)\\n\\n**Analyst targets:** Mean $35.10 (-11.1%) / Median $34.00 (Range $28.00–$50.00)",
+    "image_alt": "RNG stock chart as of 2026-02-20: close $39.50 (+34.40%), RSI(14) 78.2, 1-month range $24.1–$40.6.",
+    "image_caption": "RNG (2026-02-20): Overbought signal (above upper Bollinger Band); Close $39.50 (+34.40%), RSI(14) 78.2."
+  }
+}

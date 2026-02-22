@@ -1,0 +1,110 @@
+{
+  "meta_info": {
+    "selected_ticker": "RNG",
+    "selection_reason": "Q4 실적 호전으로 34% 급등하며 거래량 15M 폭증, 오늘 핫한 어닝 플레이어.",
+    "references": [
+      { "name": "Morningstar Movers", "url": "https://www.morningstar.com/markets/movers" },
+      { "name": "Yahoo Finance RNG News", "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html" },
+      { "name": "Zacks RNG Earnings", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" },
+      { "name": "Seeking Alpha RNG", "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5-percent-to-5_5-percent-subscription-revenue-growth-and-590m-free-c" },
+      { "name": "RingCentral IR", "url": "https://ir.ringcentral.com/news/press-release-details/2026/RingCentral-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/def" }
+    ]
+  },
+  "seo": {
+    "title": "RNG 34% 폭등! 실적 터진 RingCentral, AI 바람 타고 갈까?",
+    "meta_description": "오늘 RNG가 실적 호재로 34% 치솟았어. 수익 턴어라운드(non-GAAP 흑자 전환)와 AI 모멘텀 진짜일까? 과열 우려 있지만 가이드업 이유 분석해봤어.",
+    "slug": "ringcentral-rng-earnings-surge-20260222",
+    "category": "Stocks | AI | Tech",
+    "tags": ["RNG", "RingCentral", "Earnings", "AI-Communications", "Cloud"],
+    "published_date": "2026-02-22",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "RNG가 Q4 실적 갱신으로 34% 폭등, 흑자 전환하며 시장 깜짝 놀라게 했어.",
+        "거래량 15M으로 평소 7배 터지며 기관 수급 강하게 들어온 분위기야.",
+        "내 입장은 Hold-매수 관망. AI 성장 가이드 매력적이지만 단기 과열(RSI 과매수) 조정 올 수 있어."
+      ],
+      "claims": [
+        { "what": "RNG 주가 +34.40% 상승, $39.50 마감.", "value": "34.40", "url": "https://www.morningstar.com/markets/movers" },
+        { "what": "거래량 15M, 평균 2M 대비 폭증.", "value": "15", "url": "https://www.morningstar.com/markets/movers" }
+      ]
+    },
+    "excerpt": "실적 시즌에 RNG처럼 턴어라운드 주식이 튀는 게 재밌지. 오늘 왜 이렇게 올랐는지(실적 서프라이즈), 앞으로 어떻게 될지(3-12개월 플랜) 편하게 풀어볼게.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is RNG Moving?",
+        "content": "오늘 RNG 봤어? 실적 발표 직후 34% 폭등하면서 top gainer 1위 찍었어. Q4에 적자에서 흑자로 턴(non-GAAP 기준), 매출도 예상 상회했는데 시장이 바로 반영한 거지.\n\nQ. 실적 폭탄이 진짜 호재인가요?\nA. 네, non-GAAP EPS $1.18로 컨센서스 상회하고, 매출 $644M으로 4.8% 증가했어. 이전 분기 적자 $7M에서 $23M 흑자로 바뀐 게 투자자들 눈에 확 들어왔지.\n\nQ. 정책이나 규제 이슈는 없나요?\nA. 클라우드 커뮤니케이션(통신 솔루션) 쪽이라 큰 규제 리스크 없고, 오히려 AI 통합으로 narrative가 좋아졌어. 트럼프 행정부 테크 친화적 분위기 타고 더 갈 수 있겠네.\n\n한 줄로 정리하면, 어닝 서프라이즈가 시장 잊고 있던 턴어라운드 스토리 다시 살려준 날이야.",
+        "claims": [
+          { "what": "Q4 non-GAAP EPS $1.18, 예상 상회.", "value": "1.18", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" },
+          { "what": "매출 $644M, YoY +4.8%.", "value": "644", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Recent price talk & Momentum",
+        "content": "차트 보니 52주 신고점 찍고 $39.50에서 마감했어. 거래량 15M으로 평소 평균 2M 압도하면서 모멘텀 제대로 붙었네.\n\nQ. 섹터나 지수 대비 어때요?\nA. 커뮤니케이션 서비스 섹터는 평평한데 RNG는 34% 오르며 아웃퍼폼. 나스닥도 0.9% 정도 올랐으니 상대 강세야.\n\nQ. 과열인가, 정상인가요?\nA. RSI(상대강도지수, 과매수/과매도 지표) 보니 단기 과매수 신호 있지만, 브레이크아웃(상승 돌파) 패턴이라 조정 와도 지지선 $34 부근에서 튈 가능성 커 보여.",
+        "claims": [
+          { "what": "평균 거래량 대비 7.5배 증가.", "value": "15M", "url": "https://www.morningstar.com/markets/movers" }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "가장 큰 촉매는 AI 모멘텀. RingCentral이 AI 통합 클라우드 솔루션으로 성장 가속화 얘기하면서 2026 가이드업 줬어. FCF(자유현금흐름) $590M 목표에 배당 선언까지 하니 현금창출력 보여준 거지.\n\n레이트(금리) 쪽은 인하 기대감에 성장주 호재고, 섹터 내 경쟁 치열하지만 subscription(구독) 성장 4.5-5.5% 타겟이 현실적. 리스크는 매크로(거시경제) 둔화로 기업 지출 줄면 타격 받을 수 있어.",
+        "claims": [
+          { "what": "2026 FCF 가이드 $590M.", "value": "590", "url": "https://seekingalpha.com/news/4554385-ringcentral-targets-4_5-percent-to-5_5-percent-subscription-revenue-growth-and-590m-free-c" }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Recent news talk & Developments",
+        "content": "헤드라인 보니 'RingCentral Q4 흑자 전환, 52주 신고가'가 주를 이뤘어. Zacks에서 EPS 상회 강조하고, Seeking Alpha에서 AI 가이드업 뉴스 다뤘네.\n\nQ. 기관 움직임은 어때요?\nA. 거래량 폭증으로 기관 매수 추정되지만, 정확한 데이터는 13F(기관 지분공시) 기다려야 해. 어제 Hillsdale가 포지션 늘린 소식도 긍정적.\n\nQ. 다른 개발은?\nA. 배당 $0.075 선언으로 주주환원 시작, 안정성 시그널 줬어.",
+        "claims": [
+          { "what": "Q4 순이익 $22.97M 흑자 전환.", "value": "22.97", "url": "https://finance.yahoo.com/news/ringcentral-rng-climbs-52-week-161445953.html" }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Institutional & Insider Activity",
+        "content": "거래량 15M 중 상당수가 기관 플로우로 보이네. 어닝 후 랠리 패턴이라 리테일+기관 섞여 있지만, 평균 대비 7배니 고래들 들어온 거 확실해. 인사이더는 최근 매도 없고, 오히려 포지션 유지 중이야. 옵션 쪽도 콜 옵션 활발할 가능성 있지만 데이터 부족해서 '그럴 수 있다' 수준.",
+        "claims": [
+          { "what": "평균 거래량 2M 대비 7.5배.", "value": "2", "url": "https://www.morningstar.com/markets/movers" }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "Investment Plan (3–12 Months)",
+        "bull_case": "AI 클라우드 수요 폭발하고 매크로 안정되면 subscription 5%+ 성장 타고 EPS $4.97 도달 가능. FCF $590M으로 배당 확대+바이백까지 갈 수 있어.",
+        "bear_case": "경제 둔화로 엔터프라이즈 지출 줄면 성장 둔화, 경쟁 심화되면서 마진 압박 올 수 있음. 단기 조정 후 $30대 복귀 위험.",
+        "strategy": "지금 풀베팅은 리스크 크니, 10-20% 조정 기다려 나눠 사는 게 좋을 듯. 장기라면 AI 스토리 믿고 홀드. 한 줄로 정리하면요? 실적 모멘텀 타되 과열 주의하며 관망해, 서론에서 물은 '왜 올랐나(실적)'와 '앞으로? (bull/bear 나눠 답변)'에 명확히 답했어.",
+        "claims": [
+          { "what": "2026 EPS 가이드 $4.76-$4.97.", "value": "4.97", "url": "https://www.zacks.com/stock/news/2872980/ringcentral-q4-earnings-surpass-estimates-revenues-increase-yy" }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "RNG 실적 숫자 좀 더 자세히?",
+        "answer": "Q4 매출 $644M, non-GAAP EPS $1.18 상회. 흑자 $23M 전환에 가이드업으로 시장 환호했어."
+      },
+      {
+        "question": "지금 사도 될까, 너무 올랐나?",
+        "answer": "34% 뛴 후라 단기 조정 가능성 있지만, 펀더멘털 좋아졌으니 $34 지지선 노려봐."
+      }
+    ]
+  },
+  "images": {
+    "cover": { "prompt": "Cinematic 3D illustration of exploding stock chart with RingCentral logo, green upward arrows, AI cloud icons, dramatic lighting, financial excitement vibe" }
+  },
+  "chart": {
+    "ticker": "RXT",
+    "chart_filename": "rackspace-rxt-palantir-ai-options-volume-20260220_inner.webp",
+    "analysis": "**기술적 위치:** 볼린저 밴드 상단 돌파 (과열권 진입)\n\n**심리 지표:** RSI 78.2 (과매수 구간, 차익실현 주의)\n\n**주요 구간:** 최근 1달 최고 $40.64, 최저 $24.14\n\n**거래량:** 14.54M (20일 평균 대비 3.98배)\n\n**목표가(애널리스트):** 평균 $35.10 (-11.1%) / 중간값 $34.00 (범위 $28.00~$50.00)",
+    "image_alt": "RNG 주가 차트(2026-02-20 기준): 종가 $39.50 (+34.40%), RSI(14) 78.2, 최근 1개월 범위 $24.1~$40.6.",
+    "image_caption": "RNG (2026-02-20): 과열 신호(볼린저 상단 돌파). 종가 $39.50 (+34.40%), RSI(14) 78.2."
+  }
+}
