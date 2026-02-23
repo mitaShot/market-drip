@@ -140,7 +140,7 @@
   "chart": {
     "ticker": "MLTX",
     "chart_filename": "moonlake-mltx-stock-surge-analysis-20260223_inner.webp",
-    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\moonlake-mltx-stock-surge-analysis-20260223_inner.webp",
+    "chart_path": "/posts/img/moonlake-mltx-stock-surge-analysis-20260223_inner.webp",
     "analysis": "**기술적 위치:** 20일선 상회 (상승 추세 유지)\\n\\n**심리 지표:** RSI 68.6 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $18.90, 최저 $14.47\\n\\n**거래량:** 813.89K (20일 평균 대비 0.64배)\\n\\n**목표가(애널리스트):** 평균 $19.86 (+6.4%) / 중간값 $20.00 (범위 $6.00~$34.00)\\n\\n전고점 돌파 시도 중",
     "image_alt": "MLTX 주가 차트(2026-02-23 기준): 종가 $18.66 (-0.59%), RSI(14) 68.6, 최근 1개월 범위 $14.5~$18.9.",
     "image_caption": "MLTX (2026-02-23): 상승 추세 유지(20일선 상회). 종가 $18.66 (-0.59%), RSI(14) 68.6."
