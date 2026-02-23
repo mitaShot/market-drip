@@ -22,6 +22,7 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
     const contentHtml = getLocalized(article.contentHtml);
     const category = getLocalized(article.category);
     const author = getLocalized(article.author);
+    const excerpt = getLocalized(article.excerpt);
 
     useEffect(() => {
         if (!bodyRef.current) return;
@@ -50,6 +51,16 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
         return () => observer.disconnect();
     }, [contentHtml]);
 
+    useEffect(() => {
+        if (bodyRef.current) {
+            const externalLinks = bodyRef.current.querySelectorAll('a[href^="http"]');
+            externalLinks.forEach(link => {
+                link.setAttribute('rel', 'nofollow');
+                link.setAttribute('target', '_blank');
+            });
+        }
+    }, [contentHtml]);
+
     return (
         <article className={styles.article}>
             <header className={styles.header}>
@@ -62,6 +73,7 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
                         <span className={styles.author}>By {author}</span>
                         <time className={styles.date} dateTime={article.date}>{article.date}</time>
                     </div>
+                    {excerpt && <p className={styles.excerpt}>{excerpt}</p>}
                     {article.tags && article.tags.length > 0 && (
                         <nav className={styles.tags} aria-label="Article tags">
                             {article.tags.map(tag => (
