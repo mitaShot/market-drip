@@ -25,7 +25,7 @@
     "title": "AKAM 실적 후 8% 폭락? 진짜 팔아야 할까",
     "meta_description": "어제 실적 좋았는데 왜 오늘 AKAM이 8%나 떨어졌을까? 앞으로 돈 벌 전망 깎인 이유와 재평가 가능성 솔직 리뷰.",
     "slug": "akam-earnings-drop-guidance-cut-20260223",
-    "category": "Stocks | Tech | Earnings",
+    "category": "Stocks",
     "tags": [
       "AKAM",
       "클라우드 보안",
@@ -147,7 +147,7 @@
   "chart": {
     "ticker": "AKAM",
     "chart_filename": "akam-earnings-drop-guidance-cut-20260223_inner.webp",
-    "chart_path": "D:\\n8n_local\\market-drip\\public\\posts\\img\akam-earnings-drop-guidance-cut-20260223_inner.webp",
+    "chart_path": "/public/posts/img/akam-earnings-drop-guidance-cut-20260223_inner.webp",
     "analysis": "**기술적 위치:** 20일선 하회 (약세 흐름)\n\n**심리 지표:** RSI 45.5 (중립 구간)\n\n**주요 구간:** 최근 1달 최고 $113.50, 최저 $89.86\n\n**거래량:** 15.78M (20일 평균 대비 3.13배)\n\n**목표가(애널리스트):** 평균 $108.16 (+14.9%) / 중간값 $110.00 (범위 $72.00~$134.00)",
     "image_alt": "AKAM 주가 차트(2026-02-20 기준): 종가 $94.17 (-14.07%), RSI(14) 45.5, 최근 1개월 범위 $89.9~$113.5.",
     "image_caption": "AKAM (2026-02-20): 약세 흐름(20일선 하회). 종가 $94.17 (-14.07%), RSI(14) 45.5."

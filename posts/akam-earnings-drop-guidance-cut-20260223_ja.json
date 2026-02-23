@@ -21,7 +21,7 @@
     "title": "AKAM 決算後8%急落？本当に売るべきか",
     "meta_description": "昨日は良い決算だったのに、なぜ本日AKAMが8%も下げたのか？ガイダンス引き下げの理由と今後の見通しを正直にレビュー。",
     "slug": "akam-earnings-drop-guidance-cut-20260223",
-    "category": "Stocks | Tech | Earnings",
+    "category": "Stocks",
     "tags": [
       "AKAM",
       "Cloud Security",
@@ -143,7 +143,7 @@
   "chart": {
     "ticker": "AKAM",
     "chart_filename": "akam-earnings-drop-guidance-cut-20260223_inner.webp",
-    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\akam-earnings-drop-guidance-cut-20260223_inner.webp",
+    "chart_path": "/public/posts/img/akam-earnings-drop-guidance-cut-20260223_inner.webp",
     "analysis": "**テクニカル分析:** 20日移動平均線下抜け（弱気トレンド）\\n\\n**心理指標:** RSI 45.5（中立エリア）\\n\\n**主要レンジ:** 直近1ヶ月の高値 $113.50、安値 $89.86\\n\\n**出来高:** 15.78M（20日平均比 3.13倍）\\n\\n**目標株価（アナリスト）:** 平均 $108.16（+14.9%）/ 中央 $110.00（レンジ $72.00–$134.00）",
     "image_alt": "AKAM 株価チャート（2026-02-20時点）: 終値 $94.17（-14.07%）, RSI(14) 45.5, 直近1ヶ月レンジ $89.9–$113.5.",
     "image_caption": "AKAM（2026-02-20）: 弱気基調（20日線下）。終値 $94.17（-14.07%）, RSI(14) 45.5。"
