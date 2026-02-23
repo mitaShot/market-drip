@@ -73,7 +73,6 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
                         <span className={styles.author}>By {author}</span>
                         <time className={styles.date} dateTime={article.date}>{article.date}</time>
                     </div>
-                    {excerpt && <p className={styles.excerpt}>{excerpt}</p>}
                     {article.tags && article.tags.length > 0 && (
                         <nav className={styles.tags} aria-label="Article tags">
                             {article.tags.map(tag => (
@@ -92,6 +91,8 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
                         <img src={article.image} alt={title} className={styles.image} referrerPolicy="no-referrer" />
                     </figure>
                 )}
+
+                {excerpt && <p className={styles.excerpt}>{excerpt}</p>}
 
                 <div className={styles.body} ref={bodyRef}>
                     <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
