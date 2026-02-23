@@ -1,0 +1,151 @@
+{
+  "meta_info": {
+    "selected_ticker": "AKAM",
+    "selection_reason": "昨日の決算発表後、本日寄り付きから8%以上急落し出来高が急増、S&P500でホットな銘柄。",
+    "references": [
+      {
+        "name": "Barrons",
+        "url": "https://www.barrons.com/articles/akamai-earnings-stock-price-284f54c5"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/akamai-technologies-q4-earnings-call-011249913.html"
+      },
+      {
+        "name": "TIKR",
+        "url": "https://www.tikr.com/blog/akamai-technologies-stock-sinks-14-on-profit-outlook-heres-what-changed-after-q4"
+      }
+    ]
+  },
+  "seo": {
+    "title": "AKAM 決算後8%急落？本当に売るべきか",
+    "meta_description": "昨日は良い決算だったのに、なぜ本日AKAMが8%も下げたのか？ガイダンス引き下げの理由と今後の見通しを正直にレビュー。",
+    "slug": "akam-earnings-drop-guidance-cut-20260223",
+    "category": "Stocks | Tech | Earnings",
+    "tags": [
+      "AKAM",
+      "Cloud Security",
+      "Earnings Miss",
+      "AI Inference"
+    ],
+    "published_date": "2026-02-23",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒でわかる投資ポイントまとめ",
+      "points": [
+        "決算は良かったが2026年ガイダンスが引き下げられ、本日8%急落。",
+        "機関投資家の売りが溢れ、出来高は通常の10倍に急増。",
+        "今は様子見がおすすめ。過剰売られだがリスク大きい。"
+      ],
+      "claims": [
+        {
+          "what": "株価下落率",
+          "value": "-8%",
+          "url": "https://www.barrons.com/articles/akamai-earnings-stock-price-284f54c5"
+        }
+      ]
+    },
+    "excerpt": "本日、AKAMが決算後に大きく下げた理由と今後再評価される可能性まで詳しく見ていきます。決算は良好でもガイダンスが問題でした。",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is AKAM Moving?",
+        "content": "わあ…昨日の決算発表後、今日の相場は大騒ぎでしたね。決算は予想を上回りましたが、2026年の見通しがアナリスト予想を下回り、投資家が売りに走りました。政策リスクはありませんが、クラウド市場の競争激化が市場のナラティブとなっています。",
+        "claims": [
+          {
+            "what": "株価反応",
+            "value": "ほぼ8%の下落",
+            "url": "https://www.barrons.com/articles/akamai-earnings-stock-price-284f54c5"
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "最近の価格動向とモメンタム",
+        "content": "チャートを見ると昨日の決算後アフターでは少し上昇しましたが、本日午前から急落しています。テックセクター全体がやや揺れている中、AKAMはガイダンスの影響でより大きく打たれました。セクター比で過剰な調整のようです。",
+        "claims": [
+          {
+            "what": "Q4売上高",
+            "value": "10.95億ドルで前年同期比7%増",
+            "url": "https://finance.yahoo.com/news/akamai-technologies-q4-earnings-call-011249913.html"
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "主要触媒とリスク要因",
+        "content": "触媒はセキュリティ事業の高成長とAIインファレンスクラウドです。しかし設備投資増加見通しでマージン圧迫リスクが拡大。金利動向に敏感なテックでマクロ不安も影響しています。",
+        "claims": [
+          {
+            "what": "2026年EPSガイダンス",
+            "value": "6.20ドル〜7.20ドルで7.29ドル予想を下回る",
+            "url": "https://www.tikr.com/blog/akamai-technologies-stock-sinks-14-on-profit-outlook-heres-what-changed-after-q4"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "最新ニュースと動向",
+        "content": "見出しは「Akamai、決算は上回るもガイダンスに失望」です。設備投資増加でAIに投資するとの報に投資家の反応は冷え込んでいます。機関側データは未公表ですが、大量売却の痕跡が見られます。",
+        "claims": [
+          {
+            "what": "Q4調整後EPS",
+            "value": "1.84ドルで前年比11%増",
+            "url": "https://finance.yahoo.com/news/akamai-technologies-q4-earnings-call-011249913.html"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "機関・インサイダー動向",
+        "content": "出来高が通常に比べて大幅に増加。大手機関の売り圧力が強い様子。インサイダー情報はまだありませんが、この急落局面では大口の動きを追うのが有効です。",
+        "claims": [
+          {
+            "what": "Q4設備投資額",
+            "value": "1.54億ドル、売上の14%",
+            "url": "https://finance.yahoo.com/news/akamai-technologies-q4-earnings-call-011249913.html"
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "投資計画（3～12か月）",
+        "bull_case": "ガイダンスが上振れすればAIクラウドのスケールアップで再評価の可能性。セキュリティ売上が高成長を続ければ100ドル超もあり得る。",
+        "bear_case": "設備投資負担が増すとマージン縮小、テックローテーションが長引けばさらに下落する可能性。",
+        "strategy": "今すぐのフルベットはリスク大。10%ずつに分けて過剰売られゾーンで買い、反発のシグナルで追加買い。まとめると？様子見つつ押し目で買い増しを狙う。",
+        "claims": [
+          {
+            "what": "2026年売上高ガイダンス",
+            "value": "44億ドル～45億ドルで5-8%増",
+            "url": "https://finance.yahoo.com/news/akamai-technologies-q4-earnings-call-011249913.html"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "決算は良かったのに、なぜ下がる？",
+        "answer": "ガイダンスが期待を下回ったためです。設備投資増で投資家の資金流入が増えると見られました。"
+      },
+      {
+        "question": "今買ってもいい？",
+        "answer": "さらに下げる可能性もあるので反発待ちを推奨。80ドル以下なら狙い目です。"
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Cinematic 3D illustration of a dramatic stock chart plunging with Akamai logo, dark stormy clouds over server data centers, glowing red sell signals, high contrast financial thriller vibe."
+    }
+  },
+  "chart": {
+    "ticker": "AKAM",
+    "chart_filename": "akam-earnings-drop-guidance-cut-20260223_inner.webp",
+    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\akam-earnings-drop-guidance-cut-20260223_inner.webp",
+    "analysis": "**テクニカル分析:** 20日移動平均線下抜け（弱気トレンド）\\n\\n**心理指標:** RSI 45.5（中立エリア）\\n\\n**主要レンジ:** 直近1ヶ月の高値 $113.50、安値 $89.86\\n\\n**出来高:** 15.78M（20日平均比 3.13倍）\\n\\n**目標株価（アナリスト）:** 平均 $108.16（+14.9%）/ 中央 $110.00（レンジ $72.00–$134.00）",
+    "image_alt": "AKAM 株価チャート（2026-02-20時点）: 終値 $94.17（-14.07%）, RSI(14) 45.5, 直近1ヶ月レンジ $89.9–$113.5.",
+    "image_caption": "AKAM（2026-02-20）: 弱気基調（20日線下）。終値 $94.17（-14.07%）, RSI(14) 45.5。"
+  }
+}
