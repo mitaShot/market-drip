@@ -22,6 +22,7 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
     const contentHtml = getLocalized(article.contentHtml);
     const category = getLocalized(article.category);
     const author = getLocalized(article.author);
+    const excerpt = getLocalized(article.excerpt);
 
     useEffect(() => {
         if (!bodyRef.current) return;
@@ -50,39 +51,56 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
         return () => observer.disconnect();
     }, [contentHtml]);
 
+    useEffect(() => {
+        if (bodyRef.current) {
+            const externalLinks = bodyRef.current.querySelectorAll('a[href^="http"]');
+            externalLinks.forEach(link => {
+                link.setAttribute('rel', 'nofollow');
+                link.setAttribute('target', '_blank');
+            });
+        }
+    }, [contentHtml]);
+
     return (
-        <>
+        <article className={styles.article}>
             <header className={styles.header}>
                 <div className="container">
-                    <Link href={`/${language}/tag/${String(category).toLowerCase()}`} className={styles.categoryBack}>
+                    <Link href={`/${language}/category/${String(category).toLowerCase()}`} className={styles.categoryBack}>
                         &larr; Back to {category}
                     </Link>
                     <h1 className={styles.title}>{title}</h1>
                     <div className={styles.meta}>
                         <span className={styles.author}>By {author}</span>
-                        <span className={styles.date}>{article.date}</span>
+                        <time className={styles.date} dateTime={article.date}>{article.date}</time>
                     </div>
                     {article.tags && article.tags.length > 0 && (
-                        <div className={styles.tags}>
+                        <nav className={styles.tags} aria-label="Article tags">
                             {article.tags.map(tag => (
                                 <Link key={tag} href={`/${language}/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`} className={styles.tag}>
                                     #{tag}
                                 </Link>
                             ))}
-                        </div>
+                        </nav>
                     )}
                 </div>
             </header>
+
             <div className={`container ${styles.contentContainer}`}>
-                {article.image && <img src={article.image} alt={title} className={styles.image} referrerPolicy="no-referrer" />}
+                {article.image && (
+                    <figure className={styles.featuredImage}>
+                        <img src={article.image} alt={title} className={styles.image} referrerPolicy="no-referrer" />
+                    </figure>
+                )}
+
+                {excerpt && <p className={styles.excerpt}>{excerpt}</p>}
 
                 <div className={styles.body} ref={bodyRef}>
                     <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
                 </div>
 
                 {relatedPosts && relatedPosts.length > 0 && (
-                    <div className={styles.relatedPosts}>
-                        <h3>{t('post.related_articles') || (language === 'ko' ? '관련 기사' : language === 'ja' ? '関連記事' : 'Related Articles')}</h3>
+                    <aside className={styles.relatedPosts} aria-labelledby="related-articles-title">
+                        <h3 id="related-articles-title">{t('post.related_articles') || (language === 'ko' ? '관련 기사' : language === 'ja' ? '関連記事' : 'Related Articles')}</h3>
                         <ul>
                             {relatedPosts.map(post => {
                                 const postTitle = getLocalized(post.title);
@@ -91,18 +109,18 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
                                         <Link href={`/${language}/article/${post.id}`}>
                                             {postTitle}
                                         </Link>
-                                        <span className={styles.relatedDate}>{post.date}</span>
+                                        <time className={styles.relatedDate} dateTime={post.date}>{post.date}</time>
                                     </li>
                                 );
                             })}
                         </ul>
-                    </div>
+                    </aside>
                 )}
 
-                <div className={styles.disclaimer}>
+                <footer className={styles.disclaimer}>
                     <p>{t('footer.disclaimer')}</p>
-                </div>
+                </footer>
             </div>
-        </>
+        </article>
     );
 }
