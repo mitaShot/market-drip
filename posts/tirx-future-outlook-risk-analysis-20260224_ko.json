@@ -167,7 +167,7 @@
   "chart": {
     "ticker": "TIRX",
     "chart_filename": "tirx-future-outlook-risk-analysis-20260224_inner.webp",
-    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\tirx-future-outlook-risk-analysis-20260224_inner.webp",
+    "chart_path": "/posts/img/tirx-future-outlook-risk-analysis-20260224_inner.webp",
     "analysis": "**기술적 위치:** 20일선 하회 (약세 흐름)\\n\\n**심리 지표:** RSI 42.5 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $1.47, 최저 $0.04\\n\\n**거래량:** 720.65M (20일 평균 대비 4.63배)\\n\\n**목표가(애널리스트):** 데이터 없음",
     "image_alt": "TIRX 주가 차트(2026-02-23 기준): 종가 $0.08 (+72.73%), RSI(14) 42.5, 최근 1개월 범위 $0.0~$1.5.",
     "image_caption": "TIRX (2026-02-23): 약세 흐름(20일선 하회). 종가 $0.08 (+72.73%), RSI(14) 42.5."
