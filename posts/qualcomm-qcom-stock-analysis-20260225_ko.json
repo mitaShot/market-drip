@@ -1,0 +1,145 @@
+{
+  "meta_info": {
+    "selected_ticker": "QCOM",
+    "selection_reason": "최근 메모리 공급 부족 이슈로 주가가 크게 흔들렸다가 다시 반등하며 시장의 뜨거운 감자로 떠올랐거든요.",
+    "references": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.co.jp/quote/QCOM"
+      },
+      {
+        "name": "TIKR",
+        "url": "https://www.tikr.com"
+      }
+    ]
+  },
+  "seo": {
+    "title": "QCOM 폭락 후 찐반등? 퀄컴 지금 주워도 될까",
+    "meta_description": "얼마 전 실적 발표하고 훅 빠졌던 퀄컴, 다시 슬금슬금 오르고 있는데 지금이 기회일까요? 동네 형이 딱 정리해드릴게요.",
+    "slug": "qualcomm-qcom-stock-analysis-20260225",
+    "category": "Stocks | Tech | AI",
+    "tags": [
+      "QCOM",
+      "반도체",
+      "메모리부족",
+      "퀄컴주가",
+      "실적발표"
+    ],
+    "published_date": "2026-02-25",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3초 투자 핵심 요약",
+      "points": [
+        "오늘 이 종목, 며칠 전 메모리 부족으로 회사 눈높이 낮췄다가 놀란 가슴 진정시키고 다시 돈이 몰리면서 핫해졌어요.",
+        "기관 큰손들이 바닥이라고 생각했는지 다시 주워 담으면서 분위기를 확 반전시킬 가능성이 보여요.",
+        "일단은 Hold(관망) 추천해요, 반등은 반갑지만 아직 안심하기엔 이른 느낌이거든요!"
+      ],
+      "claims": [
+        {
+          "what": "최근 반등한 대략적 주가 수준(USD)",
+          "value": 145,
+          "url": "https://finance.yahoo.co.jp/quote/QCOM"
+        }
+      ]
+    },
+    "excerpt": "최근 폭락과 반등을 오가며 롤러코스터 태우는 퀄컴, 도대체 무슨 일인지, 그리고 우리가 지금 들어가도 물리지 않을지 술 한잔하며 차근차근 짚어볼게요.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is QCOM Moving?",
+        "content": "일단 이거부터 보세요. 오늘 난리 났죠? Q. 얼마 전에 주가 훅 빠지지 않았나요? 갑자기 왜 또 올라요? A. 맞아요, 다들 놀랐어요! 회사에서 '메모리 부품 구하기 힘들어서 당분간 돈 좀 덜 벌 것 같아요'라고 고백하면서 주가가 훅 떨어졌거든요. Q. 그럼 안 좋은 거 아니에요? 왜 다시 뜨거워졌죠? A. 솔직히 말씀드리면, 정부 정책이나 시장 전체의 큰 흐름을 볼 때 '이 정도면 바닥 찍었다'고 생각한 사람들이 몰려들면서 다시 반등의 불씨를 살린 거예요. 나쁜 뉴스는 이미 가격에 다 반영됐다고 보는 거죠!",
+        "claims": [
+          {
+            "what": "부품 부족 발표 직후의 일간 최대 하락률(%)",
+            "value": -8.5
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Recent price talk & Momentum",
+        "content": "차트 한 번 볼까요? 와.. 위아래로 엄청 흔들리네요. Q. 지금 차트 보면 살 만한 자린가요? A. 음.. 고점 대비 많이 싸지긴 했어요. 반도체 동네 다른 친구들에 비해서도 꽤 많이 맞았거든요. Q. 그럼 바닥 치고 올라가는 중인 거 확실해요? A. 확실하다고 하긴 일러요. 그래도 지수 전체가 흔들릴 때 남들보다 꽤 튼튼하게 버티는 걸 보면, 과하게 빠졌다는 공감대가 형성된 것 같아요. 하지만 여기서 더 욕심내면 물릴 수 있으니 천천히 보자고요!",
+        "claims": [
+          {
+            "what": "최근 폭락 시 찍었던 바닥 부근 주가(USD)",
+            "value": 136
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "아 맞다, 중요한 거! 진짜 우리가 주목해야 할 게 있어요. Q. 그럼 앞으로 주가를 다시 위로 쏠 '한 방'은 뭐예요? A. 역시 AI 쪽이죠! 스마트폰뿐만 아니라 여기저기 칩이 더 들어가야 하니까 장기적인 긍정적 흐름은 빵빵해요. 돈 빌리는 이자 부담도 줄어들고 있고요. Q. 조심해야 할 폭탄은 없나요? A. 솔직히 말씀드리면, 앞서 말한 '메모리 부품 부족' 문제가 빨리 안 풀리면 발목을 꽉 잡을 거예요. 원자재 구하기 힘든 상황이 길어지면 아무리 물건이 잘 팔려도 못 만드니까요.",
+        "claims": [
+          {
+            "what": "애널리스트들의 평균 목표가(USD)",
+            "value": 168,
+            "url": "https://stockanalysis.com/stocks/qcom/"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Recent news talk & Developments",
+        "content": "최근 뉴스 헤드라인만 봐도 그림이 딱 나와요. '앞으로 돈 벌 계획이 예상보다 별로다'라는 며칠 전 뉴스 하나가 시장을 완전 패닉에 빠뜨렸잖아요? 다들 눈치 싸움 중인데, 큰손들은 '그래도 AI 시대에 이만한 회사가 어딨냐'며 긍정적으로 기사를 해석하는 시각도 꽤 있어요. 글로벌 부품난이라는 악재가 완전 끝난 건 아니지만, 어느 정도 소화 중이라는 뜻이죠.",
+        "claims": [
+          {
+            "what": "실적 부진 전망의 핵심 원인",
+            "value": "글로벌 메모리 부족",
+            "url": "https://www.tikr.com/ko/blog/qualcomm-nasdaq-qcom-stock-tumbles-on-weak-guidance-following-global-memory-shortage"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Institutional & Insider Activity",
+        "content": "돈의 흐름, 즉 수급을 한 번 따라가 볼까요? 대박이죠? 주가가 훅 빠졌을 때 거래량이 평소보다 엄청나게 터졌어요. 누군가 공포에 질려 던질 때, 다른 누군가는 밑에서 입 벌리고 싹 다 주워 담았을 가능성이 커요. 옵션 쪽 분위기도 데이터가 좀 애매하긴 한데, 반등에 베팅하는 쪽으로 조심스럽게 기대감이 몰리는 냄새가 납니다.",
+        "claims": [
+          {
+            "what": "폭락 당일 터진 엄청난 거래량(천주)",
+            "value": 30229,
+            "url": "https://finance.yahoo.co.jp/quote/QCOM/history"
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "Investment Plan (3–12 Months)",
+        "bull_case": "긍정적으로 보자면요, 메모리 부품 부족 문제가 생각보다 빨리 해결되고 AI 칩 수요가 다시 살아나면, 지금 가격은 완전 바겐세일 기간으로 기억될 거예요. 남들이 던질 때 주운 사람들이 승자가 되는 거죠!",
+        "bear_case": "반대로 삐딱하게 보면, 부품 부족 사태가 길어지고 경제 상황이 꼬이면서 한동안 이 가격대에서 답답하게 제자리걸음만 할 수도 있어요. 좋은 뉴스가 나와도 위로 못 치고 가는 구간이 이어지는 거죠.",
+        "strategy": "솔직히 지금은 몰빵할 타이밍은 아니에요. 바닥 확인했다고 흥분해서 한 번에 다 사지 마시고, 쪼개서 담아보는 게 마음 편합니다. 한 줄 정리요? 소나기는 피했는데, 아직 땅이 덜 말랐으니 장화 신고 천천히 걸어가자고요!",
+        "claims": [
+          {
+            "what": "지난 분기 깜짝 실적(억 달러)",
+            "value": 122
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Q. 얼마 전에 -8.5% 빠졌던데, 지금 당장 몰빵해도 될까요?",
+        "answer": "워워, 진정하세요! 급하게 오르긴 했지만 부품 부족 문제가 다 풀린 게 아니에요. 예전 바닥이었던 136불 근처까지 다시 흔들릴 수 있으니 무조건 나눠서 사셔야 해요."
+      },
+      {
+        "question": "Q. 애널리스트들은 168불까지 간다던데, 이거 진짜 믿고 기다려도 되나요?",
+        "answer": "아뇨, 맹신은 금물입니다! 그건 다 긍정적인 시나리오가 맞아떨어졌을 때 얘기예요. 지금 145불 언저리에서는 욕심 좀 내려놓고, 리스크 관리하면서 길게 지켜보자고요."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Cinematic 3D financial illustration of a glowing microchip recovering from a dip on a stock chart background, neon blue and green lighting, highly detailed, dramatic"
+    }
+  },
+  "chart": {
+    "ticker": "QCOM",
+    "chart_filename": "qualcomm-qcom-stock-analysis-20260225_inner.webp",
+    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\qualcomm-qcom-stock-analysis-20260225_inner.webp",
+    "analysis": "**기술적 위치:** 20일선 상회 (상승 추세 유지)\\n\\n**심리 지표:** RSI 44.6 (중립 구간)\\n\\n**주요 구간:** 최근 1달 최고 $157.98, 최저 $132.73\\n\\n**거래량:** 11.08M (20일 평균 대비 0.94배)\\n\\n**목표가(애널리스트):** 평균 $162.33 (+12.1%) / 중간값 $155.00 (범위 $132.00~$200.00)",
+    "image_alt": "QCOM 주가 차트(2026-02-24 기준): 종가 $144.78 (+3.11%), RSI(14) 44.6, 최근 1개월 범위 $132.7~$158.0.",
+    "image_caption": "QCOM (2026-02-24): 상승 추세 유지(20일선 상회). 종가 $144.78 (+3.11%), RSI(14) 44.6."
+  }
+}

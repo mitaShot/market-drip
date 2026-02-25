@@ -1,0 +1,140 @@
+{
+  "meta_info": {
+    "selected_ticker": "QCOM",
+    "selection_reason": "The stock price had fluctuated sharply due to the recent memory supply shortage issue, then rebounded, making it a hot topic in the market again.",
+    "references": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.co.jp/quote/QCOM"
+      },
+      {
+        "name": "TIKR",
+        "url": "https://www.tikr.com"
+      }
+    ]
+  },
+  "seo": {
+    "title": "QCOM Real Rebound After Plunge? Is It Time to Buy Qualcomm Now?",
+    "meta_description": "Qualcomm dropped sharply after recent earnings but is slowly climbing back up. Is now the chance? Your neighborhood guy will break it down for you.",
+    "slug": "qualcomm-qcom-stock-analysis-20260225",
+    "category": "Stocks | Tech | AI",
+    "tags": [
+      "QCOM",
+      "Semiconductors",
+      "MemoryShortage",
+      "QualcommStock",
+      "EarningsAnnouncement"
+    ],
+    "published_date": "2026-02-25",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Summary",
+      "points": [
+        "This stock got hot today after a few days of lowering outlook due to memory shortage and then calming nerves as money started flowing back in.",
+        "It looks like big institutional investors thought it hit bottom and started buying back, turning the mood sharply around.",
+        "For now, we recommend Hold (wait-and-see); the rebound is welcome but it’s still too early to fully relax!"
+      ],
+      "claims": [
+        {
+          "what": "Approximate recent rebound price level (USD)",
+          "value": 145,
+          "url": "https://finance.yahoo.co.jp/quote/QCOM"
+        }
+      ]
+    },
+    "excerpt": "Qualcomm has been on a roller coaster with recent plunges and rebounds. What exactly is going on, and can we get in now without risk? Let’s slowly break it down over a drink.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is QCOM Moving?",
+        "content": "Look at this first. It’s been crazy today, right? Q. Didn’t the stock plunge sharply recently? Why is it suddenly going up again? A. Exactly, everyone was surprised! The company admitted 'it’s tough to get memory parts, so earnings will be lower for a while,' which caused the stock to dive. Q. So that’s bad news, isn’t it? Why is it hot again? A. Honestly, looking at government policies and overall market trends, many think 'this is the bottom' and rushed in, sparking this rebound. The bad news is already priced in!",
+        "claims": [
+          {
+            "what": "Largest single-day drop rate just after parts shortage announcement (%)",
+            "value": -8.5
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Recent price talk & Momentum",
+        "content": "Shall we look at a chart? Wow... it’s swinging wildly up and down. Q. Looking at the chart now, is it a good buy spot? A. Well... compared to the highs, it is much cheaper now. Compared to other semiconductor peers, it’s taken quite a hit too. Q. So is it sure that it hit bottom and is climbing? A. It’s too early to say for sure. But considering it held up relatively well when the whole index shook, there seems to be a consensus it was oversold. Still, if you get greedy here, you might get trapped, so let's watch it slowly!",
+        "claims": [
+          {
+            "what": "Price near the recent bottom during the plunge (USD)",
+            "value": 136
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "Oh right, an important point! Something we really need to watch. Q. So what’s the 'big boost' that could push the stock higher again? A. Definitely AI! More chips need to go not only into smartphones but all over, so the long-term outlook is strong. Also, borrowing costs are decreasing. Q. Any bombshell risks to watch out for? A. Honestly, if the 'memory parts shortage' isn’t resolved soon, it will strongly hold the stock back. If raw material shortages drag on, no matter how well products sell, they can’t be made.",
+        "claims": [
+          {
+            "what": "Analysts’ average target price (USD)",
+            "value": 168,
+            "url": "https://stockanalysis.com/stocks/qcom/"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Recent news talk & Developments",
+        "content": "Even the recent headlines tell the story. A few days ago, a news report about 'future earnings plans looking worse than expected' sent the market into panic. Everyone’s jockeying for position, but some big investors interpret the article positively, saying 'Which company besides this one is better positioned for the AI era?' The global parts shortage bad news isn’t over, but it’s being somewhat digested.",
+        "claims": [
+          {
+            "what": "Core cause of the earnings weakness outlook",
+            "value": "Global memory shortage",
+            "url": "https://www.tikr.com/ko/blog/qualcomm-nasdaq-qcom-stock-tumbles-on-weak-guidance-following-global-memory-shortage"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Institutional & Insider Activity",
+        "content": "Shall we follow the flow of money, meaning supply and demand? Amazing, right? When the stock plunged, volume exploded way above usual. When some were panic selling, others were likely snapping it all up from below. The options market data is a bit unclear, but there’s a subtle scent of cautious optimism betting on a rebound.",
+        "claims": [
+          {
+            "what": "Tremendous trading volume on the plunge day (Thousand shares)",
+            "value": 30229,
+            "url": "https://finance.yahoo.co.jp/quote/QCOM/history"
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "Investment Plan (3–12 Months)",
+        "bull_case": "On the bright side, if the memory parts shortage resolves faster than expected and AI chip demand picks back up, this price will be remembered as a total bargain sale. Those who bought on the dip will be the winners!",
+        "bear_case": "On the flip side, if the parts shortage continues and the economy worsens, the stock might tread water at this range for a while. Even good news might not push it higher for some time.",
+        "strategy": "Honestly, now is not the time to go all in. Don’t get excited thinking the bottom is confirmed and buy all at once; buying in increments is safer. Summary: The storm passed, but the ground is still wet, so put on boots and walk carefully!",
+        "claims": [
+          {
+            "what": "Last quarter’s surprise earnings (hundred million USD)",
+            "value": 122
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Q. The stock dropped -8.5% recently, can I go all in right now?",
+        "answer": "Whoa, calm down! It went up sharply but the parts shortage issue isn’t fully resolved. It might shake back near the old bottom of around $136, so always buy in portions."
+      },
+      {
+        "question": "Q. Analysts say it will go up to $168, can I trust and wait for that?",
+        "answer": "No, don’t blindly believe! That depends on everything positive happening perfectly. Around $145 now, it’s better to set aside greed, manage risk, and watch carefully long term."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "QCOM",
+    "chart_filename": "qualcomm-qcom-stock-analysis-20260225_inner.webp",
+    "chart_path": "D:\\\\n8n_local\\\\market-drip\\\\public\\\\posts\\\\img\\qualcomm-qcom-stock-analysis-20260225_inner.webp",
+    "analysis": "**Technical:** Above 20-day MA (Uptrend intact)\\n\\n**Sentiment:** RSI 44.6 (Neutral zone)\\n\\n**Key Range:** 1-month High $157.98, Low $132.73\\n\\n**Volume:** 11.08M (0.94x vs 20D avg)\\n\\n**Analyst targets:** Mean $162.33 (+12.1%) / Median $155.00 (Range $132.00–$200.00)",
+    "image_alt": "QCOM stock chart as of 2026-02-24: close $144.78 (+3.11%), RSI(14) 44.6, 1-month range $132.7–$158.0.",
+    "image_caption": "QCOM (2026-02-24): Uptrend intact (above 20-day MA); Close $144.78 (+3.11%), RSI(14) 44.6."
+  }
+}
