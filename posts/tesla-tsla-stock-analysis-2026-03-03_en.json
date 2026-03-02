@@ -1,0 +1,169 @@
+{
+  "meta_info": {
+    "selected_ticker": "TSLA",
+    "selection_reason": "On March 2, 2026 (local time), Tesla's stock price showed hot volatility, swinging between a session low of $388 and recovering to the $403 level, taking investors on a 'heaven and hell' ride.",
+    "references": [
+      {
+        "name": "Yahoo Finance TSLA Historical Data",
+        "url": "https://finance.yahoo.com/quote/TSLA/history/"
+      },
+      {
+        "name": "Reuters - Tesla Earnings & AI Investment",
+        "url": "https://www.reuters.com/business/autos-transportation/tesla-revenue-beats-estimates-despite-weaker-vehicle-deliveries-2026-01-28"
+      }
+    ]
+  },
+  "seo": {
+    "title": "Tesla Stock Recovers $400! Jumping TSLA, Is It Time to Jump In?",
+    "meta_description": "Today, Tesla's stock price fluctuated nearly 4% during the session, hitting $403. We break down Tesla's future scenarios where earnings surprises and Robotaxi expectations are intertwined.",
+    "slug": "tesla-tsla-stock-analysis-2026-03-03",
+    "category": "Stocks | AI | EV",
+    "tags": [
+      "TSLA",
+      "Tesla",
+      "ElonMusk",
+      "Robotaxi",
+      "AI",
+      "Market-Drip-Category"
+    ],
+    "published_date": "2026-03-03",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Summary",
+      "points": [
+        "Today, Tesla made hearts sink by dropping to $388 early in the session, but eventually showed incredible resilience by climbing back above $403.",
+        "With the recently announced Q4 2025 earnings hitting $0.50, exceeding the expected $0.45, there's a sense of relief that 'the company is making good money,' which is supporting the supply-demand flow.",
+        "My take is that while it might be blocked by the $418 resistance level in the short term, it's mentally easier to approach with a split-purchase strategy until Robotaxi permits become visible."
+      ],
+      "claims": [
+        {
+          "what": "Tesla closing price and volatility on March 2, 2026",
+          "value": 403.32,
+          "url": "https://finance.yahoo.com/quote/TSLA/history/"
+        }
+      ]
+    },
+    "excerpt": "Today, Tesla's stock price literally rode a 'rollercoaster.' It dropped scarily early on but managed to reclaim $400 by the close; let me break down why this happened using numbers and news.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "Market today_story: Why is Moving?",
+        "content": "Wow, did you see Tesla's stock price today? It's crazy, right? Early in the session, it slipped to $388.25 due to external uncertainties like tensions with Iran, making people think 'is this the end?', but it ended up closing at $403.32. Honestly speaking, Tesla isn't just an EV company right now; a powerful narrative of 'AI Robotaxi expectations' is driving the stock. Specifically, the news that Elon Musk is investing $2 billion in xAI to accelerate AI technology advancement has shaken up investors' hearts again.",
+        "claims": [
+          {
+            "what": "Intraday low on March 2, 2026",
+            "value": 388.25
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Recent price talk & Momentum",
+        "content": "Looking at the chart alone, this section is a typical example of high volatility (High Beta), swinging up and down. Experts analyze that around $418.86 is acting as a short-term ceiling, so whether it breaks through or not will likely determine this month's scorecard. Fortunately, recent Q4 revenue hit $24.9 billion, slightly exceeding the expected $24.79 billion, proving that the fundamentals are not bad. It has also shown strength compared to the index over the last few days, so as long as it holds the $390 line, there's plenty of energy to drive up again.",
+        "claims": [
+          {
+            "what": "Q4 2025 Revenue (Unit: $100M)",
+            "value": 249,
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-revenue-beats-estimates-despite-weaker-vehicle-deliveries-2026-01-28"
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "Key Catalysts & Risk Factors",
+        "content": "The most important catalyst for future earnings plans is definitely the Robotaxi. Although it's been slightly delayed and significant results are expected in 2026, Wall Street is betting on the possibility of Tesla being re-rated as a software platform rather than a mere manufacturer. However, the risks are just as significant. The current P/E ratio is over 374x, meaning expectations are heavily priced in; if interest rates stay higher than expected or autonomous driving permits keep getting delayed, you must keep in mind that the stock could cool down in an instant.",
+        "claims": [
+          {
+            "what": "Recent Price-to-Earnings (P/E) Ratio",
+            "value": 374.29,
+            "url": "https://robinhood.com/us/en/stocks/TSLA/"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Recent news talk & Developments",
+        "content": "Looking at recent news, the atmosphere is quite subtle. There's welcome news that February sales in the European market (France, Norway, etc.) are showing a recovery trend, but on the flip side, there are sharp criticisms in California that paperwork for unmanned Robotaxi operation permits is still insufficient. Oh, and one more important thing! The fact that annual revenue in 2025 decreased by about 3% year-over-year, marking the first-ever negative growth, is a huge mountain for Tesla to climb. Ultimately, the key is how quickly future AI value can cover the current slowdown in hardware sales.",
+        "claims": [
+          {
+            "what": "2025 Annual Revenue Growth Rate",
+            "value": "-3%"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Institutional & Insider Activity",
+        "content": "Looking at the flow, the movement of 'whales' is unusual. Especially seeing active call option trading near $382.5, it seems institutions and big players are coming in thinking 'this price is the bottom.' Trading volume also surpassed 52 million shares today, grabbing all the market's attention. However, this might be short-term trading volume utilizing volatility rather than certain long-term buying, so it's a bit ambiguous to conclude 'it's definitely going up because someone bought.'",
+        "claims": [
+          {
+            "what": "Trading Volume on March 2, 2026 (Unit: Shares)",
+            "value": 52697218
+          }
+        ]
+      },
+      {
+        "type": "peer_comparison",
+        "heading": "Peer Comparison: How does it stand against Rivals?",
+        "content": "Comparing with rivals makes Tesla's position even clearer. While Chinese companies like BYD are fiercely chasing market share with low-priced models, Tesla is showing it's in a 'different league' by maintaining a high Gross Margin of over 20%. While competitors are stuck in price wars, Tesla is pouring trillions of won into autonomous driving data learning in collaboration with xAI. The market is essentially giving a premium to the possibility of Tesla becoming the 'dominant player in the AI robot market' beyond just being #1 in EVs.",
+        "claims": [
+          {
+            "what": "Q4 2025 Gross Margin",
+            "value": "20.1%"
+          }
+        ]
+      },
+      {
+        "type": "macro_watch",
+        "heading": "Macro Watch: The Bigger Picture",
+        "content": "The macro environment both acts as a 'backbone' and a 'shackle' for Tesla. High interest rates are unfavorable for sales because car installment interest becomes expensive, but a cash-rich company like Tesla can use this period to make investments that outpace competitors. In particular, changes in US EV subsidy policies or the direction of regulations after the presidential election will be the biggest variables determining the speed of Tesla's autonomous driving commercialization. Right now, you should see it as a period where the stock reacts more sensitively than the index because the macro environment is in a fog.",
+        "claims": [
+          {
+            "what": "Estimated Q1 2026 Earnings Per Share (EPS)",
+            "value": 0.5
+          }
+        ]
+      }
+    ],
+    "game_plan": {
+      "heading": "Investment Plan (3–12 Months)",
+      "bull_case": "If Robotaxi regulatory approval drops faster than expected and the 2026 delivery target of 1.77 million units (an 8.2% increase year-over-year) is easily achieved, the stock could run toward previous highs again. It would be even better if results from the 'Optimus V3' robot prototype were added, right?",
+      "bear_case": "Don't forget that if Robotaxi permits keep getting delayed in California or other major states, and the EV price war intensifies causing margins to be shaved below 15%, the stock could see a correction back to the early $300s.",
+      "strategy": "To wrap it up in one line? Right now, rather than a full bet, a 'split-buy' strategy while checking if it breaks through $418 seems like the most comfortable approach. Since volatility is so high, don't buy everything at once; try approaching it with the feeling of collecting a little bit every time it drops!",
+      "claims": [
+        {
+          "what": "2026 Estimated Vehicle Deliveries (Unit: 10k Units)",
+          "value": 177
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "It's over $400 now, is there still room to rise?",
+        "answer": "Opinions are divided even among experts, but if it breaks through the strong resistance of $418.86, additional upside is certainly possible. However, since this is a zone with high psychological resistance, you need to approach it carefully."
+      },
+      {
+        "question": "I heard Tesla's earnings were better than expected, is that true?",
+        "answer": "Yes, that's right! Q4 2025 Earnings Per Share (EPS) hit $0.50, far exceeding the market expectation of $0.45. Thanks to these earnings, the stock gained the strength to hold up even in a down market."
+      },
+      {
+        "question": "When can we actually ride a Robotaxi?",
+        "answer": "Elon Musk is aiming for 2026, but the big task of regulatory approval remains. You must check for news about permit filings being passed in states like California."
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "prompt": "Cinematic 3D financial illustration of a futuristic Tesla Robotaxi driving through a digital matrix landscape with stock charts reflecting on its glass surface, neon lighting, high-tech atmosphere, no text"
+    }
+  },
+  "chart": {
+    "ticker": "TSLA",
+    "chart_filename": "tesla-tsla-stock-analysis-2026-03-03_inner.webp",
+    "analysis": "**Technical:** Below 20-day MA (Bearish trend)\\n\\n**Sentiment:** RSI 42.3 (Neutral zone)\\n\\n**Key Range:** 1-month High $440.23, Low $387.53\\n\\n**Volume:** 52.70M (0.90x vs 20D avg)\\n\\n**Analyst targets:** Mean $421.73 (+4.6%) / Median $458.00 (Range $125.00–$600.00)",
+    "image_alt": "TSLA stock chart as of 2026-03-02: close $403.32 (+0.20%), RSI(14) 42.3, 1-month range $387.5–$440.2.",
+    "image_caption": "TSLA (2026-03-02): Bearish tone (below 20-day MA); Close $403.32 (+0.20%), RSI(14) 42.3."
+  }
+}
