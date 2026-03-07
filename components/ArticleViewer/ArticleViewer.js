@@ -61,12 +61,15 @@ export default function ArticleViewer({ article, relatedPosts = [] }) {
         }
     }, [contentHtml]);
 
+    const fullCategory = getLocalized(article.category);
+    const primaryCategory = String(fullCategory).split(/[|,\/]/)[0].trim();
+
     return (
         <article className={styles.article}>
             <header className={styles.header}>
                 <div className="container">
-                    <Link href={`/${language}/category/${String(category).toLowerCase()}`} className={styles.categoryBack}>
-                        &larr; Back to {category}
+                    <Link href={`/${language}/tag/${primaryCategory.toLowerCase().replace(/\s+/g, '-')}`} className={styles.categoryBack}>
+                        &larr; Back to {primaryCategory}
                     </Link>
                     <h1 className={styles.title}>{title}</h1>
                     <div className={styles.meta}>

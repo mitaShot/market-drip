@@ -1,7 +1,13 @@
 import { getSortedPostsData } from '@/lib/posts';
 
 function normalizeTag(tag) {
-    return tag.toLowerCase().replace(/\s+/g, '-');
+    if (!tag) return '';
+    return tag.toLowerCase()
+        .replace(/[|,\/]/g, ' ')
+        .trim()
+        .replace(/\s+/g, '-')
+        .replace(/[^-a-z0-9]/g, '')
+        .replace(/-+/g, '-');
 }
 
 export async function generateStaticParams() {
@@ -11,9 +17,16 @@ export async function generateStaticParams() {
         if (post.tags) {
             post.tags.forEach(tag => tags.add(normalizeTag(tag)));
         }
+        if (post.category) {
+            Object.values(post.category).forEach(catStr => {
+                if (catStr) {
+                    String(catStr).split(/[|,\/]/).forEach(c => tags.add(normalizeTag(c.trim())));
+                }
+            });
+        }
     });
     ['stocks', 'dividends', 'banking', 'crypto', 'etf', 'ai'].forEach(tag => tags.add(tag));
-    return Array.from(tags).map(tag => ({ tag }));
+    return Array.from(tags).filter(Boolean).map(tag => ({ tag }));
 }
 
 export async function generateMetadata({ params }) {
