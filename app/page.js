@@ -1,27 +1,25 @@
-'use client';
+import RootRedirector from '@/components/Redirector/RootRedirector';
 
-import { useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+export const metadata = {
+  alternates: {
+    canonical: 'https://market-drip.com/en',
+  },
+  robots: {
+    index: false,
+    follow: true,
+  },
+};
 
 export default function RootPage() {
-  const router = useRouter();
-
-  useEffect(() => {
-    const browserLang = navigator.language || navigator.userLanguage;
-    let targetLang = 'en';
-
-    if (browserLang.startsWith('ko')) {
-      targetLang = 'ko';
-    } else if (browserLang.startsWith('ja')) {
-      targetLang = 'ja';
-    }
-
-    router.replace(`/${targetLang}`);
-  }, [router]);
-
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', background: '#000', color: '#fff' }}>
-      <p>Redirecting...</p>
-    </div>
+    <>
+      {/* Fallback for non-JS environments (Googlebot): go to /en */}
+      <meta httpEquiv="refresh" content="0; url=/en" />
+      <link rel="canonical" href="https://market-drip.com/en" />
+      <style>{`body{background:#000;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:sans-serif}`}</style>
+      {/* JS users get language-aware redirect */}
+      <RootRedirector />
+      <p>Redirecting… <a href="/en">/en</a></p>
+    </>
   );
 }

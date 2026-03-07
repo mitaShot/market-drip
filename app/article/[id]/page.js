@@ -1,5 +1,4 @@
 import { getAllPostIds } from '@/lib/posts';
-import ClientRedirector from '@/components/Redirector/Redirector';
 
 export async function generateStaticParams() {
     const paths = getAllPostIds();
@@ -7,7 +6,35 @@ export async function generateStaticParams() {
     return ids.map(id => ({ id }));
 }
 
+export async function generateMetadata({ params }) {
+    const { id } = await params;
+    const baseUrl = 'https://market-drip.com';
+    return {
+        // Signal to Google that /en/article/[id] is the canonical URL
+        alternates: {
+            canonical: `${baseUrl}/en/article/${id}`,
+        },
+        robots: {
+            index: false,
+            follow: true,
+        },
+    };
+}
+
 export default async function ArticleOldPage({ params }) {
     const { id } = await params;
-    return <ClientRedirector targetPath={`/article/${id}`} />;
+    const targetUrl = `/en/article/${id}`;
+
+    return (
+        <>
+            {/* Hard meta-refresh so Google follows this even without JS */}
+            <meta httpEquiv="refresh" content={`0; url=${targetUrl}`} />
+            <link rel="canonical" href={`https://market-drip.com/en/article/${id}`} />
+            <style>{`body{background:#000;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:sans-serif}`}</style>
+            <p>
+                Redirecting to{' '}
+                <a href={targetUrl}>{targetUrl}</a>…
+            </p>
+        </>
+    );
 }
