@@ -57,41 +57,48 @@ function getPosts() {
         };
     });
 
-    // Deduplicate by ID, keeping latest date
-    const uniquePosts = {};
-    postsData.forEach(p => {
-        if (!uniquePosts[p.id] || new Date(p.date) > new Date(uniquePosts[p.id].date)) {
-            uniquePosts[p.id] = p;
+    return postsData.sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
+function generateSitemap(allPosts) {
+    const now = new Date().toISOString();
+
+    // Group posts by ID to know which languages are available for each
+    const groupedPosts = {};
+    allPosts.forEach(post => {
+        if (!groupedPosts[post.id]) {
+            groupedPosts[post.id] = { id: post.id, date: post.date, langs: new Set() };
+        }
+        groupedPosts[post.id].langs.add(post.lang);
+        // Ensure we capture the latest date
+        if (new Date(post.date) > new Date(groupedPosts[post.id].date)) {
+            groupedPosts[post.id].date = post.date;
         }
     });
 
-    return Object.values(uniquePosts).sort((a, b) => new Date(b.date) - new Date(a.date));
-}
+    const entries = [];
 
-function generateSitemap(posts) {
-    const now = new Date().toISOString();
-    const urls = [];
-
-    // Home pages (per language)
+    // 1. Home pages (All LANGUAGES available)
     LANGUAGES.forEach(lang => {
-        urls.push({
+        entries.push({
             loc: `${BASE_URL}/${lang}`,
             lastmod: now,
             priority: '1.0',
-            pathSuffix: ''
+            alternates: LANGUAGES // All homes exist
         });
     });
 
+    // 2. Article pages (Only for existing variations)
+    Object.values(groupedPosts).forEach(group => {
+        const availableLangs = Array.from(group.langs);
 
-
-    // Article pages (per language per post)
-    LANGUAGES.forEach(lang => {
-        posts.forEach(post => {
-            urls.push({
-                loc: `${BASE_URL}/${lang}/article/${post.id}`,
-                lastmod: post.date.toISOString(),
+        availableLangs.forEach(lang => {
+            entries.push({
+                loc: `${BASE_URL}/${lang}/article/${group.id}`,
+                lastmod: new Date(group.date).toISOString(),
                 priority: '0.7',
-                pathSuffix: `/article/${post.id}`
+                pathSuffix: `/article/${group.id}`,
+                alternates: availableLangs
             });
         });
     });
@@ -99,20 +106,21 @@ function generateSitemap(posts) {
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-${urls.map(url => {
+${entries.map(entry => {
+        const suffix = entry.pathSuffix || '';
         return `  <url>
-    <loc>${escapeXml(url.loc)}</loc>
-    <lastmod>${url.lastmod}</lastmod>
-    <priority>${url.priority}</priority>
-${LANGUAGES.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${url.pathSuffix}`)}" />`).join('\n')}
-    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${url.pathSuffix}`)}" />
+    <loc>${escapeXml(entry.loc)}</loc>
+    <lastmod>${entry.lastmod}</lastmod>
+    <priority>${entry.priority}</priority>
+${entry.alternates.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${suffix}`)}" />`).join('\n')}
+    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${suffix}`)}" />
   </url>`;
     }).join('\n')}
 </urlset>`;
 
     const filePath = path.join(OUT_DIR, 'sitemap.xml');
     fs.writeFileSync(filePath, xml);
-    console.log(`✅ sitemap.xml generated (${urls.length} URLs)`);
+    console.log(`✅ sitemap.xml generated (${entries.length} URLs)`);
 }
 
 function cleanupOldSitemaps() {
