@@ -99,7 +99,7 @@ export default async function TagPage({ params }) {
                         #{displayTag}
                     </span>
                 </h1>
-                <NewsGrid articles={filteredArticles} title={`Posts related to "${displayTag}"`} />
+                <NewsGrid articles={filteredArticles} title={`Posts related to "${displayTag}"`} lang={lang} />
             </div>
         </main>
     );

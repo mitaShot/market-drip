@@ -5,13 +5,17 @@ import Link from 'next/link';
 import styles from './NewsCard.module.css';
 import { useLanguage } from '@/context/LanguageContext';
 
-export default function NewsCard({ article }) {
+export default function NewsCard({ article, lang }) {
     const { language } = useLanguage();
+
+    // lang prop (from server) takes priority over client-side context
+    // This ensures the link href is correct in server-rendered HTML for Googlebot
+    const effectiveLang = lang || language;
 
     const getLocalized = (obj) => {
         if (!obj) return '';
         if (typeof obj === 'string') return obj;
-        if (obj[language]) return obj[language];
+        if (obj[effectiveLang]) return obj[effectiveLang];
         if (obj['en']) return obj['en'];
         return Object.values(obj)[0] || '';
     };
@@ -22,7 +26,7 @@ export default function NewsCard({ article }) {
     const author = getLocalized(article.author);
 
     return (
-        <Link href={`/${language}/article/${article.id}`} className={styles.card}>
+        <Link href={`/${effectiveLang}/article/${article.id}`} className={styles.card}>
             <div className={styles.imageWrapper}>
                 <img src={article.image} alt={title} className={styles.image} />
             </div>

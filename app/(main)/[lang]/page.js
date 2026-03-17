@@ -21,12 +21,13 @@ export async function generateMetadata({ params }) {
     };
 }
 
-export default function Home({ params }) {
+export default async function Home({ params }) {
+    const { lang } = await params;
     const allPostsData = getSortedPostsData();
     return (
         <main>
             <Hero />
-            <NewsGrid articles={allPostsData} title="Latest Investment News" />
+            <NewsGrid articles={allPostsData} title="Latest Investment News" lang={lang} />
         </main>
     );
 }

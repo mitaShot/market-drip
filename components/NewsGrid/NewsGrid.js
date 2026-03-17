@@ -5,9 +5,12 @@ import NewsCard from '../NewsCard/NewsCard';
 import styles from './NewsGrid.module.css';
 import { useLanguage } from '@/context/LanguageContext';
 
-export default function NewsGrid({ articles, title }) {
-    const { t } = useLanguage();
+export default function NewsGrid({ articles, title, lang }) {
+    const { t, language } = useLanguage();
     const [visibleCount, setVisibleCount] = useState(9); // Show 9 initially
+
+    // Use server-provided lang for links (SSR-safe), fall back to client context
+    const effectiveLang = lang || language;
 
     // Translate title if it matches the default English string
     const displayTitle = title === 'Latest Investment News' ? t('newsGrid.title') : title;
@@ -25,7 +28,7 @@ export default function NewsGrid({ articles, title }) {
                 {displayTitle && <h2 className={styles.heading}>{displayTitle}</h2>}
                 <div className={styles.grid}>
                     {visibleArticles.map((article) => (
-                        <NewsCard key={article.id} article={article} />
+                        <NewsCard key={article.id} article={article} lang={effectiveLang} />
                     ))}
                 </div>
 
