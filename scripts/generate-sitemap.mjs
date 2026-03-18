@@ -21,6 +21,16 @@ function escapeXml(unsafe) {
     });
 }
 
+function normalizeTag(tag) {
+    if (!tag) return '';
+    return tag.toLowerCase()
+        .replace(/[|,\/]/g, ' ')
+        .trim()
+        .replace(/\s+/g, '-')
+        .replace(/[^-a-z0-9]/g, '')
+        .replace(/-+/g, '-');
+}
+
 function getPosts() {
     if (!fs.existsSync(POSTS_DIR)) return [];
 
@@ -36,24 +46,30 @@ function getPosts() {
     const postsData = posts.map(post => {
         const fullPath = path.join(POSTS_DIR, post.fileName);
         const fileContents = fs.readFileSync(fullPath, 'utf8');
-        let date;
+        let date, tags = [], category = '';
 
         if (post.fileName.endsWith('.json')) {
             try {
                 const json = JSON.parse(fileContents);
                 date = json.seo?.published_date || json.date;
+                tags = json.seo?.tags || json.tags || [];
+                category = json.seo?.category || json.category || '';
             } catch (e) {
                 console.error(`Error parsing JSON file ${post.fileName}:`, e);
             }
         } else {
             const { data } = matter(fileContents);
             date = data.date;
+            tags = data.tags || [];
+            category = data.category || '';
         }
 
         return {
             id: post.id,
             date: date ? new Date(date) : new Date(),
-            lang: post.lang
+            lang: post.lang,
+            tags,
+            category
         };
     });
 
@@ -96,9 +112,45 @@ function generateSitemap(allPosts) {
             entries.push({
                 loc: `${BASE_URL}/${lang}/article/${group.id}`,
                 lastmod: new Date(group.date).toISOString(),
-                priority: '0.7',
+                priority: '0.8',
                 pathSuffix: `/article/${group.id}`,
                 alternates: availableLangs
+            });
+        });
+    });
+
+    // 3. Tag & Category pages (Filtered for quality)
+    const tagToArticles = {}; // Map: tag -> Set of article IDs
+    allPosts.forEach(post => {
+        const process = (name) => {
+            const normalized = normalizeTag(name);
+            if (normalized) {
+                if (!tagToArticles[normalized]) tagToArticles[normalized] = new Set();
+                tagToArticles[normalized].add(post.id);
+            }
+        };
+
+        if (post.tags) post.tags.forEach(process);
+        if (post.category) {
+            String(post.category).split(/[|,\/]/).forEach(c => process(c.trim()));
+        }
+    });
+
+    const CORE_TAGS = ['stocks', 'dividends', 'banking', 'crypto', 'etf', 'ai'];
+    const filteredTags = Object.keys(tagToArticles).filter(tag => {
+        return tagToArticles[tag].size >= 3 || CORE_TAGS.includes(tag);
+    });
+
+    console.log(`🏷️  Filtered tags: ${filteredTags.length} of ${Object.keys(tagToArticles).length} total tags have 3+ articles.`);
+
+    filteredTags.forEach(tag => {
+        LANGUAGES.forEach(lang => {
+            entries.push({
+                loc: `${BASE_URL}/${lang}/tag/${tag}`,
+                lastmod: now,
+                priority: '0.5',
+                pathSuffix: `/tag/${tag}`,
+                alternates: LANGUAGES
             });
         });
     });

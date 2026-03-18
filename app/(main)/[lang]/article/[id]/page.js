@@ -80,11 +80,14 @@ export default async function ArticlePage({ params }) {
     const authorName = article.author[lang] || article.author['en'] || Object.values(article.author)[0];
     const excerpt = article.excerpt[lang] || article.excerpt['en'] || Object.values(article.excerpt)[0];
 
+    const baseUrl = 'https://market-drip.com';
+    const fullImageUrl = article.image.startsWith('http') ? article.image : `${baseUrl}${article.image}`;
+
     const jsonLd = {
         '@context': 'https://schema.org',
         '@type': 'NewsArticle',
         headline: title,
-        image: [article.image],
+        image: [fullImageUrl],
         datePublished: article.date,
         dateModified: article.date,
         author: [{

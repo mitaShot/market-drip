@@ -21,13 +21,29 @@ export async function generateMetadata({ params }) {
     };
 }
 
+import Pagination from '@/components/Pagination/Pagination';
+
+const POSTS_PER_PAGE = 12;
+
 export default async function Home({ params }) {
     const { lang } = await params;
     const allPostsData = getSortedPostsData();
+    const totalPages = Math.ceil(allPostsData.length / POSTS_PER_PAGE);
+    const currentPage = 1;
+
+    const displayedPosts = allPostsData.slice(0, POSTS_PER_PAGE);
+
     return (
         <main>
             <Hero />
-            <NewsGrid articles={allPostsData} title="Latest Investment News" lang={lang} />
+            <div className="container">
+                <NewsGrid articles={displayedPosts} title="Latest Investment News" lang={lang} />
+                <Pagination
+                    totalPages={totalPages}
+                    currentPage={currentPage}
+                    lang={lang}
+                />
+            </div>
         </main>
     );
 }
