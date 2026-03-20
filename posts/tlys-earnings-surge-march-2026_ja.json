@@ -1,0 +1,178 @@
+{
+  "meta_info": {
+    "selected_ticker": "TLYS",
+    "selection_reason": "今期の四半期決算が予想を上回り、翌四半期の売上見通しも上方修正されたことで短期間に急騰し、取引高が大きく膨らんだため、今日のマーケットで特に目立った銘柄となった.",
+    "references": [
+      {
+        "name": "Yahoo Finance TLYS earnings call transcript",
+        "url": "https://finance.yahoo.com/quote/TLYS/earnings/TLYS-Q4-2026-earnings_call-483793.html/"
+      },
+      {
+        "name": "Yahoo Finance TLYS Q4 earnings beat",
+        "url": "https://finance.yahoo.com/news/tillys-tlys-q4-earnings-revenues-211501581.html"
+      },
+      {
+        "name": "MarketWatch TLYS quote",
+        "url": "https://www.marketwatch.com/investing/stock/tlys"
+      },
+      {
+        "name": "Yahoo Finance Japan TLYS",
+        "url": "https://finance.yahoo.co.jp/quote/TLYS"
+      }
+    ]
+  },
+  "seo": {
+    "title": "TLYS、なぜこんなに跳ねたのか？ エンターン・アラウンドの裏の本音",
+    "meta_description": "決算が回復したことで突然注目を浴び始めたTLYS。どう眺めるべきか、数字とニュースと本当のリスクをやさしくまとめました.",
+    "slug": "tlys-earnings-surge-march-2026",
+    "category": "Stocks | Consumer Cyclical",
+    "tags": [
+      "TLYS",
+      "Tillys",
+      "Retail",
+      "Earnings Surprise",
+      "Volatility"
+    ],
+    "published_date": "2026-03-20",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3秒でわかるキーポイント",
+      "points": [
+        "TLYSは最新四半期の決算が予想を上回って黒字転換し、翌四半期の売上見通しも好調に出て、一気に注目を集めた銘柄です.",
+        "取引高が普段より大幅に増えており、単なるうわさではなく、実際の資金が動いている状況といえるでしょう.",
+        "現在のトレンドは強いですが、動きがかなり急なため、少なくとも短期的には「様子見寄り」のポジションがしっくりきます."
+      ],
+      "claims": [
+        {
+          "what": "直近の決算発表直後に株価と出来高が同時に急騰した点.",
+          "value": 47.24,
+          "url": "https://finance.yahoo.co.jp/quote/TLYS"
+        }
+      ]
+    },
+    "excerpt": "この稿では、なぜTLYSが一気に「ホットな銘柄」になったか、数字とニュースと今後のリスクを、一般の方にもわかりやすいように解説します.",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "なぜ、今日がこんなに騒がしかったのか？",
+        "content": "正直なところ、今日のTLYSはただの小型小売株ではなく、「ようやく業績が回復した」というストーリーで注目された銘柄です。FY2025年第4四半期の売上は1億5,510万ドル、1株利益は0.10ドルで、いずれも市場の予想を上回り、直前の赤字から黒字への転換となりました。  [finance.yahoo](https://finance.yahoo.com/news/tillys-tlys-q4-earnings-revenues-211501581.html)\n\nさらに重要なのは2026年第1四半期の売上見通しです。同社は1億1,900万ドルから1億2,500万ドルの範囲を示しており、これは事前の推定を上回る数字なので、市場は「今の流れが短期的なブームで終わらない可能性が高い」と読み、ポジティブに反応しました。そのため、今日の動きは単なるニュース・バーストではなく、決算と見通しが同時によみが常備される「リレイティング」に近い動きといえます。  [finance.yahoo](https://finance.yahoo.com/news/tillys-inc-tlys-q4-2025-030145202.html)",
+        "claims": [
+          {
+            "what": "決算発表と見通しが同時にトレンドを変えた点.",
+            "value": "first profitable fourth quarter since fiscal 2021",
+            "url": "https://finance.yahoo.com/news/tillys-inc-fiscal-2025-fourth-200500411.html"
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "チャート上ではどう見えるか",
+        "content": "純粋にチャートだけ見ると、すでにかなり熱い局面です。Yahoo JP財務データによると、前日の終値は2.40ドルで、当日の変動は47.24%と急騰しています。MarketWatchが示す52週間の値幅は0.57ドルから3.60ドルであり、直近の高値である約3.58ドルは、事実上52週間の上限に張り付いている状態なので、短期的な動きはすでにかなり先に行っているといえます。  [finance.yahoo.co](https://finance.yahoo.co.jp/quote/TLYS)\n\nこの種の動きには通常、二つの見方が出ます。一つは「業績が本当に回復し始めたため、リレイティングが始まった」というもの。もう一つは「好材料が一度に押し寄せたことで株価がストーリーを先行して走っている」というものです。そのため、今の局面では「強さのあるトレンド」と同時に、「ストーリーが少しでも乱れれば大きくふらつくリスク」を両方読み込む必要があります。  [marketwatch](https://www.marketwatch.com/story/tilly-s-shares-surge-on-4q-profit-ebf99f75)",
+        "claims": [
+          {
+            "what": "チャートで特に目立つのは、急騰と52週高値圏への接近.",
+            "value": 3.6,
+            "url": "https://www.marketwatch.com/investing/stock/tlys"
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "何が味方に立ち、何が足を引っ張っているか",
+        "content": "上昇の主な要因は明確です。FY2025年第4四半期で1株あたり0.10ドルの黒字を計上し、売上も総利益率も予想を上回りました。総利益率は33.2%まで上昇し、割引競争が続き不毛感の強かった構造から、やっと息切れの余地ができたように感じられます。  [finance.yahoo](https://finance.yahoo.com/news/tillys-tlys-q4-earnings-revenues-211501581.html)\n\nしかし、リスクも同様に大きいです。TLYSはまだ規模が小さな小売株なので、在庫が再び増えたり、価格競争が激しくなれば、利益率や収益がすぐに揺らぎ得ます。また、全体の消費環境が完全に回復したわけでもないため、一四半期の業績改善だけで「リスクが完全に払拭された」と読むには早すぎます。  [finance.yahoo.co](https://finance.yahoo.co.jp/quote/TLYS/performance)",
+        "claims": [
+          {
+            "what": "核心の催化剤は、初の黒字転換と利益率改善.",
+            "value": 33.2,
+            "url": "https://finance.yahoo.com/quote/TLYS/earnings/TLYS-Q4-2026-earnings_call-483793.html/"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "ニュースは一文でどうまとめるか",
+        "content": "最大の見出しはFY2025年第4四半期の決算好調です。前は赤字だったのを、1株あたり0.10ドルの黒字に転じ、売上も予想を上回りました。この結果、株価は海外取引内で一時、最大76%まで急騰しました。このような動きは、TLYSが「長期のファンダメンタル」よりも、「決算ニュース」に強く反応する銘柄に再分類されたサインと解釈できます。  [finance.yahoo](https://finance.yahoo.com/news/tillys-tlys-q4-earnings-revenues-211501581.html)\n\nさらに、2026年2月の同店売上は前年比で約20%増加したと発表されています。これは「一時のサプライズに過ぎない」ものではなく、2026年初頭からも流れが悪くないということを示すサインなので、ニュースとオンライン・トピックスがさらに盛り上がっていった理由です。大ごとですね。  [sahmcapital](https://www.sahmcapital.com/news/content/top-2-consumer-stocks-that-may-keep-you-up-at-night-this-quarter-2026-03-12)",
+        "claims": [
+          {
+            "what": "ニュース・ドリブンの動きが、決算サプライズと次四半期の売上見通しの上方修正に結びついている点.",
+            "value": 76,
+            "url": "https://www.marketwatch.com/story/tilly-s-shares-surge-on-4q-profit-ebf99f75"
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "資金はどこから来たのか",
+        "content": "資金の流れはかなり明確です。Yahoo JPによると、その日の出来高は47,169,605株、取引金額は約1億1,748万ドルまで達しました。これは単なる小規模な興味の範疇ではなく、多くの投資家が同時にこの銘柄に注目してポジションを調整しているほどのレベルです。  [finance.yahoo.co](https://finance.yahoo.co.jp/quote/TLYS)\n\n公表されているデータ上では、特定の大手機関が正式に深くコミットしていると断定できる情報まではまだありませんが、オプションと短期トレーディングの需要は明確に回復しています。このため、現在の局面は「長期的価値株」というよりも、「ニュース・モメンタム」に乗り、短期で動きが優先されるトレード段階に近いと考えられます。  [marketwatch](https://www.marketwatch.com/investing/stock/tlys/options)",
+        "claims": [
+          {
+            "what": "出来高と取引金額が急騰した点.",
+            "value": 47169605,
+            "url": "https://finance.yahoo.co.jp/quote/TLYS"
+          }
+        ]
+      },
+      {
+        "type": "peer_comparison",
+        "heading": "同種の銘柄と比べてどうか",
+        "content": "他の小売銘柄と比べると、TLYSはまだ規模が小さいです。しかし、赤字から黒字に転じただけでなく、売上と利益率を同時に改善している点が目立ちます。この「転換のスピード」が、市場が小型小売株の中でも特にTLYSに注目する理由です。  [finance.yahoo](https://finance.yahoo.com/quote/TLYS/earnings/TLYS-Q4-2026-earnings_call-483793.html/)\n\n大手小売株は規模とブランド力が強いですが、TLYSはそれに対して「安定性」よりも「柔軟性」に寄っています。つまり、完全な「安心型」ではありませんが、ファンダメンタルが変われば巨人よりも早くリレイティングされる可能性のある銘柄というニュアンスが強いです。  [marketwatch](https://www.marketwatch.com/investing/stock/tlys)",
+        "claims": [
+          {
+            "what": "同業種と比べて、黒字転換のスピードと売上・利益率の同時改善が目立つ点.",
+            "value": "0.10",
+            "url": "https://finance.yahoo.com/news/tillys-tlys-q4-earnings-revenues-211501581.html"
+          }
+        ]
+      },
+      {
+        "type": "macro_watch",
+        "heading": "マクロ環境は味方か",
+        "content": "マクロ環境は真っ二つに近い傾向です。消費者支出全体はまだ爆発的に回復しているわけではありませんが、中価格帯のカジュアル衣料需要がやや回復しているため、TLYSには小さな追い風が吹いています。  [sahmcapital](https://www.sahmcapital.com/news/content/top-2-consumer-stocks-that-may-keep-you-up-at-night-this-quarter-2026-03-12)\n\n一方で、金利はまだ完全に下がった状態ではなく、もし在庫を積み増したり、キャンペーンを盛り上げ過ぎると、利益圧力と在庫リスクが残ります。このため、今の大環境は完全な好材料というよりは、「企業側の実行次第でリレイティングを受ける余地がある」程度に見るべきです。  [ahajournals](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)",
+        "claims": [
+          {
+            "what": "マクロ環境が業績に与える影響は、控えめな回復と継続的なプロモーション圧力.",
+            "value": "mixed",
+            "url": "https://finance.yahoo.com/news/tillys-inc-fiscal-2025-fourth-200500411.html"
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "3〜12カ月、どう見るのがいいか",
+        "bull_case": "ポジティブなシナリオはシンプルです。FY2025Q4の黒字転換が一回限りではなく、FY2026Q1以降でも売上と利益率が大きく崩れなければ、市場はTLYSを「リスクの高い小型小売株」から「回復に向かう小型小売株」へと再フレームする可能性があります。その流れが続けば、現在の高ボラティリティは長期リレイティングの初期のうねりと感じられ、数クォーター後には、今日よりも落ち着いた倍率で取引される可能性があります。  [finance.yahoo](https://finance.yahoo.com/quote/TLYS/earnings/TLYS-Q4-2026-earnings_call-483793.html/)",
+        "bear_case": "一方で、一回の実績が悪ければ物語はすぐに逆転します。在庫が膨れ上がったり、価格競争が再び激しくなれば、利益率が潰れて株価が大きく下落する可能性があります。その場合は、中小型株特有の「一気に大きく揺れる」性質が再び顕在化します。  [finance.yahoo.co](https://finance.yahoo.co.jp/quote/TLYS/performance)",
+        "strategy": "一言でまとめると、この局面では「ニュースが動くたびに、少しずつバリューを加えていく」方が、一気に全額ベットするよりも心が楽です。動きがすでにかなり伸びているため、追撃買いよりも、少しずつポジションを調整しながらリスクを散らすほうが現実的です。  [marketwatch](https://www.marketwatch.com/story/tilly-s-shares-surge-on-4q-profit-ebf99f75)",
+        "claims": [
+          {
+            "what": "牛と熊を分ける核心のファクトは、初の黒字四半期と次四半期の売上見通しが同時に上向いた点.",
+            "value": 122,
+            "url": "https://finance.yahoo.com/news/tillys-inc-fiscal-2025-fourth-200500411.html"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "なぜ、こんなに急に人気が出たの？",
+        "answer": "FY2025年第4四半期で黒字に転換し、FY2026Q1の売上見通しが予想を上回って出てきたため、市場は「一時的な反発ではなく、本格的な転換の兆し」として反応しました。そのため、テーマ株のような動きではなく、決算を基点にした上昇だと見るのが自然です。"
+      },
+      {
+        "question": "このままムードが良ければ、ずっと上昇するの？",
+        "answer": "良いニュースはかなり株価に織り込まれているため、今後は業績が続くか、あるいは一回の調整が入るかが重要になります。ムードが良くて自動的に上がるわけではなく、むしろ比較的長めの調整が入る可能性もあります。"
+      },
+      {
+        "question": "この銘柄は安定系ですか？",
+        "answer": "いいえ、安定寄りというよりは、ボラティリティが大きい銘柄です。規模が小さく、業績が少し悪化しても株価が大きく揺れる構造なので、まずは時間をかけながら様子をみるのが妥当です。"
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "TLYS",
+    "chart_filename": "tlys-earnings-surge-march-2026_inner.webp",
+    "analysis": "**テクニカル分析:** ボリンジャーバンド上限突破（過熱圏入り）\\n\\n**心理指標:** RSI 94.9（買われすぎ、利益確定売り注意）\\n\\n**主要レンジ:** 直近1ヶ月の高値 $3.67、安値 $1.31\\n\\n**出来高:** 481.94K（20日平均比 0.14倍）\\n\\n**目標株価（アナリスト）:** 平均 $3.00（-18.3%）/ 中央 $3.00（レンジ $3.00–$3.00）\\n\\n前回の高値ブレイクアウトを試行中",
+    "image_alt": "TLYS 株価チャート（2026-03-19時点）: 終値 $3.67（+2.80%）, RSI(14) 94.9, 直近1ヶ月レンジ $1.3–$3.7.",
+    "image_caption": "TLYS（2026-03-19）: 過熱シグナル（ボリンジャー上限超え）。終値 $3.67（+2.80%）, RSI(14) 94.9。"
+  }
+}
