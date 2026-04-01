@@ -1,9 +1,29 @@
-"use client";
 
-import { useLanguage } from '@/context/LanguageContext';
+import { translations } from '@/lib/translations';
 
-export default function ContactPage() {
-    const { t } = useLanguage();
+export async function generateMetadata({ params }) {
+    const { lang } = await params;
+    const t = translations[lang]?.contact || translations['en']?.contact;
+    const baseUrl = 'https://market-drip.com';
+
+    return {
+        title: `${t.title} | Market Drip`,
+        description: t.description,
+        alternates: {
+            canonical: `${baseUrl}/${lang}/contact`,
+            languages: {
+                'en': `${baseUrl}/en/contact`,
+                'ko': `${baseUrl}/ko/contact`,
+                'ja': `${baseUrl}/ja/contact`,
+                'x-default': `${baseUrl}/en/contact`,
+            },
+        },
+    };
+}
+
+export default async function ContactPage({ params }) {
+    const { lang } = await params;
+    const t = translations[lang]?.contact || translations['en']?.contact;
 
     return (
         <main style={{ padding: '6rem 0', minHeight: '80vh', backgroundColor: '#fafafa' }}>
@@ -17,13 +37,13 @@ export default function ContactPage() {
                     boxShadow: '0 10px 30px rgba(0,0,0,0.05)'
                 }}>
                     <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
-                        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem', fontWeight: '800' }}>{t('contact.title')}</h1>
-                        <p style={{ color: '#666', fontSize: '1.2rem', lineHeight: '1.6' }}>{t('contact.subtitle')}</p>
+                        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem', fontWeight: '800' }}>{t.title}</h1>
+                        <p style={{ color: '#666', fontSize: '1.2rem', lineHeight: '1.6' }}>{t.subtitle}</p>
                     </header>
 
                     <div style={{ marginBottom: '3rem' }}>
                         <p style={{ color: '#444', fontSize: '1.1rem', marginBottom: '2rem', textAlign: 'center' }}>
-                            {t('contact.description')}
+                            {t.description}
                         </p>
 
                         <div style={{
@@ -36,10 +56,10 @@ export default function ContactPage() {
                             borderRadius: '1rem'
                         }}>
                             <span style={{ fontSize: '0.9rem', color: '#888', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: '600' }}>
-                                {t('contact.emailLabel')}
+                                {t.emailLabel}
                             </span>
                             <a
-                                href={`mailto:${t('contact.emailValue')}`}
+                                href={`mailto:${t.emailValue}`}
                                 style={{
                                     fontSize: '1.5rem',
                                     color: 'var(--color-primary)',
@@ -49,10 +69,8 @@ export default function ContactPage() {
                                     borderBottom: '2px solid transparent',
                                     transition: 'all 0.2s ease'
                                 }}
-                                onMouseOver={(e) => e.currentTarget.style.borderBottom = '2px solid var(--color-primary)'}
-                                onMouseOut={(e) => e.currentTarget.style.borderBottom = '2px solid transparent'}
                             >
-                                {t('contact.emailValue')}
+                                {t.emailValue}
                             </a>
                         </div>
                     </div>

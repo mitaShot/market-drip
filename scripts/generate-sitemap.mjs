@@ -145,13 +145,25 @@ function generateSitemap(allPosts) {
 
     filteredTags.forEach(tag => {
         LANGUAGES.forEach(lang => {
-            entries.push({
-                loc: `${BASE_URL}/${lang}/tag/${tag}`,
-                lastmod: now,
-                priority: '0.5',
-                pathSuffix: `/tag/${tag}`,
-                alternates: LANGUAGES
+            // Only include tag page if it has at least one post in this language
+            const hasArticleInLang = Array.from(tagToArticles[tag]).some(id => {
+                return allPosts.some(p => p.id === id && p.lang === lang);
             });
+
+            if (hasArticleInLang) {
+                entries.push({
+                    loc: `${BASE_URL}/${lang}/tag/${tag}`,
+                    lastmod: now,
+                    priority: '0.5',
+                    pathSuffix: `/tag/${tag}`,
+                    alternates: LANGUAGES.filter(l => {
+                        // Only include other languages as alternates if they also have articles for this tag
+                        return Array.from(tagToArticles[tag]).some(id => {
+                            return allPosts.some(p => p.id === id && p.lang === l);
+                        });
+                    })
+                });
+            }
         });
     });
 
@@ -165,7 +177,10 @@ ${entries.map(entry => {
     <lastmod>${entry.lastmod}</lastmod>
     <priority>${entry.priority}</priority>
 ${entry.alternates.map(l => `    <xhtml:link rel="alternate" hreflang="${l}" href="${escapeXml(`${BASE_URL}/${l}${suffix}`)}" />`).join('\n')}
-    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/en${suffix}`)}" />
+${(() => {
+                const defaultL = entry.alternates.includes('en') ? 'en' : entry.alternates[0];
+                return defaultL ? `    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(`${BASE_URL}/${defaultL}${suffix}`)}" />` : '';
+            })()}
   </url>`;
     }).join('\n')}
 </urlset>`;

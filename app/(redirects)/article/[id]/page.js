@@ -1,4 +1,4 @@
-import { getAllPostIds } from '@/lib/posts';
+import { getAllPostIds, getPostData } from '@/lib/posts';
 
 export async function generateStaticParams() {
     const paths = getAllPostIds();
@@ -8,11 +8,17 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
     const { id } = await params;
+    const article = await getPostData(id);
     const baseUrl = 'https://market-drip.com';
+
+    if (!article) return { robots: { index: false } };
+
+    const availableLangs = Object.keys(article.title || {});
+    const defaultLang = availableLangs.includes('en') ? 'en' : availableLangs[0];
+
     return {
-        // Signal to Google that /en/article/[id] is the canonical URL
         alternates: {
-            canonical: `${baseUrl}/en/article/${id}`,
+            canonical: `${baseUrl}/${defaultLang}/article/${id}`,
         },
         robots: {
             index: false,
@@ -23,13 +29,18 @@ export async function generateMetadata({ params }) {
 
 export default async function ArticleOldPage({ params }) {
     const { id } = await params;
-    const targetUrl = `/en/article/${id}`;
+    const article = await getPostData(id);
+
+    if (!article) return <div className="container">Article not found</div>;
+
+    const availableLangs = Object.keys(article.title || {});
+    const defaultLang = availableLangs.includes('en') ? 'en' : availableLangs[0];
+    const targetUrl = `/${defaultLang}/article/${id}`;
 
     return (
         <>
-            {/* Hard meta-refresh so Google follows this even without JS */}
             <meta httpEquiv="refresh" content={`0; url=${targetUrl}`} />
-            <link rel="canonical" href={`https://market-drip.com/en/article/${id}`} />
+            <link rel="canonical" href={`https://market-drip.com${targetUrl}`} />
             <style>{`body{background:#000;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:sans-serif}`}</style>
             <p>
                 Redirecting to{' '}

@@ -7,5 +7,5 @@
 # Legacy tag structure to English tags
 /tag/*      /en/tag/:splat      301
 
-# Legacy category structure to English categories
-/category/* /en/category/:splat 301
+# Legacy category structure to English tags
+/category/* /en/tag/:splat 301

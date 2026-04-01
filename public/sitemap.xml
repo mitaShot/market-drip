@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://market-drip.com/en</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko" />
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/article/palantir-pltr-stock-analysis-mysis-march-2026</loc>
-    <lastmod>2026-03-18T12:10:40.325Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.409Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/palantir-pltr-stock-analysis-mysis-march-2026" />
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-mysis-march-2026" />
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/article/palantir-pltr-stock-analysis-mysis-march-2026</loc>
-    <lastmod>2026-03-18T12:10:40.325Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.409Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/palantir-pltr-stock-analysis-mysis-march-2026" />
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-mysis-march-2026" />
@@ -48,12 +48,120 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/article/palantir-pltr-stock-analysis-mysis-march-2026</loc>
-    <lastmod>2026-03-18T12:10:40.325Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.409Z</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/palantir-pltr-stock-analysis-mysis-march-2026" />
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-mysis-march-2026" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/palantir-pltr-stock-analysis-mysis-march-2026" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/palantir-pltr-stock-analysis-mysis-march-2026" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328</loc>
+    <lastmod>2026-03-28T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/artelo-biosciences-artl-glaucoma-surge-20260328</loc>
+    <lastmod>2026-03-28T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/artelo-biosciences-artl-glaucoma-surge-20260328</loc>
+    <lastmod>2026-03-28T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/artelo-biosciences-artl-glaucoma-surge-20260328" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/earnings</loc>
+    <lastmod>2026-03-23T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/earnings</loc>
+    <lastmod>2026-03-23T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/earnings</loc>
+    <lastmod>2026-03-23T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/tlys-earnings-surge-march-2026</loc>
+    <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/tlys-earnings-surge-march-2026</loc>
+    <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/tlys-earnings-surge-march-2026</loc>
+    <lastmod>2026-03-20T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/tlys-earnings-surge-march-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/tlys-earnings-surge-march-2026" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318</loc>
+    <lastmod>2026-03-18T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318</loc>
+    <lastmod>2026-03-18T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318</loc>
+    <lastmod>2026-03-18T00:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/swarmer-swmr-drone-ai-defense-ipo-pop-20260318" />
   </url>
   <url>
     <loc>https://market-drip.com/en/article/orcl-earnings-ai-cloud-jump-20260312</loc>
@@ -108,33 +216,6 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/longeveron-lgvn-stock-70-spike-30m-private-placement-20260311" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/longeveron-lgvn-stock-70-spike-30m-private-placement-20260311" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/longeveron-lgvn-stock-70-spike-30m-private-placement-20260311" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/article/earnings</loc>
-    <lastmod>2026-03-09T00:00:00.000Z</lastmod>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/article/earnings</loc>
-    <lastmod>2026-03-09T00:00:00.000Z</lastmod>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/article/earnings</loc>
-    <lastmod>2026-03-09T00:00:00.000Z</lastmod>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/article/earnings" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/earnings" />
   </url>
   <url>
     <loc>https://market-drip.com/en/article/marvell-mrvl-hot-stock-20260308</loc>
@@ -1028,89 +1109,35 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/article/nvda-stock-analysis-deepseek-shock-ai-capex-20250129" />
   </url>
   <url>
-    <loc>https://market-drip.com/en/tag/pltr</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <loc>https://market-drip.com/en/tag/biotech</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/biotech" />
   </url>
   <url>
-    <loc>https://market-drip.com/ko/tag/pltr</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <loc>https://market-drip.com/ko/tag/biotech</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/biotech" />
   </url>
   <url>
-    <loc>https://market-drip.com/ja/tag/pltr</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <loc>https://market-drip.com/ja/tag/biotech</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/ai</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/ai</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/ai</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/en/tag/palantir</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ko/tag/palantir</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
-  </url>
-  <url>
-    <loc>https://market-drip.com/ja/tag/palantir</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/biotech" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/biotech" />
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
@@ -1119,7 +1146,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
@@ -1128,7 +1155,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/stocks" />
@@ -1137,7 +1164,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/earnings</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
@@ -1146,7 +1173,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/earnings</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
@@ -1155,7 +1182,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/earnings</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/earnings" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/earnings" />
@@ -1163,8 +1190,89 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/earnings" />
   </url>
   <url>
+    <loc>https://market-drip.com/en/tag/ai</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/ai</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/ai</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/ai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/ai" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/tag/pltr</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/pltr</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/pltr</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/pltr" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/pltr" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/en/tag/palantir</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ko/tag/palantir</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
+  </url>
+  <url>
+    <loc>https://market-drip.com/ja/tag/palantir</loc>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://market-drip.com/ja/tag/palantir" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://market-drip.com/en/tag/palantir" />
+  </url>
+  <url>
     <loc>https://market-drip.com/en/tag/cloud</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/cloud" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/cloud" />
@@ -1173,7 +1281,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/cloud</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/cloud" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/cloud" />
@@ -1182,7 +1290,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/cloud</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/cloud" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/cloud" />
@@ -1191,7 +1299,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/semiconductor</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/semiconductor" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/semiconductor" />
@@ -1200,7 +1308,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/semiconductor</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/semiconductor" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/semiconductor" />
@@ -1209,7 +1317,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/semiconductor</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/semiconductor" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/semiconductor" />
@@ -1218,7 +1326,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/market-drip-category</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/market-drip-category" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/market-drip-category" />
@@ -1227,7 +1335,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/market-drip-category</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/market-drip-category" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/market-drip-category" />
@@ -1236,7 +1344,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/market-drip-category</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/market-drip-category" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/market-drip-category" />
@@ -1245,7 +1353,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/us-stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/us-stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/us-stocks" />
@@ -1254,7 +1362,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/us-stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/us-stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/us-stocks" />
@@ -1263,7 +1371,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/us-stocks</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/us-stocks" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/us-stocks" />
@@ -1272,7 +1380,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/tech</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tech" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tech" />
@@ -1281,7 +1389,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/tech</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tech" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tech" />
@@ -1290,7 +1398,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/tech</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tech" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tech" />
@@ -1299,7 +1407,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/tsla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tsla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tsla" />
@@ -1308,7 +1416,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/tsla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tsla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tsla" />
@@ -1317,7 +1425,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/tsla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tsla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tsla" />
@@ -1326,7 +1434,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/tesla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tesla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tesla" />
@@ -1335,7 +1443,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/tesla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tesla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tesla" />
@@ -1344,7 +1452,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/tesla</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/tesla" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/tesla" />
@@ -1353,7 +1461,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/crypto</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
@@ -1362,7 +1470,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/crypto</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
@@ -1371,7 +1479,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/crypto</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/crypto" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/crypto" />
@@ -1380,7 +1488,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/en/tag/nvidia</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/nvidia" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/nvidia" />
@@ -1389,7 +1497,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ko/tag/nvidia</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/nvidia" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/nvidia" />
@@ -1398,7 +1506,7 @@
   </url>
   <url>
     <loc>https://market-drip.com/ja/tag/nvidia</loc>
-    <lastmod>2026-03-18T12:10:40.331Z</lastmod>
+    <lastmod>2026-03-30T13:22:05.430Z</lastmod>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://market-drip.com/en/tag/nvidia" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://market-drip.com/ko/tag/nvidia" />

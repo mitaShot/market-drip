@@ -30,17 +30,22 @@ export async function generateMetadata({ params }) {
 
     const baseUrl = 'https://market-drip.com';
 
+    const availableLangs = Object.keys(article.title || {});
+    const alternatesLanguages = {};
+    availableLangs.forEach(l => {
+        alternatesLanguages[l] = `${baseUrl}/${l}/article/${id}`;
+    });
+    const defaultLang = availableLangs.includes('en') ? 'en' : availableLangs[0];
+    if (defaultLang) {
+        alternatesLanguages['x-default'] = `${baseUrl}/${defaultLang}/article/${id}`;
+    }
+
     return {
         title: `${title} | Market Drip`,
         description: excerpt,
         alternates: {
             canonical: `${baseUrl}/${lang}/article/${id}`,
-            languages: {
-                'en': `${baseUrl}/en/article/${id}`,
-                'ko': `${baseUrl}/ko/article/${id}`,
-                'ja': `${baseUrl}/ja/article/${id}`,
-                'x-default': `${baseUrl}/en/article/${id}`,
-            },
+            languages: alternatesLanguages,
         },
         openGraph: {
             title: title,
