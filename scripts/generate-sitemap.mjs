@@ -8,6 +8,11 @@ const OUT_DIR = path.join(process.cwd(), 'public');
 const LANGUAGES = ['en', 'ko', 'ja'];
 
 
+function formatDate(date) {
+    const d = new Date(date);
+    return d.toISOString().replace(/\.\d{3}Z$/, 'Z');
+}
+
 function escapeXml(unsafe) {
     if (!unsafe) return '';
     return unsafe.replace(/[<>&'"]/g, function (c) {
@@ -77,7 +82,7 @@ function getPosts() {
 }
 
 function generateSitemap(allPosts) {
-    const now = new Date().toISOString();
+    const now = formatDate(new Date());
 
     // Group posts by ID to know which languages are available for each
     const groupedPosts = {};
@@ -111,7 +116,7 @@ function generateSitemap(allPosts) {
         availableLangs.forEach(lang => {
             entries.push({
                 loc: `${BASE_URL}/${lang}/article/${group.id}`,
-                lastmod: new Date(group.date).toISOString(),
+                lastmod: formatDate(group.date),
                 priority: '0.8',
                 pathSuffix: `/article/${group.id}`,
                 alternates: availableLangs
