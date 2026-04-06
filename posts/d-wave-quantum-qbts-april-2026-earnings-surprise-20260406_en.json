@@ -1,0 +1,195 @@
+{
+  "meta_info": {
+    "selected_ticker": "QBTS",
+    "selection_reason": "Cyclical uptrend amidst the quantum computing craze, high intraday volatility on April 1-2, and renewed institutional interest",
+    "references": [
+      {
+        "name": "D-Wave Quantum Q1 2026 실적 발표",
+        "url": "https://www.zacks.com/commentary/2892465/bear-of-the-day-d-wave-quantum-qbts"
+      },
+      {
+        "name": "양자컴퓨팅 순수 주식 성과 2026",
+        "url": "https://www.spinquanta.com/news-detail/quantum-computing-stocks-the-complete-2026-investment-guide"
+      },
+      {
+        "name": "4월 양자 종목 전망",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-triple-digit-price-180000535.html"
+      }
+    ]
+  },
+  "seo": {
+    "title": "QBTS April Shockwave - Who Will Survive the Quantum Computing Gamble?",
+    "meta_description": "D-Wave's recent earnings report shows a 179% revenue jump, so what's the problem? We easily break down why institutional money is flowing in and the risks ahead.",
+    "slug": "d-wave-quantum-qbts-april-2026-earnings-surprise-20260406",
+    "category": "Stocks",
+    "tags": [
+      "Quantum Computing",
+      "QBTS",
+      "AI",
+      "Tech Stocks",
+      "April Watch",
+      "High Growth Speculation"
+    ],
+    "published_date": "2026-04-06",
+    "author": "Research Team"
+  },
+  "content": {
+    "hook_summary": {
+      "heading": "3-Second Investment Core Summary",
+      "points": [
+        "Last year's revenue skyrocketed by a massive 179%, and January orders alone surpassed all of last year's, yet the stock shook over 7%, leaving everyone panicked.",
+        "Institutions seem to be loading up on shares, betting on the future value of quantum computers rather than worrying about short-term deficits.",
+        "Volatility is too high to go all-in right now, so it might be better to comfortably average in over 6 to 12 months."
+      ],
+      "claims": [
+        {
+          "what": "2025 overall revenue growth rate YoY",
+          "value": 179,
+          "url": "https://ir.dwavequantum.com/news/"
+        },
+        {
+          "what": "Temporary stock drop after record earnings release",
+          "value": 7,
+          "url": "https://www.tikr.com/ja/blog/"
+        },
+        {
+          "what": "Recommended short-term split purchase approach (months)",
+          "value": 6,
+          "url": ""
+        }
+      ]
+    },
+    "excerpt": "Amidst the quantum computing craze, D-Wave is putting up record-breaking numbers, but the stock price is swinging wildly up and down. Everything looks great, so what on earth is happening with this company?",
+    "sections": [
+      {
+        "type": "today_story",
+        "heading": "April's Confusion: Explosive Growth, But Why the Drop?",
+        "content": "Crazy, right? 2025 revenue surged 179% year-over-year. On top of that, pre-orders in January 2026 alone easily surpassed the entirety of last year's. But here's the funny part: even with such a stellar earnings report, the stock plunged over 7%, showing massive volatility. Everyone's scratching their heads, going, 'Wait, the numbers are so good, why is this happening?' The reason is simple. As fast as the company is growing, the money they're burning through operations is still huge. Even if future growth seems certain, the market gets anxious because they aren't turning a profit right now.",
+        "claims": [
+          {
+            "what": "The month this year that surpassed the total orders of 2025 in a single month",
+            "value": 1,
+            "url": "https://www.tikr.com/ja/blog/"
+          },
+          {
+            "what": "Fiscal year achieving recent record performance",
+            "value": 2025,
+            "url": "https://ir.dwavequantum.com/news/"
+          }
+        ]
+      },
+      {
+        "type": "price_talk",
+        "heading": "Nausea-Inducing Rollercoaster Chart",
+        "content": "Looking just at the chart, it's literally a nausea-inducing zone lately. You'd think it was holding the 14 dollar line, but within days it tumbled below 13 dollars, tossing and turning. Even in a broader market rally, this guy seems to be heavily walking on eggshells. This means a fierce psychological war is going on between retail investors and institutions. Compared to other pure-play quantum computing companies, its up-and-down swings are exceptionally severe. Nevertheless, looking at the trading volume, you can spot traces of institutions scooping it up, thinking this price level is the bottom.",
+        "claims": [
+          {
+            "what": "Recent volatility zone lower bound price (dollars)",
+            "value": 13,
+            "url": ""
+          },
+          {
+            "what": "Recent volatility zone upper bound price (dollars)",
+            "value": 14,
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "deep_dive",
+        "heading": "The Real Detonator Hidden Behind Flashy Earnings",
+        "content": "Oh right, something important! It looks flashy on the outside, but there's a hidden detonator. A 179% increase in revenue is commendable, but ultimately, they aren't providing any certainty on when they'll turn a profit. In times like these when money is drying up, funds tend to ruthlessly pull out of companies that aren't making money right now. No matter if pre-orders explode in 2026 and quantum tech hits a boom, the real risk is that the stock could get badly hurt if macroeconomic environments like global interest rate pressures or tech regulations stumble.",
+        "claims": [
+          {
+            "what": "Year of full-fledged pre-order surge and entering the turning point",
+            "value": 2026,
+            "url": "https://www.tikr.com/ja/blog/"
+          }
+        ]
+      },
+      {
+        "type": "news_talk",
+        "heading": "Pouring Polar Opposite News",
+        "content": "Just looking at the recent headlines sets the mood perfectly. News filled with cheers about exploding order volumes and cold-hearted articles about a 7% drop are pouring out at the same time. The funny thing is, Wall Street experts are still calling out a positive target price, saying that once this company turns a profit, the stock price could explosively reach the 40 dollar mark. With these polar opposite views clashing every day, the stock price has no choice but to dance.",
+        "claims": [
+          {
+            "what": "Long-term target price from a positive perspective (dollars)",
+            "value": 40,
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "flow_talk",
+        "heading": "Unusual Supply and Demand from the Whales",
+        "content": "To be honest, the movements of the whales are quite unusual. On the day the stock fell, trading volume actually popped to nearly 20 million shares, catching sight of someone sweeping up the supply. Of course, we can't be sure if this was caused by shorts covering borrowed shares or if real whales stepped in. But one thing is for sure: those viewing the future positively and those fearing the current deficits are fighting a bloody battle over this stock on the exchange.",
+        "claims": [
+          {
+            "what": "Massive trading volume that accompanied the stock drop (10 million shares)",
+            "value": 2,
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "peer_comparison",
+        "heading": "A Real Sword Fight with High-Flying Rivals",
+        "content": "Let's see how the rivals are doing, shall we? One of the competitors saw its stock jump nearly 5700% over the past period, sweeping up all the market's spotlight. D-Wave uses technology specialized in solving specific optimization problems, but the market tends to give more generous points to other technologies that can be used for general purposes. However, the fact that they are already printing out a 179% revenue increase based on commercialized services is a strength that rivals absolutely cannot ignore.",
+        "claims": [
+          {
+            "what": "Competitor's (Rigetti) stock surge rate over a specific past period",
+            "value": 5700,
+            "url": "https://www.spinquanta.com/"
+          }
+        ]
+      },
+      {
+        "type": "macro_watch",
+        "heading": "Tug-of-War Between Government Subsidies and Interest Rate Pressure",
+        "content": "Shall we draw a slightly bigger picture? Right now, the U.S. environment is quite tricky for companies aiming for a distant future jackpot like D-Wave. Since interest rates are high, the cost of raising capital is expensive. But they also have strong backing. That is the policy support aiming to seize AI hegemony. Because there's a high chance massive budgets will be released at the national level, you can consider the macroeconomic environment as a 50 to 50 mix of crisis and opportunity.",
+        "claims": [
+          {
+            "what": "Ratio of crisis to opportunity in the macro environment",
+            "value": 50,
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "game_plan",
+        "heading": "So, Do We Buy Now or Not?",
+        "bull_case": "A positive picture looks like this. The government massively expands the quantum budget, and global conglomerates rush to adopt the technology. If the momentum of filling last year's orders in January continues and they quickly reduce their deficit? Under this scenario, the current stock price around 13 dollars will be remembered later as an all-time bottom.",
+        "bear_case": "On the flip side, what if macro uncertainties prolong and commercialization gets delayed? No matter how great they are, if they can't shake off the chronic deficit tag, the stock won't escape a tedious downtrend. A heavy phase where the stock drops by 7% even on positive news could continue.",
+        "strategy": "Did that answer the initial curiosity of 'Everything is great, so why is it shaking?' It's because, in the end, they need to prove they can escape the deficit. In conclusion, going all-in right now is really dangerous. It swings severely up and down. Rather than buying all at once, a strategy of slowly averaging in over 6 to 12 months might put your mind at ease. You gotta hold on tight when riding a rollercoaster!",
+        "claims": [
+          {
+            "what": "Recommended long-term split purchase approach (months)",
+            "value": 12,
+            "url": ""
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "They say record-breaking orders came in, so why is the news constantly negative?",
+        "answer": "Ah, great question! A massive 179% surge in revenue and flooding orders is definitely a huge catalyst. But the market is asking, 'You're selling well, but when are you going to actually make a profit?' They have to definitively reduce the operating losses (deficits) before there's a real justification for the stock price to fly."
+      },
+      {
+        "question": "Isn't their technology a bit behind their competitors?",
+        "answer": "Rather than saying their technology is behind, it's more accurate to say their 'specialty' is different! If other companies are making skeleton keys, D-Wave is making a master key that picks specific locks incredibly fast. They are unrivaled in solving specific problems, but since the market is still more enthusiastic about skeleton keys, they haven't been the protagonist of a massive 5700% surge."
+      },
+      {
+        "question": "Then what should I look at for investing moving forward?",
+        "answer": "Just look at two things! First, you need to check if the 'quarterly deficit' announced by the company is shrinking rapidly. Second is news of U.S. interest rate cuts. Interest rates need to go down for high-growth companies like this to breathe easier. When these two signals appear, that will be the time to truly run."
+      }
+    ]
+  },
+  "chart": {
+    "ticker": "QBTS",
+    "chart_filename": "d-wave-quantum-qbts-april-2026-earnings-surprise-20260406_inner.webp",
+    "analysis": "**Technical:** Below 20-day MA (Bearish trend)\\n\\n**Sentiment:** RSI 37.2 (Neutral zone)\\n\\n**Key Range:** 1-month High $19.61, Low $12.75\\n\\n**Volume:** 17.19M (0.80x vs 20D avg)\\n\\n**Analyst targets:** Mean $37.40 (+161.2%) / Median $40.00 (Range $19.58–$45.00)",
+    "image_alt": "QBTS stock chart as of 2026-04-02: close $14.32 (+4.53%), RSI(14) 37.2, 1-month range $12.8–$19.6.",
+    "image_caption": "QBTS (2026-04-02): Bearish tone (below 20-day MA); Close $14.32 (+4.53%), RSI(14) 37.2."
+  }
+}
